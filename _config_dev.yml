@@ -1,0 +1,12 @@
+# Site Settings
+title: Sam Andreae
+email: sandreae@gmail.com
+description: >
+  The website of Sam Andreae.
+baseurl: ""
+url: "http://localhost:4000"
+sass:
+  sass_dir: _sass
+include: ['_pages']
+kramdown:
+  input: GFM

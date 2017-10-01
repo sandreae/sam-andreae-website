@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+{% include head.html %}
+<body>
+	{% include header.html %}
+	<main class="fade-out" id="main">
+		<article>
+			{{ content }}
+		</article>
+	</main>
+ 	<script>
+ 	function load() {
+        document.getElementById("main").className = ''
+        console.log("loaded")
+    }
+    window.onload = load;
+	</script>
+</body>
+</html>

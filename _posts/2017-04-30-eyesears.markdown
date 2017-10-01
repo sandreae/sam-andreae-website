@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Eyes are listening, ears are watching"
+location: Tokyo
+date: 2017-04-30
+categories: performance
+with: Mio Ebisu, David Birchall, Otto Willberg and Kouhei Sekigawa
+---
+
+![eyesears]({{ site.url }}/assets/documentation/eyesears.JPG){:class="img-small"}

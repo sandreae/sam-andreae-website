@@ -1,0 +1,35 @@
+- title: "Home"
+  href: "/home/"
+
+- title: "About"
+  href: "/about/"
+
+- title: "Contact"
+  href: "/contact/"
+
+- title: "Documentation"
+  href: "/documentation/"
+
+- title: "Projects"
+  href: "/projects/"
+  subcategories: 
+    - subtitle: "Soramame"
+      subhref-newtab: "http://soramame.co.uk"
+    - subtitle: "Rhizomatic"
+      subhref-newtab: "http://rhizomatic.community"
+    - subtitle: "HOFFNUNG 3000"
+      subhref-newtab: "http://hoffnung3000.de"
+    - subtitle: "Klangkeller"
+      subhref-newtab: "http://klangkeller.com"
+- title: "Releases"
+  href: "/releases/"
+
+- title: "Videos"
+  href: "/videos/"
+
+- title: "Compositions"
+  subcategories:
+    - subtitle: "curiously tea she said"
+      subhref:  "/compositions/curiouslyteashesaid/"
+    - subtitle: "everyone, always, honestly"
+      subhref: "/compositions/everyonealwayshonestly/"

@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+{% for post in site.posts %}
+		<h2>{{ post.title }}</h2>
+		<p>
+		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
+		<b>{{ post.location}}</b> with 
+		<i>{{ post.with}}</i>
+		</p>
+		{{ post.content }}
+{% endfor %}
+
+
