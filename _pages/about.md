@@ -6,7 +6,7 @@ permalink: /about/
 
 ## SAM ANDREAE
 
-![sam]({{ site.url }}/assets/img/bio/v3knowing1.JPG){:class="img-big"}
+![sam]({{ site.baseurl }}/assets/img/bio/v3knowing1.JPG){:class="img-big"}
 
 In both composition and improvisation I am intrigued by the processes and systems that function just bellow the surface of what we perceive to be music. Our own thoughts, senses, physical needs, emotional states and perception of others’ actions are as much a part of music as tonality, instrumentation or style. I see the act of music making as a series of interconnected actions and as an improviser or composer within this context I try to use a vocabulary that expresses these interests. This has lead me to explore the saxophone as a “sound object” rather than a musical instrument, striving for an objectivity within sound and a gestural approach to playing that places music in a wider context of art and performance. In my compositions I use these “background” elements as musical building blocks to create systems that performers can function freely within, the focus is placed on action and intention, with the aural results becoming products of this gestural process.
 
@@ -18,5 +18,5 @@ In both composition and improvisation I am intrigued by the processes and system
 
 >Decoder Magazine (2017) about “Cows In Large Pastures”
 
-![sam]({{ site.url }}/assets/img/bio/NOVEMBER4.jpg){:class="img-big"}
+![sam]({{ site.baseurl }}/assets/img/bio/NOVEMBER4.jpg){:class="img-big"}
 

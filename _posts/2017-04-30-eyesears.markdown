@@ -7,4 +7,4 @@ categories: performance
 with: Mio Ebisu, David Birchall, Otto Willberg and Kouhei Sekigawa
 ---
 
-![eyesears]({{ site.url }}/assets/documentation/eyesears.JPG){:class="img-small"}
+![eyesears]({{ site.baseurl }}/assets/documentation/eyesears.JPG){:class="img-small"}

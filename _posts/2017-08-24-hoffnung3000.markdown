@@ -7,4 +7,4 @@ categories: festival
 with: over 30 participants
 ---
 
-![hoffnung3000]({{ site.url }}/assets/documentation/hoffnung.JPG){:class="img-small"}
+![hoffnung3000]({{ site.baseurl }}/assets/documentation/hoffnung.JPG){:class="img-small"}
