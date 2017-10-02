@@ -3,13 +3,15 @@ layout: default
 ---
 
 {% for post in site.posts %}
-		<h2>{{ post.title }}</h2>
-		<p>
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time>
-		<b>{{ post.location}}</b> with 
-		<i>{{ post.with}}</i>
-		</p>
-		{{ post.content }}
+	<div class="posts">
+		<a href="{{post.link}}">
+			<img src="{{ site.baseurl }}/assets/documentation/{{post.img}}" alt="{{ post.title }}" class="img-small">
+		</a>
+		<br>
+		<b>{{ post.title }}</b> <time>{{ post.date | date: "%b %-d, %Y" }}</time> {{ post.location}}<br>
+		{{post.description}}
+		<br>
+		with <i>{{ post.with}}</i>
+	</div>
 {% endfor %}
-
 
