@@ -3,8 +3,8 @@ title: Sam Andreae
 email: sandreae@gmail.com
 description: >
   The website of Sam Andreae.
-baseurl: "/sam-andreae-website"
-url: "http://sandreae.github.io"
+baseurl: ""
+url: "www.samandreae.com"
 sass:
   sass_dir: _sass
 include: ['_pages']
