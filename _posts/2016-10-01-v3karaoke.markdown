@@ -1,0 +1,9 @@
+---
+layout: post
+title: v3K:araoke
+description: composition for 4 people
+date: 2016-10-01
+categories: works
+link: /compositions/v3karaoke
+img: /v3karaoke.jpg
+---

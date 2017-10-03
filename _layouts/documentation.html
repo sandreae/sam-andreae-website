@@ -3,15 +3,19 @@ layout: default
 ---
 
 {% for post in site.posts %}
-	<div class="posts">
+	<div class="documentation">
+		{% if post.img %}
 		<a href="{{post.link}}">
-			<img src="{{ site.baseurl }}/assets/documentation/{{post.img}}" alt="{{ post.title }}" class="img-small">
+			<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
 		</a>
 		<br>
-		<b>{{ post.title }}</b> <time>{{ post.date | date: "%b %-d, %Y" }}</time> {{ post.location}}<br>
-		{{post.description}}
-		<br>
-		with <i>{{ post.with}}</i>
+		{% endif %}
+	    {{post.content}}
+		<table>
+		<tr><td><b>{{ post.title }}</b></td></tr>
+		<tr><td>{{ post.location}} <time>{{ post.date | date: "%b %-d, %Y" }}</time></td></tr>
+		<tr><td>{{post.description}}</td></tr>
+		<tr><td>{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}</td></tr>
+		</table>
 	</div>
 {% endfor %}
-

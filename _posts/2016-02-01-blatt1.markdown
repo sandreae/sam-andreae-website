@@ -1,0 +1,9 @@
+---
+layout: post
+title: BLATT 3000 #05
+description: "'everyone, always, honestly' published in music zine BLATT 3000"
+date: 2016-02-01
+categories: documentation
+link: https://blatt3000.de/
+img: /blatt1.JPG
+---

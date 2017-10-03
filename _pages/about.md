@@ -15,7 +15,7 @@ In both composition and improvisation I am intrigued by the processes and system
 
 >Decoder Magazine (2017) about “Cows In Large Pastures”
 
->*what Sam Andreae does is liminal music, he shows you the clicks, the noises, the breaths, the rattle and hum that producers normally want to take off the record*
+>*"what Sam Andreae does is liminal music, he shows you the clicks, the noises, the breaths, the rattle and hum that producers normally want to take off the record"*
 
 >John Doran, Quietus (2017) on BBC 3 Late Junction
 

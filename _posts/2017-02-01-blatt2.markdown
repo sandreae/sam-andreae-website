@@ -1,0 +1,9 @@
+---
+layout: post
+title: BLATT 3000 #07
+description: "'v3k' composition series published in BLATT 3000"
+date: 2017-02-01
+categories: documentation
+link: https://blatt3000.de/
+img: /blatt2.JPG
+---

@@ -6,8 +6,8 @@
 </description>
     <link>http://localhost:4000/</link>
     <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
-    <pubDate>Mon, 02 Oct 2017 16:24:58 +0200</pubDate>
-    <lastBuildDate>Mon, 02 Oct 2017 16:24:58 +0200</lastBuildDate>
+    <pubDate>Tue, 03 Oct 2017 09:51:33 +0200</pubDate>
+    <lastBuildDate>Tue, 03 Oct 2017 09:51:33 +0200</lastBuildDate>
     <generator>Jekyll v3.5.2</generator>
     
       <item>
@@ -28,24 +28,24 @@
         <description>
 </description>
         <pubDate>Thu, 24 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/festival/2017/08/24/hoffnung3000.html</link>
-        <guid isPermaLink="true">http://localhost:4000/festival/2017/08/24/hoffnung3000.html</guid>
+        <link>http://localhost:4000/works/2017/08/24/hoffnung3000.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/2017/08/24/hoffnung3000.html</guid>
         
         
-        <category>festival</category>
+        <category>works</category>
         
       </item>
     
       <item>
-        <title>Rhizomatic Launched</title>
-        <description>
+        <title>Rhizomatic</title>
+        <description>&lt;p&gt;&lt;a href=&quot;https://github.com/sandreae/rhizomatic&quot;&gt;github page&lt;/a&gt;&lt;/p&gt;
 </description>
         <pubDate>Sun, 20 Aug 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/platform/2017/08/20/rhizomatic.html</link>
-        <guid isPermaLink="true">http://localhost:4000/platform/2017/08/20/rhizomatic.html</guid>
+        <link>http://localhost:4000/works/2017/08/20/rhizomatic.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/2017/08/20/rhizomatic.html</guid>
         
         
-        <category>platform</category>
+        <category>works</category>
         
       </item>
     
@@ -54,11 +54,11 @@
         <description>
 </description>
         <pubDate>Sun, 30 Apr 2017 00:00:00 +0200</pubDate>
-        <link>http://localhost:4000/performance/2017/04/30/eyesears.html</link>
-        <guid isPermaLink="true">http://localhost:4000/performance/2017/04/30/eyesears.html</guid>
+        <link>http://localhost:4000/works/2017/04/30/eyesears.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/2017/04/30/eyesears.html</guid>
         
         
-        <category>performance</category>
+        <category>works</category>
         
       </item>
     
@@ -72,6 +72,73 @@
         
         
         <category>concert</category>
+        
+      </item>
+    
+      <item>
+        <title>Cows In Large Pastures release concert</title>
+        <description>&lt;iframe src=&quot;https://player.vimeo.com/video/231704969?portrait=0&quot; width=&quot;310&quot; height=&quot;180&quot; frameborder=&quot;0&quot; webkitallowfullscreen=&quot;&quot; mozallowfullscreen=&quot;&quot; allowfullscreen=&quot;&quot;&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Mon, 13 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/concert/2017/03/13/lewisham.html</link>
+        <guid isPermaLink="true">http://localhost:4000/concert/2017/03/13/lewisham.html</guid>
+        
+        
+        <category>concert</category>
+        
+      </item>
+    
+      <item>
+        <title>Cows In Large Pastures</title>
+        <description>&lt;iframe style=&quot;border: 0; width: 300px; height: 300px;&quot; src=&quot;https://bandcamp.com/EmbeddedPlayer/album=3828133276/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/&quot; seamless=&quot;&quot;&gt;&lt;a href=&quot;http://slipimprint.bandcamp.com/album/cows-in-large-pastures&quot;&gt;Cows In Large Pastures by Sam Andreae&lt;/a&gt;&lt;/iframe&gt;
+</description>
+        <pubDate>Sun, 12 Mar 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/release/works/2017/03/12/cows.html</link>
+        <guid isPermaLink="true">http://localhost:4000/release/works/2017/03/12/cows.html</guid>
+        
+        
+        <category>release</category>
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>BLATT 3000</title>
+        <description>
+</description>
+        <pubDate>Wed, 01 Feb 2017 00:00:00 +0100</pubDate>
+        <link>http://localhost:4000/documentation/2017/02/01/blatt2.html</link>
+        <guid isPermaLink="true">http://localhost:4000/documentation/2017/02/01/blatt2.html</guid>
+        
+        
+        <category>documentation</category>
+        
+      </item>
+    
+      <item>
+        <title>v3K:nowing Each Other</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/works/2016/10/01/v3knowing.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/2016/10/01/v3knowing.html</guid>
+        
+        
+        <category>works</category>
+        
+      </item>
+    
+      <item>
+        <title>v3K:araoke</title>
+        <description>
+</description>
+        <pubDate>Sat, 01 Oct 2016 00:00:00 +0200</pubDate>
+        <link>http://localhost:4000/works/2016/10/01/v3karaoke.html</link>
+        <guid isPermaLink="true">http://localhost:4000/works/2016/10/01/v3karaoke.html</guid>
+        
+        
+        <category>works</category>
         
       </item>
     
