@@ -6,7 +6,7 @@ location: www
 date: 2017-08-20
 categories: works
 with: Rodrigo Constanzo
-link: https://www.rhizomatic.community
+link: http://www.rhizomatic.community
 img: rhizomatic.png
 ---
 [github page](https://github.com/sandreae/rhizomatic)
