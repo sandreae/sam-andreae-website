@@ -23,4 +23,3 @@ Performance Notes:
 [download the score]({{ site.baseurl }}/assets/downloads/Curiously Tea She Said.zip)
 
 ![score]({{ site.baseurl }}/assets/img/curiously/curiously_tea_she_said-1.png){:class="img-big"}
-
