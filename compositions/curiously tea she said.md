@@ -20,7 +20,6 @@ Performance Notes:
 *Sam Andreae 
 2016*
 
-[download the score]({{ site.url }}/assets/downloads/Curiously Tea She Said.zip)
+[download the score]({{ site.baseurl }}/assets/downloads/Curiously Tea She Said.zip)
 
-![score]({{ site.url }}/assets/img/curiously/curiously_tea_she_said-1.png){:class="img-big"}
-
+![score]({{ site.baseurl }}/assets/img/curiously/curiously_tea_she_said-1.png){:class="img-big"}

@@ -1,10 +1,12 @@
 ---
 layout: post
 title: "HOFFNUNG 3000"
+description: decentralized and anonymized festival for art, music and theory
 location: Berlin
 date: 2017-08-24
-categories: festival
-with: over 30 participants
+categories: project
+with: participants
+link: http://www.hoffnung3000.de
+img: hoffnung.JPG
 ---
 
-![hoffnung3000]({{ site.url }}/assets/documentation/hoffnung.JPG){:class="img-small"}

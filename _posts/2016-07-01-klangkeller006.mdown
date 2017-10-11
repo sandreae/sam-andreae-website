@@ -1,0 +1,10 @@
+---
+layout: post
+title: "KLANGKELLER #006"
+description: an experimental space for musical and unmusical activities
+date: 2016-07-01
+categories: klangkeller
+link: http://klangkeller.net/
+img: /klangkeller6.JPG
+with: Otto Willber, Mio Ebisu and Rogier Smal
+---

@@ -1,0 +1,10 @@
+---
+layout: post
+title: "Solo"
+description: solo electro-acoustic saxophone album
+date: 2015-05-01
+location: Tombed Visions
+categories: release
+---
+
+<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1156789024/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/solo">Solo by Sam Andreae</a></iframe>

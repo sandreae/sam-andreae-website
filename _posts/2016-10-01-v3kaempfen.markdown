@@ -1,0 +1,9 @@
+---
+layout: post
+title: v3K:ämpfen
+description: composition for 2 or more people
+date: 2016-10-01
+categories: composition
+link: /compositions/v3kaempfen.html
+img: /v3kaempfen.JPG
+---

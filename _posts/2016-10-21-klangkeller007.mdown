@@ -1,0 +1,10 @@
+---
+layout: post
+title: "KLANGKELLER #007"
+description: an experimental space for musical and unmusical activities
+date: 2016-10-21
+categories: klangkeller
+link: http://klangkeller.net/
+img: /klangkeller7.JPG
+with: Julia Reidy, Laura Weber, Adam Pultz Melbye, Shasta Ellenbogen and Klaas Huebner
+---

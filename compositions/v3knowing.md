@@ -1,0 +1,11 @@
+---
+layout: composition
+title: v3K:nowing Each Other
+permalink: /compositions/v3knowing
+---
+
+<object data="{{ site.baseurl }}/assets/downloads/v3knowing.pdf" type="application/pdf" width="100%" height="700px">
+    <embed src="{{ site.baseurl }}/assets/downloads/v3knowing.pdf">
+        This browser does not support PDFs. Please download the PDF to view it: <a href="{{ site.baseurl }}/assets/downloads/v3knowing.pdf">Download PDF</a>.</p>
+    </embed>
+</object>

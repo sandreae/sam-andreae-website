@@ -1,0 +1,10 @@
+---
+layout: post
+title: "STEIM residency"
+description: developing ciat-lombarde augmented sax
+location: STEIM, Amsterdamn
+date: 2012-04-04
+categories: project
+link: http://steim.org/projectblog/2012/05/17/sam-andreae-instrument-lab/
+img: /electrosax.jpg
+---

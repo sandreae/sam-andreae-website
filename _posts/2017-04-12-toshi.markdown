@@ -1,0 +1,13 @@
+---
+layout: post
+title: "Andreae/Birchall/Willberg/Nakamura"
+description: concert at Ftarri experimental music record store
+location: Tokyo
+date: 2017-04-12
+categories: concert
+with: Toshimaru Nakamura, David Birchall, Otto Willberg
+link: http://www.ftarri.com/suidobashi/index-e.html
+img: toshi.JPG
+---
+
+<iframe src="https://player.vimeo.com/video/222215022?byline=0&portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
