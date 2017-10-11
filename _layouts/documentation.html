@@ -10,12 +10,12 @@ layout: default
 		</a>
 		<br>
 		{% endif %}
-	    {{post.content}}
 		<table>
 		<tr><td><b>{{ post.title }}</b></td></tr>
 		<tr><td>{{ post.location}} <time>{{ post.date | date: "%b %-d, %Y" }}</time></td></tr>
 		<tr><td>{{post.description}}</td></tr>
 		<tr><td>{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}</td></tr>
+		<tr><td>{{post.content}}</td></tr>
 		</table>
 	</div>
 {% endfor %}

@@ -4,7 +4,7 @@ title: "Rhizomatic"
 description: web platform for community discourse through creative actions
 location: www
 date: 2017-08-20
-categories: works
+categories: project
 with: Rodrigo Constanzo
 link: http://www.rhizomatic.community
 img: rhizomatic.png

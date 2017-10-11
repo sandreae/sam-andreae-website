@@ -1,0 +1,10 @@
+---
+layout: post
+title: "KLANGKELLER #008"
+description: an experimental space for musical and unmusical activities
+date: 2016-11-25
+categories: klangkeller
+link: http://klangkeller.net/
+img: /klangkeller8.JPG
+with: Alexander Frangenheim, Niklas Fite, Vilhelm Bromander and IGNITE
+---

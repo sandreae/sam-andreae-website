@@ -10,11 +10,17 @@
 - title: "Documentation"
   href: "/documentation/"
 
-- title: "Works"
-  href: "/works/"
+- title: "Compositions"
+  href: "/compositions/"
+
+- title: "Projects"
+  href: "/projects/"
 
 - title: "Releases"
   href: "/releases/"
 
 - title: "Videos"
   href: "/videos/"
+
+- title: "Calendar"
+  href: "/calendar/"

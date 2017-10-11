@@ -3,8 +3,8 @@ layout: post
 title: v3K:nowing Each Other
 description: composition for 2 or more people
 date: 2016-10-01
-categories: works
-link: /compositions/v3knowing
+categories: composition
+link: /compositions/v3knowing.html
 img: /v3knowing1.JPG
 
 ---

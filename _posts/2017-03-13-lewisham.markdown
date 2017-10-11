@@ -1,7 +1,6 @@
 ---
 layout: post
 title: "Cows In Large Pastures release concert"
-description: concert at Ftarri experimental music record store
 location: Lewisham Arthouse, London
 date: 2017-03-13
 categories: concert

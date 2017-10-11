@@ -3,8 +3,8 @@ layout: post
 title: "Everyone, Always, Honestly"
 description: graphic compositional method
 date: 2016-07-10
-categories: works
-link: /compositions/everyonealwayshonestly
+categories: composition
+link: /compositions/everyonealwayshonestly.html
 img: /everyone/img.jpeg
 
 ---

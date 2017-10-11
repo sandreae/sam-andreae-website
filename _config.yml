@@ -5,6 +5,8 @@ description: >
   The website of Sam Andreae.
 baseurl: ""
 url: "www.samandreae.com"
+destination: "../_site"
+keep_files: [_subsites]
 sass:
   sass_dir: _sass
 include: ['_pages']

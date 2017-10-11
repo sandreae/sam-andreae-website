@@ -9,3 +9,5 @@ with: Toshimaru Nakamura, David Birchall, Otto Willberg
 link: http://www.ftarri.com/suidobashi/index-e.html
 img: toshi.JPG
 ---
+
+<iframe src="https://player.vimeo.com/video/222215022?byline=0&portrait=0" width="300" height="169" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
