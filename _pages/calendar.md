@@ -13,7 +13,7 @@ permalink: /calendar/
 |August 21st - 23rd| Favourite Animals Recording| London|
 |August 9th| HOFFNUNG 3000 Press Conference| Tempelhoferfeld, Berlin|
 |June 19th - 30th| Sloth Racket UK Tour| UK |
-|May 9th| concert with Aya Ogawa, Klaus Kürvers and Julia Reidy  | Liebig12, Berlin|
+|May 9th| concert with Aya Ogawa, Klaus Kürvers and Julia Reidy  | Sowieso, Berlin|
 |April 21st| solo concert | Liebig12, Berlin|
 |April 5th - April 19th| Andreae, Birchall, Willberg & Mio Ebisu Japan Tour| Tokyo, Hakodate, Kyoto, Nagoya, Beppu|
 |March 24th| "Cows In Large Pastures" with Laurie Tompkins, Susie Whaites and Otto Willberg| Manchester|
