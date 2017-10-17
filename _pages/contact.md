@@ -4,4 +4,4 @@ title: Contact
 permalink: /contact/
 ---
 
-My e-mail is sandreae[at]gmail.com
+My e-mail is contact[at]samandreae.com
