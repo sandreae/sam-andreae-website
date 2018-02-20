@@ -10,3 +10,5 @@ link: http://www.rhizomatic.community
 img: rhizomatic.png
 ---
 [github page](https://github.com/sandreae/rhizomatic)
+
+![rhizomatic](/assets/videos/rhizomatic.gif){:class="img-big"}

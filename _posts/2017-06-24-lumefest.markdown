@@ -1,0 +1,11 @@
+---
+layout: post
+title: "LUME Fest"
+description: LUME Fest at Iklektic in London
+date: 2017-06-24
+location: Iklektic, London
+categories: show
+img: lume_fest.jpeg
+---
+
+Super festival organised by Cath and Dee at [LUME](http://lumemusic.co.uk/), I performed with [Sloth Racket](https://slothracket.bandcamp.com/) and the LUMEkestra, who also played a new composition of mine.

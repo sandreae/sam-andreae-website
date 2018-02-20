@@ -9,11 +9,8 @@ layout: default
 		<table>
 		<tr>
 		<td rowspan = "2" class="img-row">
-		{% if post.img %}
-		<a href="{{post.link}}">
-			<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
+		<a href="{{post.link}}">{{ post.title }}
 		</a>
-		{% endif %}
 		</td>
 		</tr>
 		<tr>

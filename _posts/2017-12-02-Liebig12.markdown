@@ -1,0 +1,13 @@
+---
+layout: post
+title: "The Livingroom by Soramame"
+description: Installation by Soramame
+location: Liebig12, berlin
+date: 2017-09-23
+categories: exhibition
+with: Mio Ebisu, Soramame
+link:
+img: liebig12.JPG
+---
+
+[Soramame](http://www.soramame.co.uk) (aka me and [Mio Ebisu](http://www.mioebisu.com/)) spent a great week at [Liebig12](http://www.liebig12.net/) building our installation The Livingroom. Massive thanks to Gaia at Liebig for inviting us into the space :-)

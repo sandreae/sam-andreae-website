@@ -1,14 +1,19 @@
 ---
 layout: default
 ---
-
+<div class="docu-flex-container">
 {% for post in site.posts %}
 	<div class="documentation">
 		{% if post.img %}
+		{% if post.link %}
 		<a href="{{post.link}}">
 			<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
 		</a>
 		<br>
+		{% else %}
+		<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
+		<br>
+		{% endif %}
 		{% endif %}
 		<table>
 		<tr><td><b>{{ post.title }}</b></td></tr>
@@ -19,3 +24,4 @@ layout: default
 		</table>
 	</div>
 {% endfor %}
+</div>

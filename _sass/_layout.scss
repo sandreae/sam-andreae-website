@@ -67,12 +67,20 @@ main {
 	margin-top: 10px;
 }
 
+.docu-flex-container {
+    column-count: 3;
+    column-gap: 1em;
+}
+
 .documentation {
-	width: 400px;
-	min-height: 400px;
-	margin: auto; 
-	padding-bottom: 20px;
-	padding-top: 20px;
+	width: 100%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	display: inline-block;
+	border: dotted;
+	border-color: red;
 }
 
 #background-img {
