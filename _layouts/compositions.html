@@ -7,19 +7,15 @@ layout: default
 
 	<div class="compositions">
 		<table>
-		<tr>
-		<td rowspan = "2" class="img-row">
-		<a href="{{post.link}}">{{ post.title }}
-		</a>
-		</td>
-		</tr>
-		<tr>
-		<td>
-		<b>{{ post.title }}</b><br>
-		<time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
-		{{post.description}}<br>
-		{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}
-		</td></tr>
+
+			<tr>
+				<td>
+					<a href="{{post.link}}">{{ post.title }}</a><br>
+					<time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
+					{{post.description}}<br>
+					{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}
+				</td>
+			</tr>
 		</table>
 	</div>
 {% endfor %}
