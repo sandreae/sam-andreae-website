@@ -3,7 +3,7 @@ layout: post
 title: "The Livingroom by Soramame"
 description: Installation by Soramame
 location: Liebig12, berlin
-date: 2017-09-23
+date: 2017-12-01
 categories: exhibition
 with: Mio Ebisu, Soramame
 link:

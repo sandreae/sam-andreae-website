@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "KLANGKELLER Season 1"
-description: an experimental space for musical and unmusical activities
+description: KLANGKELLER is a performance and exhibition space for art, music and theory.
 date: 2016-04-01
 categories: klangkeller
 link: http://klangkeller.net/

@@ -15,13 +15,19 @@ layout: default
 		<br>
 		{% endif %}
 		{% endif %}
-		<table>
-		<tr><td><b>{{ post.title }}</b></td></tr>
-		<tr><td>{{ post.location}} <time>{{ post.date | date: "%b %-d, %Y" }}</time></td></tr>
-		<tr><td>{{post.description}}</td></tr>
-		<tr><td>{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}</td></tr>
-		<tr><td>{{post.content}}</td></tr>
-		</table>
+		<b>{{ post.title }}</b><br>
+		{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
+		{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
+		{% if post.with %}with <i>{{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>{% endif %}
+
+		{% assign word_count = post.content | size %}
+		{% if word_count > 1000 %}
+			{{ post.content | truncatewords:120 }}
+			<a href="{{ site.baseurl }}{{ post.url}}" class="read-more">Read More</a>
+		{% else %}
+			{{post.content}}
+		{% endif %}
+
 	</div>
 {% endfor %}
 </div>

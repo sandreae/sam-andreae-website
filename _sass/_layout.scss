@@ -59,6 +59,36 @@ a:hover {
 	text-decoration: underline;
 }
 
+.single-flex-container {
+    column-count: 1;
+    column-gap: 1em;
+    width: 95%;
+    margin: auto;
+
+  @include tablet {
+    column-count: 1;
+    column-gap: 1em;
+    width: 95%;
+    margin: auto;
+  }
+
+  @include desktop {
+    column-count: 1;
+    column-gap: 1em;
+    width: 80%;
+    margin: auto;
+  }
+}
+
+.single-post {
+	width: 100%;
+	margin-top: 3em;
+	padding: 3em;
+	display: inline-block;
+	border: dotted;
+	border-color: red;
+}
+
 .projects {
 	width: 400px;
 	margin: auto; 
@@ -88,6 +118,7 @@ a:hover {
 }
 
 .documentation {
+	overflow: hidden;
 	width: 100%;
 	margin-bottom: 1em;
 	margin-top: 1em;
@@ -123,6 +154,22 @@ a:hover {
 time {
 	color: #898989;
 }
+
+
+.scrolling {
+  display: inline-block;
+  white-space: nowrap;
+  animation: floatText 5s infinite linear;
+  padding-left: 100%; /*Initial offset*/
+  color: red;
+}
+
+@keyframes floatText {
+  to {
+    transform: translateX(-100%);
+  }
+}
+
 
 
 /* Aside */
