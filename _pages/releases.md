@@ -4,28 +4,65 @@ title: Releases
 permalink: /releases/
 ---
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1161177469/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://heavypettingtime.bandcamp.com/album/hair-in-the-chimney">Hair in the Chimney by Sam Andreae, David Birchall, Otto Willberg</a></iframe>
+**[Live in Beppu](https://davidbirchall.bandcamp.com/album/live-in-beppu)** Andreae/Birchall/Willberg  
+*[Vernacular](https://davidmbirchall.com/vernacular/) / [Heavy Petting](https://heavypettingtime.bandcamp.com/) February 2018*  
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1741688504/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidbirchall.bandcamp.com/album/live-in-beppu">Live in Beppu by Sam Andreae David Birchall Otto Willberg</a></iframe> 
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=3828133276/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://slipimprint.bandcamp.com/album/cows-in-large-pastures">Cows In Large Pastures by Sam Andreae</a></iframe>
+**[Favourite Animals](https://slothracket.bandcamp.com/album/favourite-animals)** Favourite Animals  
+*[Luminous](http://lumemusic.co.uk/) December 2017*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1949355709/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://soundanatomy.bandcamp.com/album/hyperpunkt">Hyperpunkt by Richard Scott&#39;s Lightning Ensemble</a></iframe>
+**[Hyperpunkt](https://soundanatomy.bandcamp.com/album/hyperpunkt)** Richard Scott's Lightning Ensemble  
+*[Sound Anatomy](http://soundanatomy.com/) November 2017*  
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1949355709/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://soundanatomy.bandcamp.com/album/hyperpunkt">Hyperpunkt by Richard Scott&#39;s Lightning Ensemble</a></iframe>
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=97060440/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://samottomio.bandcamp.com/album/i-go-out-to-find-bugs">I go out to find bugs by sam&amp;otto&amp;mio</a></iframe>
+**[Shape Shifters](https://slothracket.bandcamp.com/album/shapeshifters)** Sloth Racket  
+*[Luminous](http://lumemusic.co.uk/) June 2017*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1613680851/size=large/bgcol=ffffff/linkcol=0687f5/minimal=true/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/the-difficult-second-album">The Difficult Second Album by Sam Andreae/David Birchall/Andrew Cheetham</a></iframe>
+**[Hair In The Chimney](https://heavypettingtime.bandcamp.com/album/hair-in-the-chimney)** Andreae/Birchall/Willberg  
+*[Vernacular](https://davidmbirchall.com/vernacular/) / [Heavy Petting](https://heavypettingtime.bandcamp.com/) April 2017*  
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3828133276/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=878248377/transparent=true/" seamless><a href="http://slipimprint.bandcamp.com/album/cows-in-large-pastures">Cows In Large Pastures by Sam Andreae</a></iframe>
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1156789024/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/solo">Solo by Sam Andreae</a></iframe>
+**[Cows In Large Pastures](https://slipimprint.bandcamp.com/album/cows-in-large-pastures)** Sam Andreae  
+*[SLIP](http://www.slipimprint.co.uk/) April 2017*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=3719127861/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://slothracket.bandcamp.com/album/shapeshifters">Shapeshifters by Sloth Racket</a></iframe>
+**[The Difficult Second Album](https://tombedvisionsrecords.bandcamp.com/album/the-difficult-second-album)** Andreae/Birchall/Cheetham  
+*[Tombed Visions](https://tombedvisionsrecords.bandcamp.com/) March 2017*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=2448933602/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://ottowillberg.bandcamp.com/album/all-shirt-and-no-tie">All Shirt And No Tie by K*mistry</a></iframe>
+**[All Shirt and No Tie](https://ottowillberg.bandcamp.com/album/all-shirt-and-no-tie)** K*Mistry  
+*self-release June 2016*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=3367499373/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://soramameaudiobook.bandcamp.com/album/audiobook-10">Audiobook 1.0 by Soramame</a></iframe>
+**[I Go Out To Find Bugs](https://samottomio.bandcamp.com/album/i-go-out-to-find-bugs)** sam&mio&otto  
+*self-release May 2016*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=3707833237/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/i-didnt-mind-you-improvising-i-just-wish-youd-done-it-better">I Didn&#39;t Mind You Improvising, I Just Wish You&#39;d Done It Better by Andreae/Birchall/Cheetham</a></iframe>
+**[Audiobook 1.0](https://soramameaudiobook.bandcamp.com/album/audiobook-10)** Soramame  
+*self-release September 2015*  
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=1351086264/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://trioriot.bandcamp.com/album/trio-riot">Trio Riot by Trio Riot</a></iframe>
+**[SOLO](https://tombedvisionsrecords.bandcamp.com/album/solo)** Sam Andreae  
+*[Tombed Visions](https://tombedvisionsrecords.bandcamp.com/) May 2015*  
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1156789024/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/solo">Solo by Sam Andreae</a></iframe>
 
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=3176400184/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://silenceblossoms.bandcamp.com/album/silence-blossoms">Silence Blossoms by Silence Blossoms</a></iframe>
-    
-<iframe style="border: 0; width: 200px; height: 200px;" src="https://bandcamp.com/EmbeddedPlayer/album=2845800439/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://silenceblossoms.bandcamp.com/album/live-at-skurup">Live at Skurup by Silence Blossoms</a></iframe>
+**[I Did't Mind You Improvising, I Just Wish You'd Done It Better](https://tombedvisionsrecords.bandcamp.com/album/i-didnt-mind-you-improvising-i-just-wish-youd-done-it-better)** Andreae/Birchall/Cheetham  
+*[Tombed Visions](https://tombedvisionsrecords.bandcamp.com/) January 2015*  
+
+**[Silence Blossoms](https://silenceblossoms.bandcamp.com/album/silence-blossoms)** Silence Blossoms  
+*Efpi Records July 2014*  
+
+**[Live at Skurup](https://silenceblossoms.bandcamp.com/album/live-at-skurup)** Silence Blossoms  
+*Efpi Records July 2014*  
+
+**[Trio Riot](https://trioriot.bandcamp.com/releases)** Trio Riot  
+*Efpi Records March 2014*  
+
+appears on  
+
+**[Article XI](https://antonhuntermusic.bandcamp.com/album/article-xi)** Anton hunter  
+*Efpi Feb 2018*  
+
+**[Wasps/Wolves Trio EP](https://slothracket.bandcamp.com/album/wasps-wolves-trios-ep)** Favourite Animals  
+*[Luminous](http://lumemusic.co.uk/) Feb 2018*  
+
+**[Heat War Sweat Law](https://slipimprint.bandcamp.com/album/heat-war-sweat-law)** Laurie Tompkins  
+*[SLIP](http://www.slipimprint.co.uk/) May 2016*  
+
+**[WHATSAPPITE](https://slipimprint.bandcamp.com/album/whatsappite)** Odie Ji Ghast & Otto Willberg  
+*[SLIP](http://www.slipimprint.co.uk/) November 2016*  
