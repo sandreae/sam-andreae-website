@@ -4,11 +4,11 @@ title: Contact
 permalink: /contact/
 ---
 
-CONTACT
+#### CONTACT  
 
 email: contact [at] samandreae.com  
 
-LINKS
+#### LINKS  
 http://github.com/sandreae  
 http://www.klangkeller.net/  
 http://hoffnung3000.de/  

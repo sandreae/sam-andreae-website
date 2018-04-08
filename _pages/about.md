@@ -7,7 +7,7 @@ permalink: /about/
 # SAM ANDREAE
 *www.samandreae.com*
 
-Email: contact@samandreae.com		
+Email: contact [at] samandreae.com		
 
 **Sam Andreae** (born in Manchester in 1985) has been active across Europe over the last decade as a musician, composer and organiser. After graduating from the Royal Northern College of Music in 2008 he soon became enthused by improvisation as a performance practice and it’s wider implications as a socially critical art form. Continuing his studies in Scandinavia, he explored composition and it’s relationship with improvisation and was particularly influenced at this time by his meetings with the composer Christian Wolff. Since moving to Berlin in 2015, as well as performing regularly, Sam has established the performance series KLANGKELLER and became a member of BLATT 3000, a community of artists exploring decentralized organisational and collaborative creation methods.
 

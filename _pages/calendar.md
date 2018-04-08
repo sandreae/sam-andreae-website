@@ -4,7 +4,20 @@ title: Calendar
 permalink: /calendar/
 ---
 
+| **2018** |||
+|September 14th + 15th| Sociosonic Conference | City University + Iklectik, London |
+|April 5th| "Untitled" performed at "Neo Hückler's breaking of the voice" | Ausland, Berlin |
+|April 5th| performance with CUEE | Iklectik, London |
+|March 29th| workshop with City University Experimental Ensemble (CUEE) | London |
+|March 23rd| performance with Seht Kahn, Aziz Lewandowski and Kae-san | KLANGKELLER #018, Berlin |
+|March 9th| KLANGKELLER #017 | Berlin |
+|February 17th| Andreae / Birchall / Willberg | Wraclow, Poland |
+|February 16th| Andreae / Birchall / Willberg | KLANGKELLER #016, Berlin |
+|February 9th|  Playtime Playalong | KLANGKELLER #015, Berlin |
+|January 26th| Playtime Playalong by/with Neo Hülcker | KLANGKELLER #014, Berlin |
+|January 19th|  The Living Room VR experience | KLANGKELLER #013, Berlin |
 | **2017** |||
+|December 15th| KLANGKELLER #012 - BLATT 3000 special | berlin |
 |December 3rd - 11th| Article XI / Favourite Animals Tour | UK
 |November 28th - December 1st| Sloth Racket recording and concert| London|
 |September 22nd - 24th| HOFFNUNG3000 talk at Pixelache Festival| Helsinki|
