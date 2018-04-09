@@ -1,15 +1,16 @@
 ---
 layout: default
 ---
-
-
-<span class="compositions">
-{% for post in site.categories.composition %}
-	<div class="composition">
+<div id="workshops">
+{% for post in site.categories.workshop %}
+	<div class="workshop">
 		<table>
-
 			<tr>
 				<td>
+					{% if post.img %}
+					<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
+					<br>
+					{% endif %}
 					<a href="{{post.link}}">{{ post.title }}</a><br>
 					<time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
 					{{post.description}}<br>
@@ -19,4 +20,4 @@ layout: default
 		</table>
 	</div>
 {% endfor %}
-</span>
+</div>

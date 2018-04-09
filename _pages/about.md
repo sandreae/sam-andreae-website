@@ -68,36 +68,36 @@ Daniel Spicer, The Wire (2015)
 
 #### RELEASES
 
-**Live in Beppu** Andreae/Birchall/Willberg
-Vernacular / Heavy Petting *February 2018*
-**Favourite Animals** Favourite Animals
-Luminous *December 2017*
-**Hyperpunkt** Richard Scott's Lightning Ensemble
-Sound Anatomy *November 2017*
-**Shape Shifters** Sloth Racket
-Luminous *June 2017*
-**Hair In The Chimney** Andreae/Birchall/Willberg
-Vernacular / Heavy Petting *April 2017*
-**Cows In Large Pastures** Sam Andreae
-SLIP Records *April 2017*
-**The Difficult Second Album** Andreae/Birchall/Cheetham
-Tombed Visions *March 2017*
-**All Shirt and No Tie** K*Mistry
-self-release *June 2016*
-**I Go Out To Find Bugs** sam&mio&otto
-self-release *May 2016*
-**Audiobook** Soramame
-self-release *September 2015*
-**SOLO** Sam Andreae
-Tombed Visions *May 2015*
-**I Don't Mind You Improvising, I Just Wish You'd Done It Better** Andreae/Birchall/Cheetham
-Tombed Visions *January 2015*
-**Silence Blossoms** Silence Blossoms
-Efpi Records *July 2014*
-**Live at Skurup** Silence Blossoms
-Efpi Records *July 2014*
-**Trio Riot** Trio Riot
-Efpi Records *March 2014*
+**Live in Beppu** Andreae/Birchall/Willberg  
+Vernacular / Heavy Petting *February 2018*  
+**Favourite Animals** Favourite Animals  
+Luminous *December 2017*  
+**Hyperpunkt** Richard Scott's Lightning Ensemble  
+Sound Anatomy *November 2017*  
+**Shape Shifters** Sloth Racket  
+Luminous *June 2017*  
+**Hair In The Chimney** Andreae/Birchall/Willberg  
+Vernacular / Heavy Petting *April 2017*  
+**Cows In Large Pastures** Sam Andreae  
+SLIP Records *April 2017*  
+**The Difficult Second Album** Andreae/Birchall/Cheetham  
+Tombed Visions *March 2017*  
+**All Shirt and No Tie** K*Mistry  
+self-release *June 2016*  
+**I Go Out To Find Bugs** sam&mio&otto  
+self-release *May 2016*  
+**Audiobook** Soramame  
+self-release *September 2015*  
+**SOLO** Sam Andreae  
+Tombed Visions *May 2015*  
+**I Don't Mind You Improvising, I Just Wish You'd Done It Better** Andreae/Birchall/Cheetham  
+Tombed Visions *January 2015*  
+**Silence Blossoms** Silence Blossoms  
+Efpi Records *July 2014*  
+**Live at Skurup** Silence Blossoms  
+Efpi Records *July 2014*  
+**Trio Riot** Trio Riot  
+Efpi Records *March 2014*  
 
 
 #### EDUCATION

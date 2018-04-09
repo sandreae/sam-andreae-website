@@ -96,11 +96,15 @@ a:hover {
 	margin-top: 10px;
 }
 
-.compositions {
-	img {height:100px;}
-	.img-row {width: 200px;}
-	margin-bottom: 20px;
+#workshops {
+	width: 300px;
+}
+
+.composition, .workshop {
+	img {width:100%;}
+	margin-bottom: 10px;
 	margin-top: 10px;
+	width: 100%;
 }
 
 .docu-flex-container {
