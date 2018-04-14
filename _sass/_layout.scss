@@ -23,7 +23,6 @@ main {
   }
 }
 
-
 main.fade-out {
     opacity: 0;
     transition: none;
@@ -167,12 +166,12 @@ a:hover {
 	}
 }
 
-#side-image-container-container {
+#side-image-container {
 	display: none;
 	@include desktop {
-		display: inline-block !important;
-		overflow: hidden;
-		width: 200px;
+		display: inline-block;
+		overflow: auto;
+		width: 15vw;
 		z-index: 100;
 		position: fixed;
 		height: 100%;
@@ -181,27 +180,24 @@ a:hover {
 	}
 }
 
-#side-image-container {
-	overflow-y: scroll;
-	width: 218px;
-	z-index: 100;
-	height: 100%;
-}
-
 #iframe-container {
-	right: 200px;
-	width: 90vw; 
-	height: 100%;
-	overflow: hidden;
-	position: fixed;
-	z-index: 2;
+	display: none;
+	@include desktop {
+		display: inline-block;
+		right: 15vw;
+		width: 85vw; 
+		height: 100%;
+		overflow: hidden;
+		position: fixed;
+		z-index: 2;
+	}
 }
 
 #home-iframe {
-	width: 95vw; 
+	width: 85vw; 
 	height: 100%;
 	border: none;
-	overflow-y: scroll;
+	overflow-y: auto;
 
 }
 
