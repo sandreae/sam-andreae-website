@@ -7,3 +7,9 @@ categories: text
 link: https://blatt3000.de/
 img: /blatt2.JPG
 ---
+
+A series of 3 compositions written in response to [V3K](http://www.verantwortung3000.de/) festival and published in [BLATT 3000](www.blatt3000.de).
+
+[v3k_aempfen](http://samandreae.com/compositions/v3kaempfen.html)
+[v3k_araoke](http://samandreae.com/compositions/v3karaoke.html)
+[v3k_nowing each other](http://samandreae.com/compositions/v3knowing.html)

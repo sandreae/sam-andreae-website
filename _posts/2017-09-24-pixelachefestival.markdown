@@ -10,4 +10,4 @@ link: https://www.pixelache.ac/
 img: pixelache.JPG
 ---
 
-Myself and Laura Weber presented some documentation from HOFFNUNG 3000 and talked a bit about the thoughts behind the festival and what happened there. This years Pixelache had a focus on how space in cities can be reclaimed/occupied by the communities that live their. 
+Myself and Laura Weber presented some documentation from HOFFNUNG 3000 and talked a bit about the thoughts behind the festival and what happened there. This years [Pixelache Festival](https://www.pixelache.ac/) had a focus on how space in cities can be reclaimed/occupied by the communities that live their. 

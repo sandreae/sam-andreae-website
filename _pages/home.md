@@ -3,5 +3,21 @@ layout: page
 title: Home
 permalink: /home/
 ---
+<div id="side-image-container-container">
+	<div id="side-image-container">
+	{% for post in site.posts %}
+		{% if post.img %}
+		<a href="{{post.url}}" target="iframe1">
+			<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-side">
+		</a>
+		{% endif %}
+	{% endfor %}
+	</div>
+</div>
+
+
+<div id="iframe-container">
+	<iframe name='iframe1' id='home-iframe'></iframe>
+</div>
 
 <div id="background-img"></div>
