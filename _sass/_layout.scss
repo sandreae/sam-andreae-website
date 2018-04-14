@@ -183,9 +183,11 @@ a:hover {
 #iframe-container {
 	display: none;
 	@include desktop {
-		display: inline-block;
-		right: 15vw;
-		width: 85vw; 
+		display:inline-block;
+		left: 0;		
+		margin-right: 15vw;
+		margin-left: 15vw;
+		width: 70vw; 
 		height: 100%;
 		overflow: hidden;
 		position: fixed;
@@ -194,7 +196,7 @@ a:hover {
 }
 
 #home-iframe {
-	width: 85vw; 
+	width: 100%; 
 	height: 100%;
 	border: none;
 	overflow-y: auto;
@@ -258,7 +260,7 @@ aside {
 				position: relative;
 				a {
 					padding: 0px 2px 0px 2px;
-					font-size: 1.1em;
+					font-size: 1em;
 					text-decoration: none;
 					display: block;
 					box-shadow: 0;
