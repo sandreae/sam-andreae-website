@@ -3,7 +3,7 @@ layout: post
 title: "BLATT 3000 #09"
 description: "BLATT 3000 #09: HOFFNUNG 3000 special edition"
 date: 2017-12-15
-categories: publication
+categories: [publication, blatt3000]
 link: https://blatt3000.de/
 with: "[BLATT 3000](https://blatt3000.de/)"
 img: /blatt3000_09.png

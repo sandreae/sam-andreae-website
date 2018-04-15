@@ -4,7 +4,7 @@ title: "The Livingroom *Virtual Experience* by Soramame"
 description: Virtual Installation by Soramame
 location: Online
 date: 2018-01-19
-categories: installation
+categories: [installation, soramame]
 with: Mio Ebisu, Soramame
 link: http://www.soramame.co.uk/thelivingroom
 img: thelivingroom.png

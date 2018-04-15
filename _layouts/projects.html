@@ -1,21 +1,34 @@
 ---
 layout: default
----
+---   
 
-{% for post in site.categories.project %}
-	<div class="projects">
-		{% if post.img %}
-		<a href="{{post.link}}">
-			<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big">
-		</a>
-		<br>
-		{% endif %}
-	    {{post.content}}
-		<table>
-		<tr><td><b>{{ post.title }}</b></td></tr>
-		<tr><td>{{ post.location}} <time>{{ post.date | date: "%b %-d, %Y" }}</time></td></tr>
-		<tr><td>{{post.description}}</td></tr>
-		<tr><td>{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}</td></tr>
-		</table>
-	</div>
-{% endfor %}
+
+<table>
+	{% for project in site.projects %}
+		<tr>
+			<td>
+				{{ project.content }}
+			</td>
+			<tr>
+				<td>
+				<div class="all-project-posts">
+					{% for post in site.posts %}
+						{% for item in post.categories %}
+							{% if project.title contains item %}
+								<div class="project-post">
+									{% if post.img %}
+										<a href="{{ site.baseurl }}{{post.url}}">
+											<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big"></a>
+										<br>
+									{% endif %}
+								{{ post.title }}<br><time>{{ post.date | date: "%b %-d, %Y" }}</time>
+								</div>
+						    {% endif %}
+						{% endfor %}
+					{% endfor %}
+				</div>
+			</td>
+			</tr>
+		</tr>
+	{% endfor %}
+</table>

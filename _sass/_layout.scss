@@ -100,6 +100,19 @@ a:hover {
 	border-color: red;
 }
 
+.project-post {
+    margin: auto;
+    width: 25%;
+	display: inline-block;
+	  overflow-wrap: break-word;
+  word-wrap: break-word;
+}
+
+.all-project-posts {
+	width: 100%;
+	display: inline-block;
+}
+
 .hidden {
 	display: none;
 }
@@ -213,10 +226,17 @@ a:hover {
 	width: 100%;
 }
 
+.img-big {
+	width: 100%;
+}
+
+.img-small {
+	width: 50%;
+}
+
 time {
 	color: #898989;
 }
-
 
 .scrolling {
   display: inline-block;
@@ -325,11 +345,4 @@ footer {
 	padding: 40px;
 }
 
-.img-big {
-	width: 100%;
-}
-
-.img-small {
-	width: 50%;
-}
 

@@ -14,7 +14,7 @@ layout: default
 					<a href="{{post.link}}">{{ post.title }}</a><br>
 					<time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
 					{{post.description}}<br>
-					{% if post.with %} with <i>{{ post.with}}</i><br>{% endif %}
+					{% if post.with %} with <i>{{ post.with }}</i><br>{% endif %}
 				</td>
 			</tr>
 		</table>

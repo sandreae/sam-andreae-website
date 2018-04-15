@@ -4,7 +4,7 @@ title: "workshop @ VERANTWORTUNG3000"
 location: Prädikow, Germany
 description: workshop and performance of "curiously tea she said"
 date: 2016-09-01
-categories: workshop
+categories: [workshop, blatt3000]
 with: Felix Hautzinger, Mauro Hertig, Malte Kobel, Annegret Mayer-Lindenberg, David Meier and Yulan Yu
 img: verantwortung1.JPG
 ---

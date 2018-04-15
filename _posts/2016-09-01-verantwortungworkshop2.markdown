@@ -4,7 +4,7 @@ title: "workshop @ VERANTWORTUNG3000"
 location: Prädikow, Germany
 description: workshop and performance of new pieces
 date: 2016-09-01
-categories: workshop
+categories: [workshop, blatt3000]
 with: Beate Absalon, Bettina Mileta, Yulan Yu, Ole Jana, Roman Hagenbrock and Max Schweder
 img: verantwortung2.JPG
 ---

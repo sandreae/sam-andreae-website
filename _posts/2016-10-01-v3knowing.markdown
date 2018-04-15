@@ -3,7 +3,7 @@ layout: post
 title: v3K:nowing Each Other
 description: composition for 2 or more people
 date: 2016-10-01
-categories: composition
+categories: [composition, blatt3000]
 link: /compositions/v3knowing.html
 img: /v3knowing1.JPG
 

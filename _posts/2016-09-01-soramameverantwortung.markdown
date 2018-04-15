@@ -4,7 +4,7 @@ title: "Soramame @ VERANTWORTUNG3000"
 location: Prädikow, Germany
 description: video and performances works
 date: 2016-09-01
-categories: project
+categories: [project, soramame, blatt3000]
 img: soramameverantwortung.jpg
 ---
 
