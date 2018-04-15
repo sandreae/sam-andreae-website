@@ -1,11 +1,12 @@
 ---
 layout: page
+title: Home
+permalink: /home/
 ---
 
 <div id="background-img"></div>
 
-<div id="side-image-container-container">
-	<div id="side-image-container">
+<div id="side-images" class="fade-out">
 	{% for post in site.posts %}
 		{% if post.img %}
 		<a href="#" onclick='
@@ -18,7 +19,6 @@ layout: page
 		</a>
 		{% endif %}
 	{% endfor %}
-	</div>
 </div>
 
 <div id="all-posts">
