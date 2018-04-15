@@ -16,10 +16,12 @@ layout: default
 				{% endif %}
 			{% endif %}
 			<b>{{ post.title }}</b><br>
-			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
+			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
+			{{ post.date | date: "%b %-d, %Y" }}</time><br>
 			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
-			{% if post.with %}with <i>{{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>{% endif %}
-
+			{% if post.with %}
+				with <i>{{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+			{% endif %}
 			{% assign word_count = post.content | size %}
 			{% if word_count > 1000 %}
 				{{ post.content | truncatewords:120 }}
@@ -27,7 +29,6 @@ layout: default
 			{% else %}
 				{{post.content}}
 			{% endif %}
-
 		</div>
 	{% endfor %}
 </div>

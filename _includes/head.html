@@ -7,6 +7,13 @@
 	<base target="_blank">
 	<link rel="stylesheet" href="{{ "/css/main.css" | prepend: site.baseurl }}">
 	<link rel="canonical" href="{{ page.url | replace:'index.html','' | prepend: site.baseurl | prepend: site.url }}">
+	<script>
+	window.onload = function() {
+		var el = document.getElementById("side-images")
+		el.classList.remove("fade-out");
+		el.classList.add("fade-in");
+	};	
+	</script>
 	<!-- Matomo -->
 	<script type="text/javascript">
 	  var _paq = _paq || [];

@@ -7,6 +7,16 @@ body {
 	-webkit-font-smoothing: antialiased;
 }
 
+.fade-in {
+    opacity: 1;
+    transition: 1s opacity;
+}
+
+.fade-out {
+    opacity: 0;
+    transition: none;
+}
+
 main {
     opacity: 1;
     transition: 0.2s opacity;
@@ -90,6 +100,10 @@ a:hover {
 	border-color: red;
 }
 
+.hidden {
+	display: none;
+}
+
 .projects {
 	width: 400px;
 	margin: auto; 
@@ -166,7 +180,7 @@ a:hover {
 	}
 }
 
-#side-image-container {
+#side-images {
 	display: none;
 	@include desktop {
 		display: inline-block;
@@ -180,7 +194,7 @@ a:hover {
 	}
 }
 
-#iframe-container {
+#all-posts {
 	display: none;
 	@include desktop {
 		display:inline-block;
@@ -189,18 +203,10 @@ a:hover {
 		margin-left: 15vw;
 		width: 70vw; 
 		height: 100%;
-		overflow: hidden;
+		overflow-y: auto;
 		position: fixed;
 		z-index: 2;
 	}
-}
-
-#home-iframe {
-	width: 100%; 
-	height: 100%;
-	border: none;
-	overflow-y: auto;
-
 }
 
 .img-side {

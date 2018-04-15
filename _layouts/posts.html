@@ -1,0 +1,28 @@
+---
+layout: default-nonav
+---
+
+<div class="single-flex-container">
+	{% for post in site.posts %}	
+		<div class="single-post">
+			{% if page.img %}
+				{% if page.link %}
+					<a href="{{page.link}}" target="new">
+						<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/{{page.img}}" alt="{{ page.title }}" class="img-big">
+					</a><br>
+				{% else %}
+					<img src="{{ site.baseurl }}/assets/img/{{page.img}}" alt="{{ page.title }}" class="img-big"><br>
+				{% endif %}
+			{% endif %}
+
+			<b>{{ page.title }}</b><br>
+			{{ page.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
+			{{ page.date | date: "%b %-d, %Y" }}</time><br>
+			{{page.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
+			{% if page.with %}
+				with <i>{{page.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+			{% endif %}
+			{{page.content}}
+		</div>
+	{% endfor %}
+</div>
