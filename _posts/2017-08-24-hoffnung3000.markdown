@@ -4,7 +4,7 @@ title: "HOFFNUNG 3000"
 description: decentralized and anonymized festival for art, music and theory
 location: Berlin
 date: 2017-08-24
-categories: [project, blatt3000]
+categories: [project, blatt3000, klangkeller]
 with: participants
 link: http://www.hoffnung3000.de
 img: hoffnung.JPG
