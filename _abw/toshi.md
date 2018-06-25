@@ -4,7 +4,6 @@ title: "Andreae/Birchall/Willberg/Nakamura"
 description: concert at Ftarri experimental music record store
 location: Tokyo
 date: 2017-04-12
-categories: [concert, ABW]
 with: Toshimaru Nakamura, David Birchall, Otto Willberg
 link: http://www.ftarri.com/suidobashi/index-e.html
 img: toshi.JPG
