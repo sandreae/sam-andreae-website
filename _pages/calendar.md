@@ -5,7 +5,11 @@ permalink: /calendar/
 ---
 
 | **2018** |||
+|October 15th - 21st | Adreae/Birchall/Willberg/Nakamura UK Tour | UK |
 |September 14th + 15th| Sociosonic Conference | City University + Iklectik, London |
+|September 22nd | Silence Blossoms | Fortprocess, Newhaven, UK |
+|July 13th & 14th| KLANGKELLER Festival | Berlin |
+|May 27th - June 7th| Sloth Racket Tour | UK |
 |April 5th| "Untitled" performed at "Neo Hückler's breaking of the voice" | Ausland, Berlin |
 |April 5th| performance with CUEE | Iklectik, London |
 |March 29th| workshop with City University Experimental Ensemble (CUEE) | London |
