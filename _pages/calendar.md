@@ -5,8 +5,14 @@ permalink: /calendar/
 ---
 
 | **2018** |||
-|October 15th - 21st | Adreae/Birchall/Willberg/Nakamura UK Tour | UK |
-|September 14th + 15th| Sociosonic Conference | City University + Iklectik, London |
+
+|November 4th| Roberts/Marshall/Taylor/Andreae | Hundred Years Gallery, London |
+|October 22nd| BLOCKHOUSE presented on Comet Radio | Comet Radio, London (and the digital airwaves) |
+|October 21st| Willberg/Birchall/Andreae | Manchester |
+|October 20th| duo with Otto Willberg | Old Hairdressers, Glasgow |
+|October 10th| Trio:Solo:Duo playing duo with Olie Brice | Oto Project Space, London |
+|September 27th|Sloth Racket | Vortex, London |
+|September 14th + 15th| Socio-sonic Symposium | City University + Iklectik, London |
 |September 22nd | Silence Blossoms | Fortprocess, Newhaven, UK |
 |July 13th & 14th| KLANGKELLER Festival | Berlin |
 |May 27th - June 7th| Sloth Racket Tour | UK |
