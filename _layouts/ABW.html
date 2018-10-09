@@ -5,7 +5,7 @@ layout: default
 {{ content }}
 
 <div class="docu-flex-container">
-	{% assign sorted = (site.abw | sort: 'date') | reverse %}
+	{% assign sorted = site.abw | sort: 'date') | reverse %}
 	{% for post in sorted %}
 		<div class="documentation">
 			{% if post.img %}

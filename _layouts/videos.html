@@ -22,9 +22,6 @@ function getSizes() {
 
 }
 
-window.onload = loadPlayer;
-window.onresize = loadPlayer;
-
 function loadPlayer(){
 	console.log("loaded")
 	getSizes()
@@ -40,4 +37,8 @@ function loadPlayer(){
 	    }
 	});
 }
+
+loadPlayer();
+window.onresize = loadPlayer;
+
 </script>
