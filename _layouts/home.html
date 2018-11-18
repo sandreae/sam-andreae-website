@@ -39,7 +39,7 @@ window.onload = function() {
 			{% endif %}
 		{% endif %}
 
-		<b>{{ post.title }}</b><br>
+		<h1>{{ post.title }}</h1><br>
 		{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
 		{{ post.date | date: "%b %-d, %Y" }}</time><br>
 		{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
