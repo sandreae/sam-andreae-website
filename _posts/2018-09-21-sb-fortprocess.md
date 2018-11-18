@@ -5,7 +5,7 @@ description: Silence Blossoms reunion gig at Fort Process in Newhaven
 date: 2018-09-21
 categories: performance
 link: http://www.fortprocess.co.uk/
-img: /sb-fortprocess1.jpg
+img: sb-fortprocess1.jpg
 with: "Hanna Olivegren and Gus Loxbo"
 ---
 

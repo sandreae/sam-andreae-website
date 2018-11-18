@@ -15,3 +15,6 @@ kramdown:
 collections:
   - projects
   - abw
+plugins:
+  - jekyll-seo-tag
+  - jekyll-sitemap
