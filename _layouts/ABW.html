@@ -11,11 +11,11 @@ layout: default
 			{% if post.img %}
 				{% if post.link %}
 					<a href="{{post.link}}">
-						<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam_andreae_{{ post.title }}" class="img-big" alt="sam_andreae_{{ post.title }}">
+						<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" class="img-big" alt="sam andreae {{ post.title }}">
 					</a>
 					<br>
 				{% else %}
-					<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big" alt="sam_andreae_{{ post.title }}">
+					<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big" alt="sam andreae {{ post.title }}">
 					<br>
 				{% endif %}
 			{% endif %}
