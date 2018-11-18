@@ -19,7 +19,7 @@ layout: default-nonav
 		{{ page.date | date: "%b %-d, %Y" }}</time><br>
 		{{page.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
 		{% if page.with %}
-			with <i>{{page.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+			with <i>Sam Andreae, {{page.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
 		{% endif %}
 		{{page.content}}
 	</div>
