@@ -5,7 +5,7 @@ description: Networked performance composition by Andreas Dzialocha
 date: 2018-09-03
 categories: performance
 link: https://github.com/adzialocha/NOR
-img: /norimg.png
+img: norimg.png
 with: "Christian Windfeld - slagtøj, Lil Lacy - cello, stemme, synthesizer, Sam Andreae - saxofon, lo-fi elektronik, Andreas Dzialocha - elektrisk bas, Kaj Duncan David - radio, synthesizer"
 ---
 

@@ -5,13 +5,13 @@ description: KLANGKELLER is a performance and exhibition space for art, music an
 date: 2018-07-13
 categories: klangkeller
 link: http://klangkeller.net/
-img: /kkfest.jpg
+img: kkfest.jpg
 with: "[Mio Ebisu](www.mioebisu.com), Seht Zhan and Aziz Lewandowski"
 ---
 
-![klangkeller summer festival](/assets/img/kkfest1.jpg){:class="img-big"}
-![klangkeller summer festival](/assets/img/kkfest2.jpg){:class="img-big"}
-![klangkeller summer festival](/assets/img/kkfest3.jpg){:class="img-big"}
+![klangkeller summer festival](/assets/img/sam_andreae_kkfest1.jpg){:class="img-big"}
+![klangkeller summer festival](/assets/img/sam_andreae_kkfest2.jpg){:class="img-big"}
+![klangkeller summer festival](/assets/img/sam_andreae_kkfest3.jpg){:class="img-big"}
 
 Summer Party Friday 13th & Saturday 14th of July
 Friday Evening Kino Program

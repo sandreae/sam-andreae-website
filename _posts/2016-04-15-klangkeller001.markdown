@@ -5,7 +5,7 @@ description: KLANGKELLER is a performance and exhibition space for art, music an
 date: 2016-04-01
 categories: klangkeller
 link: http://klangkeller.net/
-img: /klangkeller1.JPG
+img: klangkeller1.JPG
 with: Julia Reidy, Laurie Tompkins and Susie Whaites
 ---
 

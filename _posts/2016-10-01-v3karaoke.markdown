@@ -5,7 +5,7 @@ description: composition for 4 people
 date: 2016-10-01
 categories: [composition, blatt3000]
 link: /compositions/v3karaoke.html
-img: /v3karaoke.jpg
+img: v3karaoke.jpg
 ---
 
 Part of a series of 3 text based compositions exploring body and mind processes. Written in response to [V3K](http://www.verantwortung3000.de/) festival and published in [BLATT 3000](www.blatt3000.de). 

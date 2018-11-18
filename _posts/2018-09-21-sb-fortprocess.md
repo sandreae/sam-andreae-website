@@ -9,5 +9,5 @@ img: /sb-fortprocess1.jpg
 with: "Hanna Olivegren and Gus Loxbo"
 ---
 
-![Silence Blossoms @ Fort Process](/assets/img/sb-fortprocess2.jpg){:class="img-big"}
-![Silence Blossoms @ Fort Process](/assets/img/sb-fortprocess3.jpg){:class="img-big"}
+![Silence Blossoms @ Fort Process](/assets/img/sam_andreae_sb-fortprocess2.jpg){:class="img-big"}
+![Silence Blossoms @ Fort Process](/assets/img/sam_andreae_sb-fortprocess3.jpg){:class="img-big"}

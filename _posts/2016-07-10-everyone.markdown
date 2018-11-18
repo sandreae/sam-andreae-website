@@ -5,7 +5,7 @@ description: graphic compositional method
 date: 2016-07-10
 categories: composition
 link: /compositions/everyonealwayshonestly.html
-img: /everyone/img.jpeg
+img: everyone.jpeg
 
 ---
 

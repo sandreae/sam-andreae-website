@@ -5,8 +5,8 @@ description: reworking of RoaS sound essay by Matilde Meireles as a performative
 date: 2018-09-16
 categories: performance
 link: http://matildemeireles.com/portfolio/roasparc
-img: /RoaS.jpg
+img: RoaS.jpg
 with: "[Matilde Meireles](http://matildemeireles.com/), [Corey Mwamba](https://www.coreymwamba.co.uk/) and [Claudia Molitor](https://www.city.ac.uk/people/academics/claudia-molitor)"
 ---
 
-![RoaS](/assets/img/RoaS2.jpg){:class="img-big"}
+![RoaS](/assets/img/sam_andreae_RoaS2.jpg){:class="img-big"}

@@ -6,5 +6,5 @@ date: 2017-12-15
 categories: [publication, blatt3000]
 link: https://blatt3000.de/
 with: "[BLATT 3000](https://blatt3000.de/)"
-img: /blatt3000_09.png
+img: blatt3000_09.png
 ---
