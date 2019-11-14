@@ -9,13 +9,6 @@ permalink: /about/
 
 Email: contact [at] samandreae.com		
 
-**Sam Andreae** (born in Manchester in 1985) has been active across Europe over the last decade as a musician, composer and organiser. After graduating from the Royal Northern College of Music in 2008 he soon became enthused by improvisation as a performance practice and it’s wider implications as a socially critical art form. Continuing his studies in Scandinavia, he explored composition and it’s relationship with improvisation and was particularly influenced at this time by his meetings with the composer Christian Wolff.
-
-*"In both composition and improvisation I am intrigued by the processes and systems that function just bellow the surface of what we perceive to be music. Our own thoughts, senses, physical needs, emotional states and perception of others’ actions are as much a part of music as tonality, instrumentation or style. I see the act of music making as a series of interconnected actions and as an improviser or composer within this context I try to use a vocabulary that expresses these interests. This has lead me to explore the saxophone as a “sound object” rather than a musical instrument, striving for an objectivity within sound and a gestural approach to playing that places music in a wider context of art and performance. In my compositions I use these “background” elements as musical building blocks to create systems that performers can function freely within, the focus is placed on action and intention, with the aural results becoming products of this gestural process.”*	
-
-Recent activities include: work with musicians and artists Mio Ebisu, Toshimaru Nakamura, Neo Hülcker, Tristan Honsinger, Andreas Dzialocha, Rodrigo Constanzo, Kelly Jayne Jones, Laurie Tompkins, Susie Whaites, Richard Scott, Cath Roberts, Richard Craig, Otto Willberg, David Birchall, Daysuke Takaoka, Michael Duch, Mette Rasmussen and Christian Wolff; in partnership with City University London, The Royal Northern College of Music, Manchester Jazz Festival, Pixel Ache Festival, HOFFNUNG 3000, Tombed Visions (Record Label), SLIP Records, Boreallis Festival; have been played on BBC Radio and Resonance FM; and had reviews and articles published in The Wire, The Quietus, Jazzwise, the Guardian and many blogs across the web.
-
-
 #### PRESS
 
 *“what Sam Andreae does is liminal music, he shows you the clicks, the noises, the breaths, the rattle and hum that producers normally want to take off the record”*

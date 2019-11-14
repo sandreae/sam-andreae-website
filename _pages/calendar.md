@@ -4,8 +4,19 @@ title: Calendar
 permalink: /calendar/
 ---
 
+| **2019** |||
+|January 25th| with Aziz Lewandowski and Mio Ebisu | Gallery Geyger, Berlin |
+|January 24th| with Aziz Lewandowski & Tezuka Natsuko | Gallery Geyger, Berlin |
+|January 23rd| with Aziz Lewandowski, Kae San & Lorena Izquierdo | Greenhouse, Berlin |
+|January 22nd| duo with Aziz Lewandowski | Klangkeller, Berlin |
+|January 21st| duo with Aziz Lewandowski | Gallery Geyger, Berlin |
+|January 8th| duo with Cath Roberts | Arch One, London |
+
 | **2018** |||
 
+|December 16th| duo with Alex Ward | Mopomoso, London |
+|December 15th| duo with Cath Roberts | BRAK, London |
+|November 30th| with Otto Willberg & Mio Ebisu| SET, London |
 |November 4th| Roberts/Marshall/Taylor/Andreae | Hundred Years Gallery, London |
 |October 22nd| BLOCKHOUSE presented on Comet Radio | Comet Radio, London (and the digital airwaves) |
 |October 21st| Willberg/Birchall/Andreae | Manchester |

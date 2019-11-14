@@ -117,11 +117,18 @@ a:hover {
 	display: none;
 }
 
-.projects {
+.projects, .s10c-events {
 	width: 400px;
 	margin: auto; 
 	margin-bottom: 20px;
 	margin-top: 10px;
+}
+
+.s10c-event {
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 90%;
+	margin: auto;
 }
 
 #workshops {

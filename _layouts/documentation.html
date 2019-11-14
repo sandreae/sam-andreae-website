@@ -25,7 +25,7 @@ layout: default
 			{% assign word_count = post.content | size %}
 			{% if word_count > 1000 %}
 				{{ post.content | truncatewords:120 }}
-				<a href="{{ site.baseurl }}{{ post.url}}" class="read-more">Read More</a>
+				<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
 			{% else %}
 				{{post.content}}
 			{% endif %}
