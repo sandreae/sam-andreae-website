@@ -5,6 +5,31 @@ permalink: /calendar/
 ---
 
 | **2019** |||
+
+Soda Acustic
+
+|December 4th| Andreae/Birchall/Willberg/Nakamura | Cafe Oto, London (4th) |
+|December 5th| Andreae/Birchall/Willberg/Nakamura | The Rose Hill (Spirit of Gravity), Brighton (+ workshop) |
+|December 6th| Andreae/Birchall/Willberg/Nakamura | The Old Police House, Newcastle |
+|December 7th| Andreae/Birchall/Willberg/Nakamura | The Old Hairdressers, Glasgow (+ workshop) |
+|December 8th| Andreae/Birchall/Willberg/Nakamura | Fizzle, Birmingham |
+|December 9th| Andreae/Birchall/Willberg/Nakamura | AME Space, Huddersfield |
+|December 10th| Andreae/Birchall/Willberg/Nakamura | Curious Ear, Manchester (+ workshop) |
+|September 20th| Sloth Racket | Listen!, Cambridge |
+|September 19th| Sloth Racket | Camouflage, Norwich |
+|September 18th| Sloth Racket | Extra Normal w/ Evan Parker solo, Ramsgate |
+|September 17th| Sloth Racket | Hundred Years Gallery, London |
+|September 16th| Sloth Racket | The Golden Lion, Todmorden |
+|September 15th| Sloth Racket | Lancaster Jazz Festival |
+|September 5th| Sloth Racket | Curious Ear at The Peer Hat, Manchester |
+|September 4th| Sloth Racket | The Lescar, Sheffield |
+|September 1st| Sloth Racket | JNE, Newcastle |
+|July 13th| People's Foley Theatre | KK Festival, Berlin|
+|July 12th - 14th| KlangKeller Festival 2019 | Lichtblick Kino, Berlin |
+|June 29th| with Rodrigo Constanzo | Liceo Mutante, Pontevedr, Spain |
+|June 28th| with Marta Sainz, Sam Andreae, Enrique Zaccagnini, Otto Willberg, Lorena Izquierdo, Aziz Lewandowski and Nicolas Dobson | Màgia Roja, Barcelona | 
+|June 15th - 23rd| Antiuniversity Now Festival | London |
+|June 27th| with Otto Willberg and Nicolas Dobson | Soda Acustic, Barcelona |
 |January 25th| with Aziz Lewandowski and Mio Ebisu | Gallery Geyger, Berlin |
 |January 24th| with Aziz Lewandowski & Tezuka Natsuko | Gallery Geyger, Berlin |
 |January 23rd| with Aziz Lewandowski, Kae San & Lorena Izquierdo | Greenhouse, Berlin |
