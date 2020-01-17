@@ -6,8 +6,6 @@ permalink: /calendar/
 
 | **2019** |||
 
-Soda Acustic
-
 |December 4th| Andreae/Birchall/Willberg/Nakamura | Cafe Oto, London (4th) |
 |December 5th| Andreae/Birchall/Willberg/Nakamura | The Rose Hill (Spirit of Gravity), Brighton (+ workshop) |
 |December 6th| Andreae/Birchall/Willberg/Nakamura | The Old Police House, Newcastle |
