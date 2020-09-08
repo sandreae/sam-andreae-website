@@ -4,7 +4,7 @@ email: sandreae@gmail.com
 description: "The website of saxophonist Sam Andreae."
 baseurl: ""
 url: "www.samandreae.com"
-destination: "../_site"
+destination: "_site"
 keep_files: [_subsites]
 sass:
   sass_dir: _sass
