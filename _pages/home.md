@@ -1,7 +1,5 @@
 ---
-layout: page
+layout: home
 title: Home
 permalink: /home/
 ---
-
-<div id="background-img"></div>

@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{{ content }}
+
+<div class="docu-flex-container">
+	{% assign sorted = site.abw | sort: 'date') | reverse %}
+	{% for post in sorted %}
+		<div class="documentation">
+			{% if post.img %}
+				{% if post.link %}
+					<a href="{{post.link}}">
+						<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" class="img-big" alt="sam andreae {{ post.title }}">
+					</a>
+					<br>
+				{% else %}
+					<img src="{{ site.baseurl }}/assets/img/{{post.img}}" alt="{{ post.title }}" class="img-big" alt="sam andreae {{ post.title }}">
+					<br>
+				{% endif %}
+			{% endif %}
+			<b>{{ post.title }}</b><br>
+			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
+			{{ post.date | date: "%b %-d, %Y" }}</time><br>
+			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
+			{% if post.with %}
+				with <i>{{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+			{% endif %}
+			{{post.content}}
+		</div>
+	{% endfor %}
+</div>

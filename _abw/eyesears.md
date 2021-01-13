@@ -1,0 +1,11 @@
+---
+layout: post
+title: "Eyes are listening, ears are watching"
+description: performance work exploring the relation between sound, space and gesture
+location: Blockhouse, Tokyo
+date: 2017-04-30
+with: Mio Ebisu, David Birchall, Otto Willberg and Kouhei Sekigawa
+link: http://blockhouse.jp/
+img: eyesears.JPG
+---
+

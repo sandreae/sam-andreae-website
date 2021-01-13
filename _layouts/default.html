@@ -1,12 +1,13 @@
 <!DOCTYPE html>
 <html>
+
 {% include head.html %}
 <body>
+	<img src="../assets/background/background.jpg" class="hidden">
 	{% include header.html %}
 	<main id="main">
-		<article>
-			{{ content }}
-		</article>
+	{{ content }}
 	</main>
+	{% include lazyload.html %}
 </body>
 </html>

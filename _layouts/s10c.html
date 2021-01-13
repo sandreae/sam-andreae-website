@@ -1,0 +1,15 @@
+---
+layout: default
+---
+
+<span class="s10c-events">
+{% for post in site.s10c %}
+	<div class="s10c-event">
+		<h2>{{ post.title }}</h2>
+		<time>{{ post.date | date: "%b %-d, %Y" }}</time><br>
+		<b>{{ post.performers }}</b><br>
+		{{ post.content }}
+		<img src="{{ site.baseurl }}/assets/img/s10c/{{post.img}}" class="img-big" }}>
+	</div>
+{% endfor %}
+</span>

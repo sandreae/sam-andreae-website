@@ -1,10 +1,67 @@
 ---
-layout: page
+layout: calendar
 title: Calendar
 permalink: /calendar/
 ---
 
+| **2019** |||
+
+|December 4th| Andreae/Birchall/Willberg/Nakamura | Cafe Oto, London (4th) |
+|December 5th| Andreae/Birchall/Willberg/Nakamura | The Rose Hill (Spirit of Gravity), Brighton (+ workshop) |
+|December 6th| Andreae/Birchall/Willberg/Nakamura | The Old Police House, Newcastle |
+|December 7th| Andreae/Birchall/Willberg/Nakamura | The Old Hairdressers, Glasgow (+ workshop) |
+|December 8th| Andreae/Birchall/Willberg/Nakamura | Fizzle, Birmingham |
+|December 9th| Andreae/Birchall/Willberg/Nakamura | AME Space, Huddersfield |
+|December 10th| Andreae/Birchall/Willberg/Nakamura | Curious Ear, Manchester (+ workshop) |
+|September 20th| Sloth Racket | Listen!, Cambridge |
+|September 19th| Sloth Racket | Camouflage, Norwich |
+|September 18th| Sloth Racket | Extra Normal w/ Evan Parker solo, Ramsgate |
+|September 17th| Sloth Racket | Hundred Years Gallery, London |
+|September 16th| Sloth Racket | The Golden Lion, Todmorden |
+|September 15th| Sloth Racket | Lancaster Jazz Festival |
+|September 5th| Sloth Racket | Curious Ear at The Peer Hat, Manchester |
+|September 4th| Sloth Racket | The Lescar, Sheffield |
+|September 1st| Sloth Racket | JNE, Newcastle |
+|July 13th| People's Foley Theatre | KK Festival, Berlin|
+|July 12th - 14th| KlangKeller Festival 2019 | Lichtblick Kino, Berlin |
+|June 29th| with Rodrigo Constanzo | Liceo Mutante, Pontevedr, Spain |
+|June 28th| with Marta Sainz, Sam Andreae, Enrique Zaccagnini, Otto Willberg, Lorena Izquierdo, Aziz Lewandowski and Nicolas Dobson | Màgia Roja, Barcelona | 
+|June 15th - 23rd| Antiuniversity Now Festival | London |
+|June 27th| with Otto Willberg and Nicolas Dobson | Soda Acustic, Barcelona |
+|January 25th| with Aziz Lewandowski and Mio Ebisu | Gallery Geyger, Berlin |
+|January 24th| with Aziz Lewandowski & Tezuka Natsuko | Gallery Geyger, Berlin |
+|January 23rd| with Aziz Lewandowski, Kae San & Lorena Izquierdo | Greenhouse, Berlin |
+|January 22nd| duo with Aziz Lewandowski | Klangkeller, Berlin |
+|January 21st| duo with Aziz Lewandowski | Gallery Geyger, Berlin |
+|January 8th| duo with Cath Roberts | Arch One, London |
+
+| **2018** |||
+
+|December 16th| duo with Alex Ward | Mopomoso, London |
+|December 15th| duo with Cath Roberts | BRAK, London |
+|November 30th| with Otto Willberg & Mio Ebisu| SET, London |
+|November 4th| Roberts/Marshall/Taylor/Andreae | Hundred Years Gallery, London |
+|October 22nd| BLOCKHOUSE presented on Comet Radio | Comet Radio, London (and the digital airwaves) |
+|October 21st| Willberg/Birchall/Andreae | Manchester |
+|October 20th| duo with Otto Willberg | Old Hairdressers, Glasgow |
+|October 10th| Trio:Solo:Duo playing duo with Olie Brice | Oto Project Space, London |
+|September 27th|Sloth Racket | Vortex, London |
+|September 14th + 15th| Socio-sonic Symposium | City University + Iklectik, London |
+|September 22nd | Silence Blossoms | Fortprocess, Newhaven, UK |
+|July 13th & 14th| KLANGKELLER Festival | Berlin |
+|May 27th - June 7th| Sloth Racket Tour | UK |
+|April 5th| "Untitled" performed at "Neo Hückler's breaking of the voice" | Ausland, Berlin |
+|April 5th| performance with CUEE | Iklectik, London |
+|March 29th| workshop with City University Experimental Ensemble (CUEE) | London |
+|March 23rd| performance with Seht Kahn, Aziz Lewandowski and Kae-san | KLANGKELLER #018, Berlin |
+|March 9th| KLANGKELLER #017 | Berlin |
+|February 17th| Andreae / Birchall / Willberg | Wraclow, Poland |
+|February 16th| Andreae / Birchall / Willberg | KLANGKELLER #016, Berlin |
+|February 9th|  Playtime Playalong | KLANGKELLER #015, Berlin |
+|January 26th| Playtime Playalong by/with Neo Hülcker | KLANGKELLER #014, Berlin |
+|January 19th|  The Living Room VR experience | KLANGKELLER #013, Berlin |
 | **2017** |||
+|December 15th| KLANGKELLER #012 - BLATT 3000 special | berlin |
 |December 3rd - 11th| Article XI / Favourite Animals Tour | UK
 |November 28th - December 1st| Sloth Racket recording and concert| London|
 |September 22nd - 24th| HOFFNUNG3000 talk at Pixelache Festival| Helsinki|
@@ -13,7 +70,7 @@ permalink: /calendar/
 |August 21st - 23rd| Favourite Animals Recording| London|
 |August 9th| HOFFNUNG 3000 Press Conference| Tempelhoferfeld, Berlin|
 |June 19th - 30th| Sloth Racket UK Tour| UK |
-|May 9th| concert with Aya Ogawa, Klaus Kürvers and Julia Reidy  | Liebig12, Berlin|
+|May 9th| concert with Aya Ogawa, Klaus Kürvers and Julia Reidy  | Sowieso, Berlin|
 |April 21st| solo concert | Liebig12, Berlin|
 |April 5th - April 19th| Andreae, Birchall, Willberg & Mio Ebisu Japan Tour| Tokyo, Hakodate, Kyoto, Nagoya, Beppu|
 |March 24th| "Cows In Large Pastures" with Laurie Tompkins, Susie Whaites and Otto Willberg| Manchester|

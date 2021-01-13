@@ -3,7 +3,9 @@ layout: post
 title: BLATT 3000 #05
 description: "'everyone, always, honestly' published in music zine BLATT 3000"
 date: 2016-02-01
-categories: text
+categories: [text, blatt3000]
 link: https://blatt3000.de/
-img: /blatt1.JPG
+img: blatt1.JPG
 ---
+
+My first ever attempt at writing words and having them published... big thanks to the Berlin based [BLATT](https://www.blatt3000.de/) crew for letting me have a go. You can see some of the text [here](http://samandreae.com/compositions/everyonealwayshonestly.html) as well as the composition I'm writing about. Or of course, you can [order the magazine itself](https://www.blatt3000.de/) (which I would of course recommend).

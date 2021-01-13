@@ -3,7 +3,9 @@ layout: post
 title: v3K:ämpfen
 description: composition for 2 or more people
 date: 2016-10-01
-categories: composition
+categories: [composition, blatt3000]
 link: /compositions/v3kaempfen.html
-img: /v3kaempfen.JPG
+img: v3kaempfen.JPG
 ---
+
+Part of a series of 3 text based compositions exploring body and mind processes. Written in response to [V3K](http://www.verantwortung3000.de/) festival and published in [BLATT 3000](www.blatt3000.de). 

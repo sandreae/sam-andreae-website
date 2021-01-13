@@ -5,6 +5,8 @@ description: graphic compositional method
 date: 2016-07-10
 categories: composition
 link: /compositions/everyonealwayshonestly.html
-img: /everyone/img.jpeg
+img: everyone.jpeg
 
 ---
+
+This is a composition for trio, or multiple trios, first performed and developed with [Laurie Tompkins](http://cargocollective.com/laurietompkins), Suzie Whaites and [Otto Willberg](http://ottowillberg.com/). The idea is to have a process for making graphic scores, rather than a singular definitive score, which will then be interpreted in predefined ways ways during performances. In this first series the focus is on communicating your interpretation of the score to your fellow performers in a very immediate and spontaneous way. The parameters you're working with are public/private and voice/object.

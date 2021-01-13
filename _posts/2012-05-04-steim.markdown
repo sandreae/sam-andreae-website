@@ -6,5 +6,7 @@ location: STEIM, Amsterdamn
 date: 2012-04-04
 categories: project
 link: http://steim.org/projectblog/2012/05/17/sam-andreae-instrument-lab/
-img: /electrosax.jpg
+img: electrosax.jpg
 ---
+
+I went on a residency at [STEIM](http://steim.org/) in Amsterdam in 2012 to work on a solo saxophone setup which used feedback, [Peter Blasser](http://www.ciat-lonbarde.net/) instruments, [Crackle Box](http://steim.org/product/cracklebox/) and some Arduino stuff. It become part of what I used on my later [solo recordings]()www.samandreae.com/releases/.

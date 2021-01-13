@@ -13,9 +13,6 @@
 - title: "Compositions"
   href: "/compositions/"
 
-- title: "Projects"
-  href: "/projects/"
-
 - title: "Releases"
   href: "/releases/"
 
@@ -24,3 +21,9 @@
 
 - title: "Calendar"
   href: "/calendar/"
+
+- title: "Press"
+  href: "/press/"
+
+- title: "s10c"
+  href: "/s10c/"
