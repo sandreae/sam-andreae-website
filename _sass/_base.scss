@@ -17,6 +17,14 @@ $header:  #1D1425;
 $tablet-width: 768px;
 $desktop-width: 1024px;
 
+@media print {
+  * {
+    page-break-inside: avoid;
+    page-break-after: avoid;
+    page-break-before: avoid;
+  }
+}
+
 @mixin tablet {
   @media (min-width: #{$tablet-width}) and (max-width: #{$desktop-width - 1px}) {
     @content;
@@ -35,4 +43,4 @@ $desktop-width: 1024px;
 	-webkit-box-sizing: border-box;
 	-moz-box-sizing: border-box;
 	box-sizing: border-box;
-} 
+}

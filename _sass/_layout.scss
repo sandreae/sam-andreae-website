@@ -20,10 +20,10 @@ body {
 main {
     opacity: 1;
     transition: 0.2s opacity;
-	max-width: $content-width;
-	padding-top: 50px;
-  @include tablet {
-	padding-top: 0px;
+  	max-width: $content-width;
+  	padding-top: 50px;
+    @include tablet {
+  	padding-top: 0px;
   	padding-left: $nav-width-tablet;
   }
 
@@ -95,16 +95,16 @@ a:hover {
 	margin-bottom: 3em;
 	margin-right: 18px;
 	padding: 3em;
-	display: inline-block;
-	border: dotted;
+	display: block;
+	border: none;
 	border-color: red;
 }
 
 .project-post {
-    margin: auto;
-    width: 25%;
-	display: inline-block;
-	  overflow-wrap: break-word;
+  margin: auto;
+  width: 25%;
+  display: inline-block;
+  overflow-wrap: break-word;
   word-wrap: break-word;
 }
 
@@ -231,17 +231,21 @@ a:hover {
 
 .img-side {
 	width: 100%;
+  page-break-inside: avoid;
 }
 
 .img-big {
 	width: 100%;
+  page-break-inside: avoid;
 }
 
 .img-small {
 	width: 49%;
+  page-break-inside: avoid;
 }
 .img-thumb {
 	width: 200px;
+  page-break-inside: avoid;
 }
 
 time {

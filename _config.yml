@@ -6,6 +6,7 @@ baseurl: ""
 url: "www.samandreae.com"
 destination: "_site"
 keep_files: [_subsites]
+future: true
 sass:
   sass_dir: _sass
 include: ['_pages']
