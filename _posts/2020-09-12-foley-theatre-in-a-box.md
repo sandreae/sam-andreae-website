@@ -11,8 +11,8 @@ img:
 
 ----------------------------
 
-![Committed Comix cover by Chris Welch](/assets/img/foley_theatre_in_a_box/bigfoot_cover.jpeg){:class="img-small"}
-![Heroine cover by Suzy Varty](/assets/img/foley_theatre_in_a_box/heroin_cover.jpeg){:class="img-small"}
+![Committed Comix cover by Chris Welch](/assets/img/foley_theatre_in_a_box/bigfoot_cover.jpg){:class="img-small"}
+![Heroine cover by Suzy Varty](/assets/img/foley_theatre_in_a_box/heroin_cover.jpg){:class="img-small"}
 
 *Foley Theatre is an irreverent and improvisatory approach to [Foley](https://en.wikipedia.org/wiki/Foley_(filmmaking)) sound making for graphic novels. This will take the form of “Foley Theatre in a Box” which participants use to record their own sound scores. In relay style, this is then passed on to the next participants, who repeat the process. The end result is a collage of sounds recorded in relay at different locations.*
 
@@ -97,14 +97,14 @@ designed by AR:ZAK
 printed and published by ARTS LAB PRESS  
 11, Gosta Green, Birmingham  
 
-![Heroine](/assets/img/foley_theatre_in_a_box/heroin01.jpeg){:class="img-small"}
+![Heroine](/assets/img/foley_theatre_in_a_box/heroin01.jpg){:class="img-small"}
 
 ### *The Legend of Bigfoot* by [Steve Bell](https://www.belltoons.co.uk/)
 [Committed Comix](https://comixjoint.com/committedcomix.html), 1977  
 printed and published by AR:ZAK the ARTS LAB PRESS  
 11, Gosta Green, Birmingham  
 
-![Bigfoot](/assets/img/foley_theatre_in_a_box/bigfoot01.jpeg){:class="img-small"}
+![Bigfoot](/assets/img/foley_theatre_in_a_box/bigfoot01.jpg){:class="img-small"}
 
 <div style="page-break-after: always"></div>
 
@@ -112,7 +112,7 @@ printed and published by AR:ZAK the ARTS LAB PRESS
 
 The ZOOM recorder is a popular device for recording good quality audio. Don't worry if you've not used one before, the steps below outline how it should be used.
 
-![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_instructions.png){:class="img-big"}
+![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_instructions.jpg){:class="img-big"}
 
 1) Remove the ZOOM recorder from it's box and attach the screw on stand
 

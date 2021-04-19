@@ -7,7 +7,7 @@ date: 2018-01-19
 categories: [installation, soramame]
 with: Mio Ebisu, Soramame
 link: http://www.soramame.co.uk/thelivingroom
-img: thelivingroom.png
+img: thelivingroom.jpg
 ---
 
 This is a documentation of our [Liebig12](http://www.liebig12.net/) installation from last year, it's an online version of the exhibition space complete with videos and sound. You can wander around, the complete work lasts 13mins. We want to add more rooms in the future.

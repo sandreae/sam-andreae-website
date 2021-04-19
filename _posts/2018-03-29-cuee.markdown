@@ -5,5 +5,5 @@ description: composition for City University Experimental Ensemble
 date: 2018-03-29
 categories: [composition, workshop]
 link: /compositions/cuee.html
-img: cuee.png
+img: cuee.jpg
 ---

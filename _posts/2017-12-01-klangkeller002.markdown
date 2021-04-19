@@ -5,7 +5,7 @@ description: KLANGKELLER is a performance and exhibition space for art, music an
 date: 2017-12-01
 categories: klangkeller
 link: http://klangkeller.net/
-img: klangkeller002.JPG
+img: klangkeller002.jpg
 with: "[Mio Ebisu](www.mioebisu.com), Klaas Hübner and [Neo Hülcker](https://www.neelehuelcker.de/)"
 ---
 

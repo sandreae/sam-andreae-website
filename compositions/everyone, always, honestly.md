@@ -6,7 +6,7 @@ permalink: /compositions/everyonealwayshonestly
 
 *a compositional method for three people (or multiple trios)*
 
-![image]({{ site.baseurl }}/assets/img/everyone/img.jpeg){:class="img-big"}
+![image]({{ site.baseurl }}/assets/img/everyone/img.jpg){:class="img-big"}
 
 ### Introduction:
 
@@ -21,10 +21,10 @@ This method uses graphics to express gestural or sonic events with the possibili
 
 Performers/composers should focus on the (often playful) possibilities for dependant interaction when performing these pieces, where your partner’s perception of what you do is an element within the composition. Considering how your interpretation of a graphic is perceived by the rest of the ensemble is a key part of these performances. For example, by being explicit in my interpretation of a graphic element, the others in the group should be aware of “where” I am in the score. Equally, if I’m more abstract, then they won’t know. Both are fine, but each situation has it’s own implications.
 
-![example 1]({{ site.baseurl }}/assets/img//everyone/small/example1-1.png){:class="img-small"}
-![example 2]({{ site.baseurl }}/assets/img//everyone/small/example2-1.png){:class="img-small"}
-![example 3]({{ site.baseurl }}/assets/img//everyone/small/example3-1.png){:class="img-small"}
-![example 4]({{ site.baseurl }}/assets/img//everyone/small/example4-1.png){:class="img-small"}
+![example 1]({{ site.baseurl }}/assets/img//everyone/small/example1-1.jpg){:class="img-small"}
+![example 2]({{ site.baseurl }}/assets/img//everyone/small/example2-1.jpg){:class="img-small"}
+![example 3]({{ site.baseurl }}/assets/img//everyone/small/example3-1.jpg){:class="img-small"}
+![example 4]({{ site.baseurl }}/assets/img//everyone/small/example4-1.jpg){:class="img-small"}
 
 ### Notes for score making:
 
@@ -47,10 +47,10 @@ A thin black line signifies a non-audible connection between events. This instru
 
 After considering the previous instructions you should take a blank sheet of paper and make several scores 3 . Think about how different graphics will be interpreted by a performer - what shapes will offer possibilities for patterns or repetition? What happens if you are purposefully ambiguous? Can you provoke an emotion from the performers? How to create structures for a group to function within?
 
-![vocalexample 1]({{ site.baseurl }}/assets/img//everyone/small/vocalexample1-1.png){:class="img-small"}
-![vocalexample 2]({{ site.baseurl }}/assets/img//everyone/small/vocalexample2-1.png){:class="img-small"}
-![vocalexample 3]({{ site.baseurl }}/assets/img//everyone/small/vocalexample3-1.png){:class="img-small"}
-![vocalexample 4]({{ site.baseurl }}/assets/img//everyone/small/vocalexample4-1.png){:class="img-small"}
+![vocalexample 1]({{ site.baseurl }}/assets/img//everyone/small/vocalexample1-1.jpg){:class="img-small"}
+![vocalexample 2]({{ site.baseurl }}/assets/img//everyone/small/vocalexample2-1.jpg){:class="img-small"}
+![vocalexample 3]({{ site.baseurl }}/assets/img//everyone/small/vocalexample3-1.jpg){:class="img-small"}
+![vocalexample 4]({{ site.baseurl }}/assets/img//everyone/small/vocalexample4-1.jpg){:class="img-small"}
     
 ### Notes for performance:
 

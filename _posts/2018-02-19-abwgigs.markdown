@@ -7,9 +7,9 @@ date: 2018-02-19
 categories: [tour, ABW]
 with: David Birchall, Otto Willberg
 link:
-img: ABW_KK.JPG
+img: ABW_KK.jpg
 ---
 
-![ABW Wraclow](/assets/img/sam_andreae_ABW_poland.JPG){:class="img-big"}
+![ABW Wraclow](/assets/img/sam_andreae_ABW_poland.jpg){:class="img-big"}
 
 The trio met up to do a couple of gigs in Berlin ([KLANGKELLER](http://www.klangkeller.net)) and Wraclow at the fantastic [OPT](https://opt-art.net/wydarzenia-muzyczne/sam-andreae-david-birchall-otto-willberg/). Massive thanks to Jan and Dawid for running the concert and making us feel very welcome.

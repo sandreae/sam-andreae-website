@@ -6,6 +6,6 @@ location: Blockhouse, Tokyo
 date: 2017-04-30
 with: Mio Ebisu, David Birchall, Otto Willberg and Kouhei Sekigawa
 link: http://blockhouse.jp/
-img: eyesears.JPG
+img: eyesears.jpg
 ---
 
