@@ -5,22 +5,20 @@ layout: default
 	{% for post in site.posts %}
 		<div class="documentation">
 			{% if post.img %}
-				{% if post.link %}
-					<a href="{{post.link}}">
-						<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-big">
-					</a>
-					<br>
-				{% else %}
-					<img src="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-big" }}">
-					<br>
-				{% endif %}
+				<a href="{{ site.baseurl }}{{ post.url}}">
+					<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-big">
+				</a>
+				<br>
 			{% endif %}
-			<b>{{ post.title }}</b><br>
+			<h3><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a></h3>
 			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
 			{{ post.date | date: "%b %-d, %Y" }}</time><br>
 			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
 			{% if post.with %}
-				with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+				with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i><br>
+			{% endif %}
+			{% if post.link %}
+				<a href="{{ post.link}}">{{ post.link}}</a>
 			{% endif %}
 			{% assign word_count = post.content | size %}
 			{% if word_count > 1000 %}
