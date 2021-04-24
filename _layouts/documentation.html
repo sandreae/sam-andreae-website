@@ -1,17 +1,17 @@
 ---
 layout: default
 ---
-<div class="docu-nav"><a href="{{ site.baseurl }}/reader">reader view</a></div>
+<div class="docu-nav"><a href="{{ site.baseurl }}/reader/" target="_top">reader view</a></div>
 <div class="docu-flex-container">
 	{% for post in site.posts %}
 		<div class="documentation">
 			{% if post.img %}
-				<a href="{{ site.baseurl }}{{ post.url}}">
+				<a href="{{ site.baseurl }}{{ post.url}}" target="_top">
 					<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-big">
 				</a>
 				<br>
 			{% endif %}
-			<h3><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a></h3>
+			<h3><a href="{{ site.baseurl }}{{ post.url}}" target="_top">{{ post.title }}</a></h3>
 			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
 			{{ post.date | date: "%b %-d, %Y" }}</time><br>
 			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
