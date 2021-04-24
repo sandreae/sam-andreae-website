@@ -7,9 +7,7 @@ layout: default-nonav
 		<div class="post">
 			<h1><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a></h3>
 			{% if post.img %}
-				<a href="{{ site.baseurl }}{{ post.url}}">
 					<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-small">
-				</a>
 				<br>
 			{% endif %}
 			<speak>{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}</speak><br>
@@ -23,7 +21,7 @@ layout: default-nonav
 			{% endif %}
 			{% assign word_count = post.content | size %}
 			{% if word_count > 1000 %}
-                <speak>{{ post.content | truncatewords:120 }}</speak>
+                <speak>{{ post.content | truncatewords:500 }}</speak>
 				<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
 			{% else %}
             <speak>{{post.content}}</speak>
