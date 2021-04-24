@@ -142,9 +142,15 @@ a:hover {
 	width: 100%;
 }
 
+.docu-nav {
+	display: flex;
+	justify-content: flex-end;
+}
+
 .docu-flex-container {
     column-count: 1;
     column-gap: 1em;
+	
   @include tablet {
     column-count: 3;
     column-gap: 1em;
@@ -171,9 +177,18 @@ a:hover {
 .simple-view-container {
 	padding: auto;
 	margin: auto;
-	max-width: 50vw;
+	max-width: 95vw;
+	
+	@include tablet {
+		max-width: 70vw
+	}
+
+	@include desktop {
+		max-width: 40vw;
+	}
+
 	img {
-		width: 80%;
+		width: 100%;
 	}
 }
 
