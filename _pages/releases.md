@@ -4,6 +4,18 @@ title: Releases
 permalink: /releases/
 ---
 
+**[Karantän Tapes](https://giktrecords.bandcamp.com/album/karant-n-tapes)** w/ Felicia Nielson & Hannah Marshall  
+*[giktrecords](https://giktrecords.com/) April 2020*
+
+**[«Eine Mehrheit an Gedanken strukturiert die Hierarchie innerhalb des eigenen begrenzten Aktionsradius»](https://tmrwlabel.bandcamp.com/album/eine-mehrheit-an-gedanken-strukturiert-die-hierarchie-innerhalb-des-eigenen-begrenzten-aktionsradius)** Sam Andreae, Aziz Lewandowski  
+*[tmrw>](https://tmrwlabel.bandcamp.com) Feb 2019*
+
+**[Dismantle Yourself](https://slothracket.bandcamp.com/album/dismantle-yourself)** Sloth Racket  
+*[luminous](https://luminouslabel.bandcamp.com/) Feb 2019*
+
+**[Live at Ftarri](https://rawtonkrecords.bandcamp.com/album/live-at-ftarri)** Andreae/Birchall/Willberg/Nakamura  
+*[raw tonk](https://rawtonkrecords.bandcamp.com/) May 2018*
+
 **[Live in Beppu](https://davidbirchall.bandcamp.com/album/live-in-beppu)** Andreae/Birchall/Willberg  
 *[Vernacular](https://davidmbirchall.com/vernacular/) / [Heavy Petting](https://heavypettingtime.bandcamp.com/) February 2018*  
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1741688504/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="http://davidbirchall.bandcamp.com/album/live-in-beppu">Live in Beppu by Sam Andreae David Birchall Otto Willberg</a></iframe> 
