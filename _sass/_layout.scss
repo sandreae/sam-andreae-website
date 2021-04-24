@@ -169,7 +169,7 @@ a:hover {
 }
 
 #background-img {
-	background-image: url("../assets/background/background.jpg");
+	background-image: url("../assets/background/dithered-bg.png");
 	background-repeat: no-repeat;
 	background-position: center center;
 	background-attachment: fixed;
@@ -276,6 +276,7 @@ aside {
 	position: fixed;
 	top: 0;
 	left: 0;
+	a, a:visited {color: $nav-link-color}
 	@include linearGradient($color-primary, white);
 	z-index: 3;
 	nav {

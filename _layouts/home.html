@@ -1,21 +1,5 @@
 ---
 layout: default
 ---
-<script>
-window.onload = function() {
-	var el = document.getElementById("side-images")
-	el.classList.remove("fade-out");
-	el.classList.add("fade-in");
-};
-</script>
 
 <div id="background-img"></div>
-
-<div id="side-images" class="fade-out">
-	{% for post in site.posts %}
-		{% if post.img %}
-			<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener"><img src="{{ site.baseurl }}/assets/img/thumbnails/sam_andreae_{{ post.img }}" class="img-side" alt="sam andreae {{ post.title }}"></a>
-		</a>
-		{% endif %}
-	{% endfor %}
-</div>

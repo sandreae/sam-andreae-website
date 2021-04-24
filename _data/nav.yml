@@ -10,9 +10,6 @@
 - title: "Documentation"
   href: "/documentation/"
 
-- title: "Compositions"
-  href: "/compositions/"
-
 - title: "Releases"
   href: "/releases/"
 
@@ -24,6 +21,3 @@
 
 - title: "Press"
   href: "/press/"
-
-- title: "s10c"
-  href: "/s10c/"
