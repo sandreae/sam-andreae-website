@@ -145,6 +145,10 @@ a:hover {
 .docu-nav {
 	display: flex;
 	justify-content: flex-end;
+	a {
+		margin: 2px;
+	}
+
 }
 
 .docu-flex-container {
@@ -189,6 +193,13 @@ a:hover {
 
 	img {
 		width: 100%;
+	}
+}
+.reader-nav {
+	display: flex;
+	justify-content: flex-end;
+	a {
+		margin: 2px;
 	}
 }
 

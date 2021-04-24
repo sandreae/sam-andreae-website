@@ -1,10 +1,10 @@
 ---
 layout: default-nonav
 ---
-<div class="docu-nav"><a href="{{ site.baseurl }}/documentation/" target="_top">back</a></div>
+<div class="reader-nav"><a href="" id="text-to-speach">text-to-speach</a>  <a href="{{ site.baseurl }}/documentation/" target="_top">back</a></div>
 <div class="simple-view-container">
 	{% for post in site.posts %}
-		<div class="simple-view">
+		<div class="post">
 			<h1><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a></h3>
 			{% if post.img %}
 				<a href="{{ site.baseurl }}{{ post.url}}">
@@ -12,22 +12,23 @@ layout: default-nonav
 				</a>
 				<br>
 			{% endif %}
-			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
-			{{ post.date | date: "%b %-d, %Y" }}</time><br>
-			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
+			<speak>{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}</speak><br>
+            <time><speak>{{ post.date | date: "%b %-d, %Y" }}</speak></time><br>
+			<speak>{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}</speak><br>
 			{% if post.with %}
-				with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i><br>
+				<speak>with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i></speak><br>
 			{% endif %}
 			{% if post.link %}
 				<a href="{{ post.link}}">{{ post.link}}</a>
 			{% endif %}
 			{% assign word_count = post.content | size %}
 			{% if word_count > 1000 %}
-				{{ post.content | truncatewords:120 }}
+                <speak>{{ post.content | truncatewords:120 }}</speak>
 				<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
 			{% else %}
-				{{post.content}}
+            <speak>{{post.content}}</speak>
 			{% endif %}
 		</div>
 	{% endfor %}
+    {% include texttospeak.html %}
 </div>

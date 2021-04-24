@@ -1,0 +1,49 @@
+<script>
+    const textToSpeachOn = (e) => {
+        e.preventDefault()
+        e.target.style.backgroundColor = "red"
+        e.target.onclick = textToSpeachOff
+        let posts = document.getElementsByTagName("speak")
+        for (post of posts) {
+            post.onclick = function(e) {
+                window.speechSynthesis.cancel();
+                let msg = new SpeechSynthesisUtterance();
+                msg.text = e.target.textContent
+                window.speechSynthesis.speak(msg);
+            };
+            post.onmouseover = function(e) {
+                e.target.style.cursor = "pointer"
+                e.target.style.backgroundColor = "red";
+            }
+            post.onmouseout = function(e) {
+                e.target.style.backgroundColor = "";
+            }
+        }
+    }
+    const textToSpeachOff = (e) => {
+        e.preventDefault()
+        e.target.style.backgroundColor = ""
+        e.target.onclick = textToSpeachOn
+        let posts = document.getElementsByTagName("speak")
+        for (post of posts) {
+            post.style.cursor = ""
+            post.style.backgroundColor = "";
+            post.onclick = null;
+            post.onmouseover = null
+            post.onmouseout = null
+        }
+
+    }
+    // let speakAllButton = document.getElementById("speak-all")
+    // speakAllButton.onclick = function() {
+    //     let posts = document.getElementsByTagName("speak")
+    //     for (post of posts) {
+    //         let msg = new SpeechSynthesisUtterance();
+    //         msg.text = post.textContent
+    //         window.speechSynthesis.speak(msg);
+    //     }
+        
+    // }
+    let textToSpeachButton = document.getElementById("text-to-speach")
+    textToSpeachButton.onclick = textToSpeachOn
+</script>
