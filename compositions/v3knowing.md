@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: v3K:nowing Each Other
 permalink: /compositions/v3knowing
 ---

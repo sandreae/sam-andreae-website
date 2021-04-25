@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: EVERYONE ALWAYS HONESTLY
 permalink: /compositions/everyonealwayshonestly
 ---

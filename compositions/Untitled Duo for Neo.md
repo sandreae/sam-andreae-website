@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: Untitled Duo for Neo Hülcker
 permalink: /compositions/neo
 ---

@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: CURIOUSLY TEA SHE SAID
 permalink: /compositions/curiouslyteashesaid
 ---

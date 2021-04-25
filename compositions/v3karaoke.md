@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: v3K:araoke
 permalink: /compositions/v3karaoke
 ---

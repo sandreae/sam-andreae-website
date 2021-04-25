@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: v3K:ämpfen
 permalink: /compositions/v3kaempfen
 ---

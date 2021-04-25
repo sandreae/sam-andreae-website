@@ -1,5 +1,5 @@
 ---
-layout: composition
+layout: page
 title: Untitled for CUEE
 permalink: /compositions/cuee
 ---
