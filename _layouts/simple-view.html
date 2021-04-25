@@ -1,32 +1,17 @@
 ---
 layout: default-nonav
 ---
-<div class="reader-nav"><a href="" id="text-to-speach">text-to-speach</a>  <a href="{{ site.baseurl }}/documentation/" target="_top">back</a></div>
-<div class="simple-view-container">
-	{% for post in site.posts %}
-		<div class="post">
-			<h1><a href="{{ site.baseurl }}{{ post.url}}">{{ post.title }}</a></h1>
-			{% if post.img %}
-				<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-small">
-				<br>
-			{% endif %}
-			<speak>{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}</speak><br>
-            <time><speak>{{ post.date | date: "%b %-d, %Y" }}</speak></time><br>
-			<speak>{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}</speak><br>
-			{% if post.with %}
-				<speak>with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i></speak><br>
-			{% endif %}
-			{% if post.link %}
-				<a href="{{ post.link}}">{{ post.link}}</a>
-			{% endif %}
-			{% assign word_count = post.content | size %}
-			{% if word_count > 1000 %}
-                <speak>{{ post.content | truncatewords:500 }}</speak>
-				<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
-			{% else %}
-            <speak>{{post.content}}</speak>
-			{% endif %}
-		</div>
-	{% endfor %}
-    {% include texttospeak.html %}
-</div>
+	<nav class="reader-nav">
+		<a href="" id="text-to-speach">text-to-speach</a>  <a href="{{ site.baseurl }}/documentation/" target="_top">back</a>
+	</nav>
+	<div class="reader-container">
+		{% for post in site.posts %}
+			<article class="post speak">
+				<h1>{% include post_title_link.html %}</h1>
+				{% include post_image.html %}
+				{% include post_meta.html %}
+				{% include post_content_short.html %}
+			</article>
+		{% endfor %}
+	</div>
+	{% include texttospeak.html %}

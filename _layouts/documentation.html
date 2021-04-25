@@ -4,30 +4,11 @@ layout: default
 <div class="docu-nav"><a href="{{ site.baseurl }}/reader/" target="_top">reader view</a></div>
 <div class="docu-flex-container">
 	{% for post in site.posts %}
-		<div class="documentation">
-			{% if post.img %}
-				<a href="{{ site.baseurl }}{{ post.url}}" target="_top">
-					<img src="{{ site.baseurl }}/assets/img/happytom.png" data-echo="{{ site.baseurl }}/assets/img/sam_andreae_{{post.img}}" alt="sam andreae {{ post.title }}" class="img-big">
-				</a>
-				<br>
-			{% endif %}
-			<h3><a href="{{ site.baseurl }}{{ post.url}}" target="_top">{{ post.title }}</a></h3>
-			{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}<br><time>
-			{{ post.date | date: "%b %-d, %Y" }}</time><br>
-			{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}<br>
-			{% if post.with %}
-				with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i><br>
-			{% endif %}
-			{% if post.link %}
-				<a href="{{ post.link}}">{{ post.link}}</a>
-			{% endif %}
-			{% assign word_count = post.content | size %}
-			{% if word_count > 1000 %}
-				{{ post.content | truncatewords:120 }}
-				<a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
-			{% else %}
-				{{post.content}}
-			{% endif %}
-		</div>
+		<article class="documentation">
+			{% include post_image.html %}
+			<h3>{% include post_title_link.html %}</h3>
+			{% include post_meta.html %}
+			{% include post_content_short.html %}
+		</article>
 	{% endfor %}
 </div>

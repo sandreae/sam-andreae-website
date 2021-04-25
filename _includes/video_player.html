@@ -1,0 +1,37 @@
+<script src="https://luwes.github.io/vimeowrap.js/vimeowrap.js"></script>
+<script src="https://luwes.github.io/vimeowrap.js/vimeowrap.playlist.js"></script>
+<script>
+
+var player, playerContainer, positionInfo, height, width, playerHeight
+
+function getSizes() {
+	player = document.createElement("div")
+	player.setAttribute("id", "player");
+	playerContainer =  document.getElementById("player-container");
+	positionInfo = playerContainer.getBoundingClientRect();
+	height = parseInt(positionInfo.height*0.8);
+	width = parseInt(positionInfo.width);
+	playlistHeight = parseInt(positionInfo.height*0.2);
+	playerContainer.appendChild(player);
+}
+
+function loadPlayer(){
+	console.log("loaded")
+	getSizes()
+	vimeowrap('player').setup({
+	    urls: [
+	        'https://vimeo.com/user14132827'
+	    ],
+	    autoplay: true,
+	    height: height,
+	    width: width,
+	    plugins: {
+	        'playlist':{size: playlistHeight}
+	    }
+	});
+}
+
+loadPlayer();
+window.onresize = loadPlayer;
+
+</script>

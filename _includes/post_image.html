@@ -1,0 +1,5 @@
+{% assign file_path  = "/assets/img/" %}
+{% if post.img %}
+    {% assign filepath = 'sam_andreae_' | append: post.img | prepend: file_path %}
+    <img src="{{ site.baseurl | append: '/assets/img/happytom.png' }}" data-echo="{{ filepath | prepend: site.baseurl }}" alt="sam andreae {{ post.title }}" class="img-big">
+{% endif %}

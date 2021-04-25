@@ -17,7 +17,7 @@ body {
     transition: none;
 }
 
-main {
+#main {
     opacity: 1;
     transition: 0.2s opacity;
   	max-width: $content-width;
@@ -33,7 +33,7 @@ main {
   }
 }
 
-main.fade-out {
+#main.fade-out {
     opacity: 0;
     transition: none;
 }
@@ -87,6 +87,34 @@ a:hover {
     width: 80%;
     margin: auto;
   }
+}
+
+
+.reader-nav {
+	display: flex;
+	justify-content: flex-end;
+	a {
+		margin: 2px;
+	}
+}
+
+.reader-container{
+  padding: auto;
+  margin: auto;
+  max-width: 95vw;
+  
+  @include tablet {
+	  max-width: 70vw
+  }
+
+  @include desktop {
+	  max-width: 40vw;
+  }
+
+  img {
+	  width: 100%;
+  }
+
 }
 
 .single-post {
@@ -178,30 +206,6 @@ a:hover {
 	border-color: red;
 }
 
-.simple-view-container {
-	padding: auto;
-	margin: auto;
-	max-width: 95vw;
-	
-	@include tablet {
-		max-width: 70vw
-	}
-
-	@include desktop {
-		max-width: 40vw;
-	}
-
-	img {
-		width: 100%;
-	}
-}
-.reader-nav {
-	display: flex;
-	justify-content: flex-end;
-	a {
-		margin: 2px;
-	}
-}
 
 #background-img {
 	background-image: url("../assets/background/dithered-bg.png");

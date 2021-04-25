@@ -1,0 +1,13 @@
+<ul>
+    <li>{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}</li>
+    <li><time>{{ post.date | date: "%b %-d, %Y" }}</time></li>
+    <li>{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}</li>
+    {% if post.with %}
+        <li>
+            with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+        </li>
+    {% endif %}
+    {% if post.link %}
+        <li><a href="{{ post.link}}">{{ post.link}}</a></li>
+    {% endif %}
+</ul>

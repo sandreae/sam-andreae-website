@@ -3,7 +3,7 @@
         e.preventDefault()
         e.target.style.backgroundColor = "red"
         e.target.onclick = textToSpeachOff
-        let posts = document.getElementsByTagName("speak")
+        let posts = document.getElementsByClassName("speak")
         for (post of posts) {
             post.onclick = function(e) {
                 window.speechSynthesis.cancel();
@@ -11,11 +11,11 @@
                 msg.text = e.target.textContent
                 window.speechSynthesis.speak(msg);
             };
-            post.onmouseover = function(e) {
+            post.onmouseenter = function(e) {
                 e.target.style.cursor = "pointer"
                 e.target.style.backgroundColor = "red";
             }
-            post.onmouseout = function(e) {
+            post.onmouseleave = function(e) {
                 e.target.style.backgroundColor = "";
             }
         }
@@ -24,7 +24,7 @@
         e.preventDefault()
         e.target.style.backgroundColor = ""
         e.target.onclick = textToSpeachOn
-        let posts = document.getElementsByTagName("speak")
+        let posts = document.getElementsByClassName("speak")
         for (post of posts) {
             post.style.cursor = ""
             post.style.backgroundColor = "";

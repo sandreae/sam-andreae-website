@@ -1,13 +1,12 @@
 <!DOCTYPE html>
 <html>
-
-{% include head.html %}
-<body>
-	<img src="../assets/background/dithered-bg.png" class="hidden">
-	{% include header.html %}
-	<main id="main">
-	{{ content }}
-	</main>
-	{% include lazyload.html %}
-</body>
+	{% include head.html %}
+	<body>
+		{% include header.html %}
+		<main id="main">
+			{{ content }}
+		</main>
+		{% include lazyload.html %}
+		{% include canvas_draw.html %}
+	</body>
 </html>
