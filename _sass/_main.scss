@@ -1,0 +1,331 @@
+body {
+	margin: 0;
+	font-family: $font-style;
+	font-size: 0.8em;
+	color: $font-color;
+	line-height: 1.6;
+	-webkit-font-smoothing: antialiased;
+}
+
+
+h3 {
+	font-weight: 600;
+	color: $heading-font-color;
+	font-family: $heading-font;
+	line-height: 1;
+}
+h1 {
+	color: $color-primary;
+	font-size: 2.5em;
+	a,
+	a:visited {
+		text-decoration: none;
+		color: $color-primary;
+	}
+}
+h2 {
+	font-size: 2em;
+	margin: 0px;
+}
+a,
+a:visited {
+	color: $link-color;
+	text-decoration: underline;
+	font-weight: bold;
+}
+a:hover {
+	color: $link-hover-color;
+	text-decoration: underline;
+}
+
+.fade-in {
+	opacity: 1;
+	transition: 1s opacity;
+}
+
+.fade-out {
+	opacity: 0;
+	transition: none;
+}
+
+.img-big {
+	width: 100%;
+	page-break-inside: avoid;
+}
+
+.img-small {
+	width: 49%;
+	page-break-inside: avoid;
+}
+.img-thumb {
+	width: 200px;
+	page-break-inside: avoid;
+}
+
+time {
+	color: #898989;
+}
+
+.scrolling {
+	display: inline-block;
+	white-space: nowrap;
+	animation: floatText 5s infinite linear;
+	padding-left: 100%; /*Initial offset*/
+	color: red;
+}
+
+@keyframes floatText {
+	to {
+		transform: translateX(-100%);
+	}
+}
+
+#background-img {
+	background-image: url("../assets/background/dithered-bg.png");
+	background-repeat: no-repeat;
+	background-position: center center;
+	background-attachment: fixed;
+	background-size: cover;
+	position: fixed;
+	left: 0px;
+	width: 100vw;
+	height: 100vh;
+}
+
+#main {
+	opacity: 1;
+	transition: 0.2s opacity;
+	max-width: $content-width;
+	padding-top: 50px;
+	@include tablet {
+		padding-top: 0px;
+		padding-left: $nav-width-tablet;
+	}
+
+	@include desktop {
+		padding-top: 0px;
+		padding-left: $nav-width-desktop;
+	}
+}
+
+#main.fade-out {
+	opacity: 0;
+	transition: none;
+}
+
+
+// SIDE NAV
+
+#side-nav {
+	width: $nav-width;
+	height: 50px;
+	position: fixed;
+	top: 0;
+	left: 0;
+	a,
+	a:visited {
+		color: $nav-link-color;
+	}
+	@include linearGradient($color-primary, white);
+	z-index: 3;
+	nav {
+		float: left;
+		width: $nav-width;
+		margin: 0 auto;
+		a {
+			padding: 0px 2px 0px 2px;
+			font-size: 1em;
+			text-decoration: none;
+			display: block;
+			box-shadow: 0;
+			&:hover,
+			&:active {
+				background: $header;
+				text-decoration: none;
+				color: $color-secondary;
+			}
+		}
+		ul {
+			margin: 0;
+			padding: 0;
+			list-style: none;
+			li {
+				margin: 0;
+				padding: 0;
+				display: block;
+				&.active {
+					background: $header;
+					text-decoration: none;
+					color: $color-secondary;
+					display: block;
+				}
+				float: left;
+				position: relative;
+			}
+		}
+		&:after {
+			content: "";
+			display: table;
+			clear: both;
+		}
+	}
+	@include tablet {
+		width: $nav-width-tablet;
+		height: 100vh;
+		nav ul {
+			width: $nav-width-tablet;
+			li {
+				width: $nav-width-tablet;
+				padding: 0px 0px 0px 0px;
+			}
+		}
+	}
+
+	@include desktop {
+		width: $nav-width-desktop;
+		height: 100vh;
+		nav ul {
+			width: $nav-width-desktop;
+			li {
+				width: $nav-width-desktop;
+				padding: 0px 0px 0px 0px;
+			}
+		}
+	}
+}
+
+footer {
+	text-align: center;
+	padding: 40px;
+}
+
+// LAYOUTS
+
+.single-flex-container {
+	column-count: 1;
+	column-gap: 1em;
+	width: 95%;
+	margin: auto;
+
+	@include tablet {
+		column-count: 1;
+		column-gap: 1em;
+		width: 95%;
+		margin: auto;
+	}
+
+	@include desktop {
+		column-count: 1;
+		column-gap: 1em;
+		width: 80%;
+		margin: auto;
+	}
+}
+
+.reader-container {
+	padding: auto;
+	margin: auto;
+	max-width: 95vw;
+
+	@include tablet {
+		max-width: 70vw;
+	}
+
+	@include desktop {
+		max-width: 40vw;
+	}
+
+	img {
+		width: 100%;
+	}
+}
+
+
+.reader-nav {
+	display: flex;
+	justify-content: flex-end;
+	a {
+		margin: 2px;
+	}
+}
+
+.single-post {
+	width: 90%;
+	margin-top: 3em;
+	margin-bottom: 3em;
+	margin-right: 18px;
+	padding: 3em;
+	display: block;
+	border: none;
+	border-color: red;
+}
+
+.hidden {
+	display: none;
+}
+
+.composition {
+	img {
+		width: 100%;
+	}
+	margin-bottom: 10px;
+	margin-top: 10px;
+	width: 100%;
+}
+
+.docu-nav {
+	display: flex;
+	justify-content: flex-end;
+	a {
+		margin: 2px;
+	}
+}
+
+.docu-flex-container {
+	column-count: 1;
+	column-gap: 1em;
+
+	@include tablet {
+		column-count: 3;
+		column-gap: 1em;
+	}
+
+	@include desktop {
+		column-count: 3;
+		column-gap: 1em;
+	}
+}
+
+.documentation {
+	overflow: hidden;
+	width: 100%;
+	margin-bottom: 1em;
+	margin-top: 1em;
+	padding-bottom: 1em;
+	padding-top: 1em;
+	display: inline-block;
+	border: dotted;
+	border-color: red;
+}
+
+// PAGES
+
+#player-container {
+	width: 100%;
+	height: 100vh;
+}
+
+#bandcamp {
+	width: 100%;
+	height: 100vh;
+}
+
+#calendar {
+	max-width: 100%;
+	width: 100%;
+	table {
+		table-layout: fixed;
+		width: 100%;
+		word-wrap: break-word;
+	}
+}
