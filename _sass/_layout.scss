@@ -8,34 +8,34 @@ body {
 }
 
 .fade-in {
-    opacity: 1;
-    transition: 1s opacity;
+	opacity: 1;
+	transition: 1s opacity;
 }
 
 .fade-out {
-    opacity: 0;
-    transition: none;
+	opacity: 0;
+	transition: none;
 }
 
 #main {
-    opacity: 1;
-    transition: 0.2s opacity;
-  	max-width: $content-width;
-  	padding-top: 50px;
-    @include tablet {
-  	padding-top: 0px;
-  	padding-left: $nav-width-tablet;
-  }
+	opacity: 1;
+	transition: 0.2s opacity;
+	max-width: $content-width;
+	padding-top: 50px;
+	@include tablet {
+		padding-top: 0px;
+		padding-left: $nav-width-tablet;
+	}
 
-  @include desktop {
-	padding-top: 0px;
-  	padding-left: $nav-width-desktop;
-  }
+	@include desktop {
+		padding-top: 0px;
+		padding-left: $nav-width-desktop;
+	}
 }
 
 #main.fade-out {
-    opacity: 0;
-    transition: none;
+	opacity: 0;
+	transition: none;
 }
 
 h3 {
@@ -69,26 +69,25 @@ a:hover {
 }
 
 .single-flex-container {
-    column-count: 1;
-    column-gap: 1em;
-    width: 95%;
-    margin: auto;
+	column-count: 1;
+	column-gap: 1em;
+	width: 95%;
+	margin: auto;
 
-  @include tablet {
-    column-count: 1;
-    column-gap: 1em;
-    width: 95%;
-    margin: auto;
-  }
+	@include tablet {
+		column-count: 1;
+		column-gap: 1em;
+		width: 95%;
+		margin: auto;
+	}
 
-  @include desktop {
-    column-count: 1;
-    column-gap: 1em;
-    width: 80%;
-    margin: auto;
-  }
+	@include desktop {
+		column-count: 1;
+		column-gap: 1em;
+		width: 80%;
+		margin: auto;
+	}
 }
-
 
 .reader-nav {
 	display: flex;
@@ -98,23 +97,22 @@ a:hover {
 	}
 }
 
-.reader-container{
-  padding: auto;
-  margin: auto;
-  max-width: 95vw;
-  
-  @include tablet {
-	  max-width: 70vw
-  }
+.reader-container {
+	padding: auto;
+	margin: auto;
+	max-width: 95vw;
 
-  @include desktop {
-	  max-width: 40vw;
-  }
+	@include tablet {
+		max-width: 70vw;
+	}
 
-  img {
-	  width: 100%;
-  }
+	@include desktop {
+		max-width: 40vw;
+	}
 
+	img {
+		width: 100%;
+	}
 }
 
 .single-post {
@@ -129,11 +127,11 @@ a:hover {
 }
 
 .project-post {
-  margin: auto;
-  width: 25%;
-  display: inline-block;
-  overflow-wrap: break-word;
-  word-wrap: break-word;
+	margin: auto;
+	width: 25%;
+	display: inline-block;
+	overflow-wrap: break-word;
+	word-wrap: break-word;
 }
 
 .all-project-posts {
@@ -145,7 +143,8 @@ a:hover {
 	display: none;
 }
 
-.projects, .s10c-events {
+.projects,
+.s10c-events {
 	width: 400px;
 	margin: auto;
 	margin-bottom: 20px;
@@ -163,8 +162,11 @@ a:hover {
 	width: 300px;
 }
 
-.composition, .workshop {
-	img {width:100%;}
+.composition,
+.workshop {
+	img {
+		width: 100%;
+	}
 	margin-bottom: 10px;
 	margin-top: 10px;
 	width: 100%;
@@ -176,22 +178,21 @@ a:hover {
 	a {
 		margin: 2px;
 	}
-
 }
 
 .docu-flex-container {
-    column-count: 1;
-    column-gap: 1em;
-	
-  @include tablet {
-    column-count: 3;
-    column-gap: 1em;
-  }
+	column-count: 1;
+	column-gap: 1em;
 
-  @include desktop {
-    column-count: 3;
-    column-gap: 1em;
-  }
+	@include tablet {
+		column-count: 3;
+		column-gap: 1em;
+	}
+
+	@include desktop {
+		column-count: 3;
+		column-gap: 1em;
+	}
 }
 
 .documentation {
@@ -205,7 +206,6 @@ a:hover {
 	border: dotted;
 	border-color: red;
 }
-
 
 #background-img {
 	background-image: url("../assets/background/dithered-bg.png");
@@ -256,7 +256,7 @@ a:hover {
 #all-posts {
 	display: none;
 	@include desktop {
-		display:inline-block;
+		display: inline-block;
 		left: 0;
 		margin-right: 15vw;
 		margin-left: 15vw;
@@ -270,21 +270,21 @@ a:hover {
 
 .img-side {
 	width: 100%;
-  page-break-inside: avoid;
+	page-break-inside: avoid;
 }
 
 .img-big {
 	width: 100%;
-  page-break-inside: avoid;
+	page-break-inside: avoid;
 }
 
 .img-small {
 	width: 49%;
-  page-break-inside: avoid;
+	page-break-inside: avoid;
 }
 .img-thumb {
 	width: 200px;
-  page-break-inside: avoid;
+	page-break-inside: avoid;
 }
 
 time {
@@ -292,20 +292,18 @@ time {
 }
 
 .scrolling {
-  display: inline-block;
-  white-space: nowrap;
-  animation: floatText 5s infinite linear;
-  padding-left: 100%; /*Initial offset*/
-  color: red;
+	display: inline-block;
+	white-space: nowrap;
+	animation: floatText 5s infinite linear;
+	padding-left: 100%; /*Initial offset*/
+	color: red;
 }
 
 @keyframes floatText {
-  to {
-    transform: translateX(-100%);
-  }
+	to {
+		transform: translateX(-100%);
+	}
 }
-
-
 
 /* Aside */
 
@@ -315,13 +313,29 @@ aside {
 	position: fixed;
 	top: 0;
 	left: 0;
-	a, a:visited {color: $nav-link-color}
+	a,
+	a:visited {
+		color: $nav-link-color;
+	}
 	@include linearGradient($color-primary, white);
 	z-index: 3;
 	nav {
 		float: left;
 		width: $nav-width;
 		margin: 0 auto;
+		a {
+			padding: 0px 2px 0px 2px;
+			font-size: 1em;
+			text-decoration: none;
+			display: block;
+			box-shadow: 0;
+			&:hover,
+			&:active {
+				background: $header;
+				text-decoration: none;
+				color: $color-secondary;
+			}
+		}
 		ul {
 			margin: 0;
 			padding: 0;
@@ -338,40 +352,16 @@ aside {
 				}
 				float: left;
 				position: relative;
-				a {
-					padding: 0px 2px 0px 2px;
-					font-size: 1em;
-					text-decoration: none;
-					display: block;
-					box-shadow: 0;
-					&:hover,
-					&:active {
-						background: $header;
-						text-decoration: none;
-						color: $color-secondary;
-					}
-				}
-				ul {
-					left: $nav-width;
-					display: none;
-					position: absolute;
-					top: 0px;
-					background: $color-primary;
-				}
-				&:hover ul {
-					display: block;
-				}
 			}
-
 		}
 		&:after {
-			content: '';
+			content: "";
 			display: table;
 			clear: both;
 		}
 	}
 	@include tablet {
-	width: $nav-width-tablet;
+		width: $nav-width-tablet;
 		height: 100vh;
 		nav ul {
 			width: $nav-width-tablet;
@@ -388,8 +378,8 @@ aside {
 		nav ul {
 			width: $nav-width-desktop;
 			li {
-			width: $nav-width-desktop;
-			padding: 0px 0px 0px 0px;
+				width: $nav-width-desktop;
+				padding: 0px 0px 0px 0px;
 			}
 		}
 	}
