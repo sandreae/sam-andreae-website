@@ -4,11 +4,10 @@
         for (const sampleButton of sampleButtons) {
             sampleButton.onclick = (e) => {
                 let audio = document.getElementById(e.target.attributes.sampleId.value)
-                console.log(audio)
 
                 if (!audio.src) {
-                    audio.src = `/assets/samples/${audio.attributes.sample.value}`
                     sampleButton.classList.add('disabled')
+                    audio.src = `/assets/samples/${audio.attributes.sample.value}`
                     audio.addEventListener("canplay", event => {
                         audio.play();
                         sampleButton.classList.remove('disabled')
