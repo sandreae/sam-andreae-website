@@ -7,6 +7,7 @@ categories: performance
 link: http://www.fortprocess.co.uk/
 img: sb-fortprocess1.jpg
 with: "Hanna Olivegren and Gus Loxbo"
+sample: silence_blossoms_fort_process.ogg
 ---
 
 ![Silence Blossoms @ Fort Process](/assets/img/sam_andreae_sb-fortprocess2.jpg){:class="img-big"}

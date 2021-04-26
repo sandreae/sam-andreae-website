@@ -7,6 +7,7 @@ categories: performance
 link: https://github.com/adzialocha/NOR
 img: norimg.jpg
 with: "Christian Windfeld - slagtøj, Lil Lacy - cello, stemme, synthesizer, Sam Andreae - saxofon, lo-fi elektronik, Andreas Dzialocha - elektrisk bas, Kaj Duncan David - radio, synthesizer"
+sample: nor_aarhus.ogg
 ---
 
 ![NOR](/assets/videos/nor.gif){:class="img-big"}

@@ -6,9 +6,11 @@ layout: default
 	{% for post in site.posts %}
 		<article class="documentation">
 			{% include post_image.html %}
+			{% include post_sample.html post=post%}
 			<h3>{% include post_title_link.html %}</h3>
 			{% include post_meta.html %}
 			{% include post_content_short.html %}
 		</article>
 	{% endfor %}
 </div>
+{% include play_sample.html %}

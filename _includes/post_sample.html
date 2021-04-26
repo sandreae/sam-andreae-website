@@ -1,0 +1,4 @@
+{% if include.post.sample %}
+    <button class="sample-button" sampleId="{{ include.post.slug }}">&#128066;</button>
+    <audio class="sample-audio" id="{{ include.post.slug }}" sample="{{ include.post.sample }}"></audio>
+{% endif %}

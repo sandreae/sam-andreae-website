@@ -7,6 +7,7 @@ date: 2020-09-12
 categories: workshop
 with: "[Artefact](https://www.artefactstirchley.co.uk/), local participants"
 img:
+sample: foley_theatre_heroine.ogg
 ---
 
 ----------------------------

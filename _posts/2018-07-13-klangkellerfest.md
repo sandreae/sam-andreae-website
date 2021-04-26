@@ -7,6 +7,7 @@ categories: klangkeller
 link: http://klangkeller.net/
 img: kkfest.jpg
 with: "[Mio Ebisu](www.mioebisu.com), Seht Zhan and Aziz Lewandowski"
+sample: foley_theatre_klangkeller.ogg
 ---
 
 ![klangkeller summer festival](/assets/img/sam_andreae_kkfest1.jpg){:class="img-big"}
