@@ -1,7 +1,7 @@
 body {
 	margin: 0;
 	font-family: $font-style;
-	font-size: 1em;
+	font-size: 0.8em;
 	color: $font-color;
 	line-height: 1.6;
 	-webkit-font-smoothing: antialiased;
@@ -27,6 +27,11 @@ h1 {
 h2 {
 	font-size: 2em;
 	margin: 0px;
+}
+ul {
+	margin: 0;
+	padding: 0;
+	list-style: none;
 }
 button {
 	color: $link-color;
@@ -179,9 +184,6 @@ button.playing {
 			}
 		}
 		ul {
-			margin: 0;
-			padding: 0;
-			list-style: none;
 			li {
 				margin: 0;
 				padding: 0;
