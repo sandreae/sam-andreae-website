@@ -11,7 +11,7 @@ permalink: /compositions/everyone-no2
 
 For this set of scores I also made a mobile app for live sampling:
 
-{% video ./assets/videos/trio-fun.mp4 100% %}
+{% video ./assets/videos/trio-fun-small.mp4 100% %}
 
 Try the app out on moble devices here:  
 

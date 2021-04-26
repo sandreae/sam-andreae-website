@@ -5,6 +5,8 @@ description: solo electro-acoustic saxophone album
 date: 2015-05-01
 location: Tombed Visions
 categories: release
+link: http://tombedvisionsrecords.bandcamp.com/album/solo
+img: solo.jpg
 ---
 
 Very happy to have my debut solo record released on Manchester label [Tombed Visions](https://tombedvisionsrecords.bandcamp.com/). It was recorded expertly in my basement in Macclesfield by Jon Tippler. Here are a few words people have said about it:
@@ -17,4 +19,4 @@ Very happy to have my debut solo record released on Manchester label [Tombed Vis
 
 >*Sam Andreae plots a new course for the saxophone in this album of solo improvisations*
 
-<iframe style="border: 0; width: 300px; height: 300px;" src="https://bandcamp.com/EmbeddedPlayer/album=1156789024/size=large/bgcol=ffffff/linkcol=333333/minimal=true/transparent=true/" seamless><a href="http://tombedvisionsrecords.bandcamp.com/album/solo">Solo by Sam Andreae</a></iframe>
+[bandcamp](http://tombedvisionsrecords.bandcamp.com/album/solo)

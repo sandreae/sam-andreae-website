@@ -12,4 +12,4 @@ img: shapeshifters.jpg
 
 The second Sloth Racket album ‘Shapeshifters’ is out now :-)
 
-<iframe style="border: 0; width: 100%; height: 42px;" src="https://bandcamp.com/EmbeddedPlayer/album=3719127861/size=small/bgcol=ffffff/linkcol=0687f5/transparent=true/" seamless><a href="http://slothracket.bandcamp.com/album/shapeshifters">Shapeshifters by Sloth Racket</a></iframe>
+[http://slothracket.bandcamp.com/album/shapeshifters](bandcamp)
