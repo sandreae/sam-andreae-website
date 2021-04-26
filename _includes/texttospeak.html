@@ -7,7 +7,7 @@
         for (post of posts) {
             post.onclick = function(e) {
                 window.speechSynthesis.cancel();
-                let msg = new SpeechSynthesisUtterance();
+                let msg = new SpeechSynthesisUtterance()
                 msg.text = e.target.textContent
                 window.speechSynthesis.speak(msg);
             };

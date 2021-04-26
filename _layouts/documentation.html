@@ -4,13 +4,16 @@ layout: default
 <div class="docu-nav"><a href="{{ site.baseurl }}/reader/" target="_top">reader view</a></div>
 <div class="docu-flex-container">
 	{% for post in site.posts %}
-		<article class="documentation">
+		<div class="documentation">
 			{% include post_image.html %}
+			<button class="text-to-speach-button docu-button" textToSpeachId="speak-{{ post.slug }}">&#128483;</button>
 			{% include post_sample.html post=post%}
-			<h3>{% include post_title_link.html %}</h3>
-			{% include post_meta.html %}
-			{% include post_content_short.html %}
-		</article>
+			<article id="speak-{{ post.slug }}">
+				<h3>{% include post_title_link.html %}</h3>
+				{% include post_meta.html %}
+				{% include post_content_short.html %}
+			</article>
+		</div>
 	{% endfor %}
 </div>
 {% include play_sample.html %}

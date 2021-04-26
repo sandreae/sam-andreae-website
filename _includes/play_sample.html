@@ -1,5 +1,5 @@
 <script>
-    window.addEventListener('DOMContentLoaded', (event) => {
+    const initSamplePlayer = () => {
         let sampleButtons = document.getElementsByClassName('sample-button')
         for (const sampleButton of sampleButtons) {
             sampleButton.onclick = (e) => {
@@ -26,5 +26,37 @@
                 sampleButton.classList.add('playing')
             }
         }
+    }
+    const initTextToSpeachButtons = () => {
+        let textToSpeachButtons = document.getElementsByClassName('text-to-speach-button')
+        for (const textToSpeachButton of textToSpeachButtons) {
+            textToSpeachButton.onclick = (e) => {
+                textToSpeachId = e.target.attributes.textToSpeachId.value
+                let el = document.getElementById(textToSpeachId)
+                let textToSpeachButtons = document.getElementsByClassName('text-to-speach-button')
+                
+                if (window.speechSynthesis.speaking) {
+                    window.speechSynthesis.cancel();                    
+                } 
+
+                if (!e.target.classList.contains('playing')) {
+                    for (const textToSpeachButton of textToSpeachButtons) {
+                        textToSpeachButton.classList.remove('playing')
+                    }
+                    let msg = new SpeechSynthesisUtterance();
+                    msg.text = el.textContent
+                    window.speechSynthesis.speak(msg);            
+                    e.target.classList.add('playing')
+                } else {
+                    e.target.classList.remove('playing')
+                }
+                
+            }
+        }
+
+    }
+    window.addEventListener('DOMContentLoaded', (event) => {
+        initSamplePlayer()
+        initTextToSpeachButtons()
     });
 </script>
