@@ -1,17 +1,20 @@
 ---
 layout: default-nonav
 ---
-	<nav class="reader-nav">
-		<a href="" id="text-to-speach">text-to-speach</a>  <a href="{{ site.baseurl }}/documentation/" target="_top">back</a>
-	</nav>
-	<div class="reader-container">
-		{% for post in site.posts %}
+<nav class="reader-nav">
+	<a href="" id="text-to-speach">text-to-speach</a>
+	<a href="{{ site.baseurl }}/documentation/" target="_top">back</a>
+</nav>
+<div class="reader-container">
+	{% for post in site.posts %}
+		<div class="reader-post">
 			<article class="post speak">
 				<h1>{% include post_title_link.html %}</h1>
 				{% include post_image.html %}
 				{% include post_meta.html %}
-				{% include post_content_short.html %}
+				{% include post_content.html %}
 			</article>
-		{% endfor %}
-	</div>
-	{% include texttospeak.html %}
+		</div>
+	{% endfor %}
+</div>
+{% include texttospeak.html %}
