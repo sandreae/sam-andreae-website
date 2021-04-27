@@ -4,7 +4,7 @@
     <li>{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}</li>
     {% if post.with %}
         <li>
-            with <i>Sam Andreae, {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+            <i>with {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
         </li>
     {% endif %}
     {% if post.link %}
