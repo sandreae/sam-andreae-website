@@ -7,6 +7,7 @@ location: Tombed Visions
 categories: release
 link: http://tombedvisionsrecords.bandcamp.com/album/solo
 img: solo.jpg
+bandcamp: http://tombedvisionsrecords.bandcamp.com/album/solo
 ---
 
 Very happy to have my debut solo record released on Manchester label [Tombed Visions](https://tombedvisionsrecords.bandcamp.com/). It was recorded expertly in my basement in Macclesfield by Jon Tippler. Here are a few words people have said about it:
@@ -18,5 +19,3 @@ Very happy to have my debut solo record released on Manchester label [Tombed Vis
 **["Solo" reviewed by Paul Margee at Louder Than Noise](http://louderthanwar.com/sam-andreae-solo-album-review/), June 2015**
 
 >*Sam Andreae plots a new course for the saxophone in this album of solo improvisations*
-
-[bandcamp](http://tombedvisionsrecords.bandcamp.com/album/solo)

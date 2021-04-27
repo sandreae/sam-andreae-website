@@ -7,6 +7,7 @@ date: 2018-02-19
 categories: [tour, ABW]
 with: David Birchall, Otto Willberg
 link: https://davidbirchall.bandcamp.com/album/live-in-beppu
+bandcamp: https://davidbirchall.bandcamp.com/album/live-in-beppu
 img: beppu.jpg
 ---
 

@@ -8,9 +8,8 @@ categories: release
 with: Shasta Ellenbogen, Marta Forsberg, Felix Hautzinger, Mauro Hertig, Klaas Hübner, Malte Kobel, Annegret Mayer-Lindenberg, David Meier, Adam Pultz Melbye, Julia Reidy, Laurie Tompkins, Laura Weber, Suze Whaites, Yulan Yu and Mio Ebisu.  
 img: cows_in_large_pastures.jpg
 link: http://slipimprint.bandcamp.com/album/cows-in-large-pastures
+bandcamp: http://slipimprint.bandcamp.com/album/cows-in-large-pastures
 ---
 
 {:.scrolling}
 OUT NOW ON [SLIP](https://slipimprint.bandcamp.com/album/cows-in-large-pastures) :-) OUT NOW ON [SLIP](https://slipimprint.bandcamp.com/album/cows-in-large-pastures) :-) OUT NOW ON [SLIP](https://slipimprint.bandcamp.com/album/cows-in-large-pastures) :-) OUT NOW ON [SLIP](https://slipimprint.bandcamp.com/album/cows-in-large-pastures) :-)
-
-[bandcamp](http://slipimprint.bandcamp.com/album/cows-in-large-pastures)

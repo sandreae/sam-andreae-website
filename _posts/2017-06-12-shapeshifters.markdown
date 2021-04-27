@@ -8,8 +8,7 @@ categories: release
 with: Richard Scott, Phil Marks, David Birchall, Sam Weaver
 link: https://luminouslabel.bandcamp.com/
 img: shapeshifters.jpg
+bandcamp: http://slothracket.bandcamp.com/album/shapeshifters
 ---
 
 The second Sloth Racket album ‘Shapeshifters’ is out now :-)
-
-[http://slothracket.bandcamp.com/album/shapeshifters](bandcamp)
