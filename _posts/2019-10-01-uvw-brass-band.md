@@ -9,6 +9,7 @@ link: https://www.uvwunion.org.uk/en/
 with: "[UVW](https://www.uvwunion.org.uk/en/)"
 img: UVW_band_2.jpg
 video: UVW_band-small.mp4 
+sample: UVW_band.ogg
 ---
 
 The newly formed UVW brass band has been out and about the last few months, most recently with workers who are on strike at St Mary's Hospital. Good news there is that the strike has ended in a victory, UVW says:

@@ -6,4 +6,5 @@ date: 2018-03-29
 categories: [composition, workshop]
 link: /compositions/cuee.html
 img: cuee.jpg
+sample: cuee.ogg
 ---
