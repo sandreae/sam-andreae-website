@@ -6,14 +6,9 @@ description: video and performances works
 date: 2016-09-01
 categories: [project, soramame, blatt3000]
 img: soramameverantwortung.jpg
+video: https://player.vimeo.com/video/182108435
 ---
 
-While having a brilliant time at [V3K](http://www.verantwortung3000.de/) me and [Mio](http://www.mioebisu.com/) (aka [Soramame]()www.soramame.co.uk) made these videos and exhibited them in the residency under-stair area.
+While having a brilliant time at [V3K](http://www.verantwortung3000.de/) me and [Mio](http://www.mioebisu.com/) (aka [Soramame](www.soramame.co.uk) made these videos and exhibited them in the residency under-stair area.
 
-<iframe src="https://player.vimeo.com/video/182108435?portrait=0" width="310" height="180" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/182108345?portrait=0" width="310" height="180" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/182108346?portrait=0" width="310" height="180" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-
-<iframe src="https://player.vimeo.com/video/182108344?portrait=0" width="310" height="180" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+more videos: [1](https://player.vimeo.com/video/182108435) [2](https://player.vimeo.com/video/182108345) [3](https://player.vimeo.com/video/182108346) [4](https://player.vimeo.com/video/182108344)
