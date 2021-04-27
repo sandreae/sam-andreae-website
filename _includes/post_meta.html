@@ -8,6 +8,9 @@
         </li>
     {% endif %}
     {% if post.link %}
-        <li><a href="{{ post.link}}">{{ post.link}}</a></li>
+        <li><a href="{{ post.link}}">external link &#128218;</a></li>
+    {% endif %}
+    {% if post.bandcamp %}
+        <li><a href="{{ post.bandcamp}}">bandcamp &#128722;</a></li>
     {% endif %}
 </ul>
