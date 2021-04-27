@@ -1,5 +1,5 @@
 ---
-layout: simple-view
+layout: reader
 title: Reader
 permalink: /reader/
 ---

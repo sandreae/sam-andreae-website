@@ -2,13 +2,14 @@
 layout: default-nonav
 ---
 <nav class="reader-nav">
-	<a href="" id="text-to-speach">text-to-speach</a>
 	<a href="{{ site.baseurl }}/documentation/" target="_top">back</a>
 </nav>
 <div class="reader-container">
 	{% for post in site.posts %}
 		<div class="reader-post">
-			<article class="post speak">
+			<button class="text-to-speach-button docu-button" textToSpeachId="speak-{{ post.slug }}">&#128483;</button>
+			{% include post_sample.html post=post%}	
+			<article id="speak-{{ post.slug }}">
 				<h1>{% include post_title_link.html %}</h1>
 				{% include post_image.html %}
 				{% include post_meta.html %}
@@ -17,4 +18,4 @@ layout: default-nonav
 		</div>
 	{% endfor %}
 </div>
-{% include texttospeak.html %}
+{% include button_scripts.html %}
