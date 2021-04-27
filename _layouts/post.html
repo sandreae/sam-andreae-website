@@ -1,15 +1,17 @@
 ---
 layout: default-nonav
 ---
-
 <div class="single-flex-container">
 	{% assign post = page %}
 	<div class="single-post">
-		<article class="post speak">
+		<button class="text-to-speach-button docu-button" textToSpeachId="speak-{{ post.slug }}">&#128483;</button>
+		{% include post_sample.html post=post%}
+		<article class="post speak" id="speak-{{ post.slug }}">
 			<h1>{% include post_title_link.html %}</h1>
 			{% include post_image.html %}
 			{% include post_meta.html %}
 			{% include post_content.html %}
-		</article>}}
+		</article>
 	</div>
 </div>
+{% include button_scripts.html %}
