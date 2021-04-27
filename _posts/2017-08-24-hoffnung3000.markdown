@@ -12,4 +12,4 @@ img: hoffnung.jpg
 
 [HOFFNUNG 3000](https://hoffnung3000.de) was a festival for music, art and theory in Berlin initiated by BLATT 3000 together with KLANGKELLER. It was an experiment in social, artistic and theoretical collaboration. HOFFNUNG 3000 did not have any curatorial themes, instead we asked one main question: How do we organise ourselves in our social, artistic & theoretical communities? 
 
-![HOFFNUNG3000](/assets/videos/hoffnung3000.gif){:class="img-big"}
+![HOFFNUNG3000](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/hoffnung3000.gif"}

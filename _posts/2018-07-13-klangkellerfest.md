@@ -10,9 +10,9 @@ with: "[Mio Ebisu](www.mioebisu.com), Seht Zhan and Aziz Lewandowski"
 sample: foley_theatre_klangkeller.ogg
 ---
 
-![klangkeller summer festival](/assets/img/sam_andreae_kkfest1.jpg){:class="img-big"}
-![klangkeller summer festival](/assets/img/sam_andreae_kkfest2.jpg){:class="img-big"}
-![klangkeller summer festival](/assets/img/sam_andreae_kkfest3.jpg){:class="img-big"}
+![klangkeller summer festival](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_kkfest1.jpg"}
+![klangkeller summer festival](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_kkfest2.jpg"}
+![klangkeller summer festival](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_kkfest3.jpg"}
 
 Summer Party Friday 13th & Saturday 14th of July
 Friday Evening Kino Program

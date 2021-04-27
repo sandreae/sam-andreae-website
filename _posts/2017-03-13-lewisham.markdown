@@ -7,4 +7,4 @@ categories: concert
 with: Laurie Tompkins, Susie Whaites and Tom Rose
 ---
 
-![lewisham](/assets/videos/lewisham.gif){:class="img-big"}
+![lewisham](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/lewisham.gif"}

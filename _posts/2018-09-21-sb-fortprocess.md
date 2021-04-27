@@ -10,5 +10,5 @@ with: "Hanna Olivegren and Gus Loxbo"
 sample: silence_blossoms_fort_process.ogg
 ---
 
-![Silence Blossoms @ Fort Process](/assets/img/sam_andreae_sb-fortprocess2.jpg){:class="img-big"}
-![Silence Blossoms @ Fort Process](/assets/img/sam_andreae_sb-fortprocess3.jpg){:class="img-big"}
+![Silence Blossoms @ Fort Process](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_sb-fortprocess2.jpg"}
+![Silence Blossoms @ Fort Process](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_sb-fortprocess3.jpg"}

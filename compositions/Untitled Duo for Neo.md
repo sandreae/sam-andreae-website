@@ -27,4 +27,4 @@ for Neo Hülcker
 - The position of these texts on the score (top, middle, bottom) relate to your vocal range (high, speaking range, low)
 - Text in brackets - [like this] - are instructions for an action which should be performed, not spoken.
 
-![image]({{ site.baseurl }}/assets/img/neo/scorephoto.jpg){:class="img-big"}
+![image]({{ site.baseurl }}/assets/img/neo/scorephoto.jpg){:class="img-big lozad"}

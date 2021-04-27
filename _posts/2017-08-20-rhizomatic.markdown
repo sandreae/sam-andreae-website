@@ -11,4 +11,4 @@ img: rhizomatic.jpg
 ---
 [github page](https://github.com/sandreae/rhizomatic)
 
-![rhizomatic](/assets/videos/rhizomatic.gif){:class="img-big"}
+![rhizomatic](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/rhizomatic.gif"}

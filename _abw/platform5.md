@@ -12,4 +12,4 @@ img: bodiesatplay.jpg
 
 3 day residency at [Platform5](http://past.beppuproject.com/space/platform05.html) in Beppu. We worked together as a group in the space and constructed what turned out to be somewhat like a sound and image play area ;-) it was quite a unique experience for all of us I think, with very little discussion we inhabited the space together and allowed different events and pieces to emerge over time.
 
-![Platform5](/assets/videos/platform5.gif){:class="img-big"}
+![Platform5](/assets/videos/platform5.gif){:class="img-big lozad"}

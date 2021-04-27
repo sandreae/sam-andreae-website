@@ -6,7 +6,7 @@ permalink: /compositions/everyonealwayshonestly
 
 *a compositional method for three people (or multiple trios)*
 
-![image]({{ site.baseurl }}/assets/img/everyone/img.jpg){:class="img-big"}
+![image]({{ site.baseurl }}/assets/img/everyone/img.jpg){:class="img-big lozad"}
 
 ### Introduction:
 

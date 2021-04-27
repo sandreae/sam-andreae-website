@@ -10,4 +10,4 @@ with: "Christian Windfeld - slagtøj, Lil Lacy - cello, stemme, synthesizer, Sam
 sample: nor_aarhus.ogg
 ---
 
-![NOR](/assets/videos/nor.gif){:class="img-big"}
+![NOR](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/nor.gif"}

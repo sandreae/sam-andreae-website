@@ -12,8 +12,9 @@ sample: foley_theatre_heroine.ogg
 
 ----------------------------
 
-![Committed Comix cover by Chris Welch](/assets/img/foley_theatre_in_a_box/bigfoot_cover.jpg){:class="img-small"}
-![Heroine cover by Suzy Varty](/assets/img/foley_theatre_in_a_box/heroin_cover.jpg){:class="img-small"}
+![Committed Comix cover by Chris Welch](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/foley_theatre_in_a_box/bigfoot_cover.jpg"}
+![Committed Comix cover by Chris Welch](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/foley_theatre_in_a_box/heroin_cover.jpg"}
+
 
 *Foley Theatre is an irreverent and improvisatory approach to [Foley](https://en.wikipedia.org/wiki/Foley_(filmmaking)) sound making for graphic novels. This will take the form of “Foley Theatre in a Box” which participants use to record their own sound scores. In relay style, this is then passed on to the next participants, who repeat the process. The end result is a collage of sounds recorded in relay at different locations.*
 
@@ -63,14 +64,15 @@ If everything seems in order then follow these instructions to begin creating yo
 
 2) Choose one of these sounds and using the colored pens provided, draw it onto the comic where it occurs. This can be a visual representation of the sound, or a text description.
 
-![Drawing instructions](/assets/img/foley_theatre_in_a_box/instructions_draw_01.jpg){:class="img-thumb"}
-![Drawing instructions](/assets/img/foley_theatre_in_a_box/instructions_draw_02.jpg){:class="img-thumb"}
+![Drawing instructions](/assets/img/happytom.png){:class="img-thumb lozad" data-src="/assets/img/foley_theatre_in_a_box/instructions_draw_01.jpg"}
+![Drawing instructions](/assets/img/happytom.png){:class="img-thumb lozad" data-src="/assets/img/foley_theatre_in_a_box/instructions_draw_02.jpg"}
+
 
 3) Experimenting with the objects provided, try to create the sound you are imagining. This will be a trial and error process, many objects can create unusual sounds unrelated to their actual function. Think about the properties of the sound you are searching for. Is it smooth or rough, continuous or sudden, high or low pitched, is it made up of several different parts or just one clear element? You may need to combine different objects to make the sound you are after. Try putting on the headphones and listening to objects when held close to the recorder, it's possible to capture unexpected results when listening up close. There will also be many objects around your home which may be useful for sound making. Some food items (which I unfortunateky couldn't include) make good crunching and cracking sounds (carrots, cellery, cabbage etc..).
 
-![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_recording_02.jpg){:class="img-small"}
-![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_recording_01.jpg){:class="img-thumb"}
-![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_recording_03.jpg){:class="img-thumb"}
+![ZOOM recorder instructions](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/foley_theatre_in_a_box/zoom_recording_02.jpg"}
+![ZOOM recorder instructions](/assets/img/happytom.png){:class="img-thumb lozad" data-src="/assets/img/foley_theatre_in_a_box/zoom_recording_01.jpg"}
+![ZOOM recorder instructions](/assets/img/happytom.png){:class="img-thumb lozad" data-src="/assets/img/foley_theatre_in_a_box/zoom_recording_03.jpg"}
 
 4) When you have a method for creating the sound you should practice it a few times until you're confident in reproducing it. Now you need to record it following these steps:
 
@@ -113,7 +115,7 @@ printed and published by AR:ZAK the ARTS LAB PRESS
 
 The ZOOM recorder is a popular device for recording good quality audio. Don't worry if you've not used one before, the steps below outline how it should be used.
 
-![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_instructions.jpg){:class="img-big"}
+![ZOOM recorder instructions](/assets/img/foley_theatre_in_a_box/zoom_instructions.jpg){:class="img-big lozad"}
 
 1) Remove the ZOOM recorder from it's box and attach the screw on stand
 

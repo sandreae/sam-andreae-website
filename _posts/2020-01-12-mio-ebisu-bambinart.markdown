@@ -12,4 +12,4 @@ img: cup_of_tea.jpg
 
 I was lucky to be able to spend new Year in Japan this year, mostly in and around Tokyo. As part of the trip I assisted in installing Mio Ebisu's solo exhibition. My main job was building a large cup of tea replica. I constructed a frame out of timber and then wrapped multiple layers of thin plywood around the outside. 
 
-![exhibition](/assets/img/sam_andreae_cup_of_tea_exhibition.jpg){:class="img-big"}
+![exhibition](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/img/sam_andreae_cup_of_tea_exhibition.jpg"}

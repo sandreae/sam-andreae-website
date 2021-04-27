@@ -16,7 +16,8 @@ This was a one month residency at [The Penthouse](http://thepenthousenq.com/) wh
 {% video ./assets/videos/monochord/IMG_1449.mp4 100% %}
 {% video ./assets/videos/monochord/IMG_1450.mp4 100% %}
 {% video ./assets/videos/monochord/IMG_1451.mp4 100% %}
-![monochord](/assets/videos/monochord.gif){:class="img-big"}
+![monochord](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/monochord.gif"}
+
 {% video ./assets/videos/monochord/IMG_1455.mp4 100% %}
 {% video ./assets/videos/monochord/IMG_1456.mp4 100% %}
 {% video ./assets/videos/monochord/IMG_1505.mp4 100% %}

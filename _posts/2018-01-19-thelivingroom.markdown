@@ -14,4 +14,4 @@ This is a documentation of our [Liebig12](http://www.liebig12.net/) installation
 
 Visit [here](http://www.soramame.co.uk/thelivingroom) (not for mobile)
 
-![thelivingroom](/assets/videos/liebig12.gif){:class="img-big"}
+![thelivingroom](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/liebig12.gif"}
