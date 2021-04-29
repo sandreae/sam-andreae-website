@@ -1,0 +1,969 @@
+---
+- date: 2019 December 4th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: Cafe Oto
+
+- date: 2019 December 5th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: The Rose Hill
+  info: Spirit of Gravity w/ workshop
+
+- date: 2019 December 6th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: The Old Police House
+
+- date: 2019 December 7th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: The Olde Hairdressers
+
+- date: 2019 December 8th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: Fizzle
+
+- date: 2019 December 9th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: AME
+
+- date: 2019 December 10th
+  group: Andreae/Birchall/Willberg/Nakamura
+  venue: Curious Ear
+  info: w/ Workshop
+
+- date: 2019 September 20th
+  group: Sloth Racket
+  venue: Listen!
+
+- date: 2019 September 19th
+  group: Sloth Racket
+  venue: Camouflage
+
+- date: 2019 September 18th
+  group: Sloth Racket
+  venue: Extra Normal
+  info:  w/ Evan Parker solo
+
+- date: 2019 September 17th
+  group: Sloth Racket
+  venue: Hundred Years Gallery
+
+- date: 2019 September 16th
+  group: Sloth Racket
+  venue: The Golden Lion
+
+- date: 2019 September 15th
+  group: Sloth Racket
+  venue: Lancaster Jazz Festival
+
+- date: 2019 September 5th
+  group: Sloth Racket
+  venue: Curious Ear
+
+- date: 2019 September 4th
+  group: Sloth Racket
+  venue: The Lescar
+
+- date: 2019 September 1st
+  group: Sloth Racket
+  venue: Jazz North East
+
+- date: 2019 July 13th
+  group: People's Foley Theatre
+  venue: KLANGKELLER
+  info: festival
+
+- date: 2019 July 12th 14th
+  group: KLANGKELLER Festival 2019
+  venue: KLANGKELLER
+
+- date: 2019 June 29th
+  group: with Rodrigo Constanzo
+  venue: Liceo Mutante
+
+- date: 2019 June 28th
+  group: with Marta Sainz, Sam Andreae, Enrique Zaccagnini, Otto Willberg, Lorena Izquierdo, Aziz Lewandowski and Nicolas Dobson
+  venue: Màgia Roja
+
+- date: 2019 June 15th 23rd
+  group: Antiuniversity Now Festival
+  venue: London
+
+- date: 2019 June 27th
+  group: with Otto Willberg and Nicolas Dobson
+  venue: Soda Acustic
+
+- date: 2019 January 25th
+  group: with Aziz Lewandowski and Mio Ebisu
+  venue: Gallery Geyger
+
+- date: 2019 January 24th
+  group: with Aziz Lewandowski & Tezuka Natsuko
+  venue: Gallery Geyger
+
+- date: 2019 January 23rd
+  group: with Aziz Lewandowski, Kae San & Lorena Izquierdo
+  venue: Greenhouse
+
+- date: 2019 January 22nd
+  group: duo with Aziz Lewandowski
+  venue: KLANGKELLER
+
+- date: 2019 January 21st
+  group: duo with Aziz Lewandowski
+  venue: Gallery Geyger
+
+- date: 2019 January 8th
+  group: duo with Cath Roberts
+  venue: Arch1
+
+- date: 2018 December 16th
+  group: duo with Alex Ward
+  venue: Mopomoso
+
+- date: 2018 December 15th
+  group: duo with Cath Roberts
+  venue: BRAK
+
+- date: 2018 November 30th
+  group: with Otto Willberg & Mio Ebisu
+  venue: SET Dalston
+
+- date: 2018 November 4th
+  group: Roberts/Marshall/Taylor/Andreae
+  venue: Hundred Years Gallery
+
+- date: 2018 October 22nd
+  group: BLOCKHOUSE presented on Comet Radio
+  venue: Comet Radio
+  info: (and the digital airwaves)
+
+- date: 2018 October 21st
+  group: Willberg/Birchall/Andreae
+  venue: Curious Ear
+
+- date: 2018 October 20th
+  group: duo with Otto Willberg
+  venue: The Olde Hairdressers
+
+- date: 2018 October 10th
+  group: Trio:Solo:Duo playing duo with Olie Brice
+  venue: Cafe Oto
+
+- date: 2018 September 27th
+  group: Sloth Racket
+  venue: Vortex
+
+- date: 2018 September 14th + 15th
+  group: Sociosonic Symposium
+  venue: City University + Iklectik
+
+- date: 2018 September 22nd
+  group: Silence Blossoms
+  venue: Fortprocess, Newhaven, UK
+
+- date: 2018 July 13th & 14th
+  group: KLANGKELLER Festival
+  venue: Berlin
+
+- date: 2018 May 27th June 7th
+  group: Sloth Racket Tour
+  venue: UK
+
+- date: 2018 April 5th
+  group: Untitled performed at Neo Hückler's breaking of the voice
+  venue: Ausland
+
+- date: 2018 April 5th
+  group: performance with CUEE
+  venue: Iklectik
+
+- date: 2018 March 29th
+  group: workshop with City University Experimental Ensemble (CUEE)
+  venue: London
+
+- date: 2018 March 23rd
+  group: performance with Seht Kahn, Aziz Lewandowski and Kaesan
+  venue: KLANGKELLER
+
+- date: 2018 March 9th
+  group: KLANGKELLER 017
+  venue: Berlin
+
+- date: 2018 February 17th
+  group: Andreae / Birchall / Willberg
+  venue: Wraclow, Poland
+
+- date: 2018 February 16th
+  group: Andreae / Birchall / Willberg
+  venue: KLANGKELLER
+
+- date: 2018 February 9th
+  group: Playtime Playalong
+  venue: KLANGKELLER
+
+- date: 2018 January 26th
+  group: Playtime Playalong by/with Neo Hülcker
+  venue: KLANGKELLER
+
+- date: 2018 January 19th
+  group: The Living Room VR experience
+  venue: KLANGKELLER
+
+- date: 2017 December 15th
+  group: KLANGKELLER 012 BLATT 3000 special
+  venue: berlin
+
+- date: 2017 December 3rd 11th
+  group: Article XI / Favourite Animals Tour
+  venue: UK
+
+- date: 2017 November 28th December 1st
+  group: Sloth Racket recording and concert
+  venue: London
+
+- date: 2017 September 22nd 24th
+  group: HOFFNUNG3000 talk at Pixelache Festival
+  venue: Helsinki
+
+- date: 2017 September 21st
+  group: composition workshop
+  venue: Asbesstos, Helsinki
+
+- date: 2017 August 24th 26th
+  group: HOFFNUNG 3000
+  venue: KLANGKELLER
+
+- date: 2017 August 21st 23rd
+  group: Favourite Animals Recording
+  venue: London
+
+- date: 2017 August 9th
+  group: HOFFNUNG 3000 Press Conference
+  venue: Tempelhoferfeld
+
+- date: 2017 June 19th 30th
+  group: Sloth Racket UK Tour
+  venue: UK
+
+- date: 2017 May 9th
+  group: concert with Aya Ogawa, Klaus Kürvers and Julia Reidy
+  venue: Sowieso
+
+- date: 2017 April 21st
+  group: solo concert
+  venue: Liebig12
+
+- date: 2017 April 5th April 19th
+  group: Andreae, Birchall, Willberg & Mio Ebisu Japan Tour
+  venue: Tokyo, Hak-date, Kyoto, Nagoya, Beppu
+
+- date: 2017 March 24th
+  group: Cows In Large Pastures with Laurie Tompkins, Suze Whaites and Otto Willberg
+  venue: Manchester
+
+- date: 2017 March 24th
+  group: Cows In Large Pastures with Laurie Tompkins, Suze Whaites and Tom Rose
+  venue: Lewisham Arthouse
+
+- date: 2017 March 7th March 11th
+  group: Richard Scott Lightning Ensemble & Sloth Racket UK Tour
+  venue: UK
+
+- date: 2017 February 14th 28th
+  group: Bornholm DJBFA Residency
+  venue: Denmark
+
+- date: 2017 February 12th
+  group: Cows in large pastures release concert with Laurie Tompkins, Suze Whaites, Adam Pultz Melbye and Julia Reidy
+  venue: Studio Acht
+
+- date: 2017 January 24th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 January 24th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 December 16th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 December 1st
+  group: BLATT 3000 Launch Party, v3k:araoke performance with Marta Forsberg, Laurie Tompkins and Suze Whaites
+  venue: Berlin
+
+- date: 2016 November 27th
+  group: duo with Adam Pultz Melbye
+  venue: Berlin
+
+- date: 2016 November 25th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 November 20th
+  group: duo with Andreas Dzialocha (NOR)
+  venue: Miss Hecker
+
+- date: 2016 November 17th
+  group: duo with Jon Rose
+  venue: Lichtblik Kino
+
+- date: 2016 October 21st
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 September 28th October 9th
+  group: Sloth Racket
+  venue: UK Tour
+
+- date: 2016 September 14th 18th
+  group: Sloth Racket (expanded)
+  venue: Lancaster Jazz Festival
+
+- date: 2016 September 10th
+  group: Sloth Racket
+  venue: Brighton Alternative Jazz Festival
+
+- date: 2016 August 30th September 4th
+  group: participant
+  venue: Verantwortung3000, Brandenburg
+
+- date: 2016 July 14th August 13th
+  group: w/Ryoko Ono, Joshua Weitzel, Ongoing Collective, Howie Reeve
+  venue: Japan Tour Tokyo, Nagoya, Kyoto, Oita
+
+- date: 2016 July 13th
+  group: w/Richard Scott, Willie Kellers and Hilary Jeffery
+  venue: Sowieso, Germany
+
+- date: 2016 April 15th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 June 30th July 4th
+  group: w/ Rogier Smal, Otto Willberg
+  venue: Berlin, Leipzig, Bremen, Amsterdam
+
+- date: 2016 June 29th
+  group: Scott/Reidy/Jeffery/Smal
+  venue: Sowieso
+
+- date: 2016 June 4th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 May 27th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 May 19th 23rd
+  group: Richard Scott Lightning Ensemble
+  venue: UK Tour
+
+- date: 2016 May 3rd 9th
+  group: Sloth Racket
+  venue: UK Tour
+
+- date: 2016 April 29th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 April 15th
+  group: KLANGKELLER
+  venue: Berlin
+
+- date: 2016 April 1st
+  group: solo
+  venue: Greenhouse, Germany
+
+- date: 2016 March 31st
+  group: duo with Adam Pultz Melby
+  venue: Greenhouse, Germany
+
+- date: 2016 March 19th
+  group: w/Richard Scott, Willie Kellers and Hilary Jeffery
+  venue: Sowieso, Germany
+
+- date: 2016 March 17th
+  group: with Alexander Frangenheim
+  venue: Studio Boerne
+
+- date: 2016 March 3rd 6th
+  group: ABC gigs and recording
+  venue: Manchester
+
+- date: 2016 February 27th
+  group: Andreae/Lash/Ullen
+  venue: Munich, Germany
+
+- date: 2016 January 16th
+  group: solo electro/acoustic
+  venue: Spektrum
+
+- date: 2015 December 31st
+  group: Soramame NYE gig
+  venue: Spektrum
+
+- date: 2015 November 15th 17th
+  group: Trio Riot Swiss Tour
+  venue: Switzerland
+
+- date: 2015 November 15th
+  group: Take 5 X, Southbank Centre, LJF
+  venue: London, England
+
+- date: 2015 November 14th
+  group: Sloth Racket, Barbican, LJF
+  venue: London, England
+
+- date: 2015 November 12th
+  group: RNCM improvisation Workshop
+  venue: Manchester, England
+
+- date: 2015 November 11th
+  group: Sloth Racket Recording
+  venue: Manchester, England
+
+- date: 2015 October 9th
+  group: w/ Laurie Tomkins, Otto Willberg and Andreas Dzialocha
+  venue: Del Rex, Germany
+
+- date: 2015 October 1st 3rd
+  group: Silence Blossoms (RECORDING NEW ALBUM)
+  venue: Stockholm, Sweden
+
+- date: 2015 July 15th
+  group: Solo Concert, 8pm
+  venue: Art Center Ongoing, Kichijoji, Tokyo JP
+
+- date: 2015 April 16th
+  group: Sloth Racket
+  venue: LUME, Long White Cloud
+
+- date: 2015 April 12th
+  group: Sloth Racket
+  venue: The Sage, Gateshead
+
+- date: 2015 March 26th
+  group: Andreae/Knight/Ward
+  venue: LUME, Long White Cloud
+
+- date: 2015 March 25th
+  group: Article XI
+  venue: Family Album, Old Spa Function Room, Derby
+
+- date: 2015 March 10th 15th
+  group: collaborative residency with Part Wild Horses Mane On Both Sides
+  venue: Borealis Festival, Bergen, Norway
+
+- date: 2015 February 25th March 1st
+  group: Silence Blossoms (rehearsals and informal concerts)
+  venue: various locations, Stockholm, Sweden
+
+- date: 2015 February 6th
+  group: Andreae/Lash/ullen UK TOUR + Dave Birchall + Trans/Human
+  venue: Manchester, tbc
+
+- date: 2015 February 5th
+  group: Andreae/Lash/ullen UK TOUR
+  venue: Mick Beck's, Sheffield
+
+- date: 2015 February 4th
+  group: Andreae/Lash/ullen UK TOUR + Grew Quartet + Laura Cole Quartet
+  venue: 7 Arts, Leeds
+
+- date: 2015 February 3rd
+  group: Andreae/Lash/ullen UK TOUR + /AndreaeFairhall/Dubois/MacDonald
+  venue: Axis Arts, Crewe
+
+- date: 2015 February 2nd
+  group: Andreae/Lash/ullen UK TOUR + Grew Quartet
+  venue: The Gregson Centre, Lancaster
+
+- date: 2015 February 31st
+  group: Andreae/Lash/ullen UK TOUR + Alex Ward + Matilda Rolfsson
+  venue: The Vortex
+
+- date: 2015 January 29th
+  group: Andreae/Lash/ullen UK TOUR
+  venue: Free Range, Canterbury
+
+- date: 2015 January 23rd
+  group: Ortho Stice + Part Wild Horses Mane On Both Sides + Rodrigo Constanzo
+  venue: The Milk Room, Manchester
+
+- date: 2014 December 11th
+  group: Bird, Rat, Centipede
+  venue: The Noise Upstairs, Manchester
+
+- date: 2014 December 9th
+  group: Saxoctopus
+  venue: The Family Album, Derby
+
+- date: 2014 December 7th
+  group: Saxoctopus
+  venue: The Vortex
+
+- date: 2014 November 29th
+  group: Rolfsson/Loxbo/Loxbo/Andreae
+  venue: Trondheim, NORWAY
+
+- date: 2014 November 28th
+  group: Silence Blossoms
+  venue: Trondheim, NORWAY
+
+- date: 2014 November 14th
+  group: Penthouse Residency Noise Above Noise Performance
+  venue: Penthouse, Manchester
+
+- date: 2014 November 13th
+  group: Penthouse Residency Workshop
+  venue: Penthouse, Manchester
+
+- date: 2014 September November
+  group: Soundart Residency at The Penthouse with David Birchall
+  venue: Penthouse, Manchester
+
+- date: 2014 October 30th
+  group: Strikethrough Me & You
+  venue: LUME
+
+- date: 2014 October 11th
+  group: Penthouse Residency Reading Group
+  venue: Penthouse, Manchester
+
+- date: 2014 October 3rd
+  group: Andreae/Birchall/Cheetham
+  venue: WIM, Zurich, Switzerland
+
+- date: 2014 September 30th
+  group: Andreae/Birchall/Cheetham
+  venue: Basel, Switzerland
+
+- date: 2014 September 21st
+  group: Andreae/Birchall/Cheetham
+  venue: Blank Canvas, Liverpool
+
+- date: 2014 September 18th
+  group: Rodrigo Constanzo Dfs Project
+  venue: The Noise Upstairs, Manchester
+
+- date: 2014 July 27th
+  group: Article 11 (Anton Hunter Festival Commission)
+  venue: The Vortex
+
+- date: 2014 July 24th
+  group: Article 11 (Anton Hunter Festival Commission)
+  venue: Manchester Jazz Festival, Central Library
+
+- date: 2014 July 23rd
+  group: Silence Blossoms (alongside Space F!ght)
+  venue: Manchester Jazz Festival, Soup Kitchen
+
+- date: 2014 June 25th
+  group: Andreae/Birchall/Cheetham/Kjaer/Brice
+  venue: Flim Flam
+
+- date: 2014 June 12th
+  group: Solo + Duo with Daysuke Takaoka
+  venue: Bar Apollo, Tokyo, Japan
+
+- date: 2014 June 11th
+  group: Solo + Duo with Daysuke Takaoka + Darren Moore Trio
+  venue: Sabaco, Tokyo, Japan
+
+- date: 2014 June 10th
+  group: Solo + Duo with Daysuke Takaoka
+  venue: Jazz Club, Tokyo, Japan
+
+- date: 2014 June 7th
+  group: Solo + others tbc
+  venue: Art Space Tetra, Fukuoka, Japan
+
+- date: 2014 June 6th
+  group: Solo + Duo with Daysuke Takaoka
+  venue: Cafe Futuro, Osaka, Japan
+
+- date: 2014 June 4th
+  group: Solo + Duo with Daysuke Takaoka
+  venue: Cafe Parlwr, Nagoya, Japan
+
+- date: 2014 June 1st
+  group: Solo + Duo with Daysuke Takaoka
+  venue: cafe Muriwui, Tokyo, Japan
+
+- date: 2014 May 29th June 4th
+  group: Artist Residency at Paradise Air
+  venue: Matsudo, Tokyo, Japan
+
+- date: 2014 May 9th
+  group: Silence Blossoms
+  venue: Titwrench Festival, Stockholm
+
+- date: 2014 April 27th
+  group: Silence Blossoms (with Led Bid)
+  venue: Fusebox, Leeds
+
+- date: 2014 April 26th (evening)
+  group: Silence Blossoms
+  venue: Nottingham Contemporary, Nottingham
+
+- date: 2014 April 26th (2pm!!)
+  group: Silence Blossoms
+  venue: Poets and Players, John Rylands Library, Manchester
+
+- date: 2014 April 25th
+  group: Silence Blossoms
+  venue: The Coach House in Kemptown, Brighton
+
+- date: 2014 April 24th
+  group: Silence Blossoms
+  venue: Free Range, Canterbury
+
+- date: 2014 April 5th
+  group: Talula Does The Hula From Hawaii
+  venue: tbc, Trondheim
+
+- date: 2014 April 3rd
+  group: Talula Does The Hula From Hawaii
+  venue: Biermannsgaarden, Oslo
+
+- date: 2014 March 27th
+  group: Trio Riot
+  venue: Free Range, Canterbury
+
+- date: 2014 March 26th
+  group: Trio Riot
+  venue: Freedom Principle, Manchester
+
+- date: 2014 March 25th
+  group: Trio Riot
+  venue: Schmazz, Newcastle
+
+- date: 2014 March 24th
+  group: Trio Riot
+  venue: The Vortex
+
+- date: 2014 March 14th
+  group: music of Robert Ashley
+  venue: Hotspur House, Manchester
+
+- date: 2014 March 13th
+  group: Strikethrough Me and You
+  venue: The Noise Upstairs, Manchester
+
+- date: 2014 March 10th
+  group: Distractfold Ensemble
+  venue: University of Huddersfield
+
+- date: 2013 December 20th
+  group: Fusebox Orchesra
+  venue: Fox and Newt, leeds
+
+- date: 2013 November 19th
+  group: Trio Riot
+  venue: Matt & Phred's, Manchester
+
+- date: 2013 November 18th (6pm)
+  group: Trio Riot
+  venue: Kimbythesea, Manchester
+
+- date: 2013 November 15th
+  group: Trio Riot
+  venue: Fusebox, Leeds
+
+- date: 2013 November 14th
+  group: Trio Riot
+  venue: LUME
+
+- date: 2013 November 13th
+  group: Trio Riot
+  venue: The Lescar, Sheffield
+
+- date: 2013 November 6th
+  group: Andreae/Birchall/Cheetham
+  venue: Mayhem, Copenhagen, Denmark
+
+- date: 2013 November 5th
+  group: Andreae/Birchall/Cheetham
+  venue: Tsuki Festival, Aarhus, Denmark
+
+- date: 2013 November 3rd
+  group: Andreae/Birchall/Cheetham
+  venue: Apartment Concert, Gothenburg, Sweden
+
+- date: 2013 November 2nd
+  group: Andreae/Birchall/Cheetham
+  venue: Brugata, Oslo, Norway
+
+- date: 2013 October 31st
+  group: Andreae/Mwamba/Bennet
+  venue: Lost Voices, Liverpool
+
+- date: 2013 October 16th 20th
+  group: DeKoog
+  venue: Lausanne, Switzerland
+
+- date: 2013 October 15th
+  group: Silence Blossoms
+  venue: Stockholm Jazz Festival
+
+- date: 2013 October 10th
+  group: Silence Blossoms
+  venue: Fylkingen, Stockholm, SWEDEN
+
+- date: 2013 October 7th
+  group: Silence Blossoms
+  venue: Boatting
+
+- date: 2013 October 6th
+  group: Silence Blossoms
+  venue: One Note Sunday, Derby
+
+- date: 2013 October 5th
+  group: Silence Blossoms
+  venue: St Margarets Church, Manchester
+
+- date: 2013 October 4th
+  group: Silence Blossoms
+  venue: Fusebox, Leeds
+
+- date: 2013 September 30th
+  group: Hannah Marshall (cello)/Kelly Jones (flute)/Sam Andreae (sax)
+  venue: Hotspur House, Manchester
+
+- date: 2013 September 19th
+  group: Andreae/Birchall/Cheetham
+  venue: Manchester
+
+- date: 2013 August 5th
+  group: Trio Riot
+  venue: One Note Sunday, Derby
+
+- date: 2013 August 4th
+  group: Trio RIot
+  venue: Beatnik Records, Altrincham
+
+- date: 2013 August 3rd
+  group: Trio RIot
+  venue: Cafe Ort, Birmingham
+
+- date: 2013 August 1st
+  group: Trio RIot
+  venue: Manchester Jazz Festival
+
+- date: 2013 July 30th
+  group: Trio RIot
+  venue: Leeds
+
+- date: 2013 July 29th
+  group: Trio RIot
+  venue: Jez's Jazz in the Round, The Cockpit
+
+- date: 2013 June 26th
+  group: with Le Quan Ninh and Rodrigo Constanzo
+  venue: Anthony Burgess Foundation, Manchester
+
+- date: 2013 June 14th
+  group: DeKoog
+  venue: Lausanne, Switzerland
+
+- date: 2013 May 25th
+  group: Silence Blossoms
+  venue: Stockholm, Sweden
+
+- date: 2013 May 23rd
+  group: DeKoog
+  venue: Rome, Italy
+
+- date: 2013 May 21st
+  group: Silence Blossoms
+  venue: Nya Perspektiv in Vesteraas, Sweden
+
+- date: 2013 April 25th 28th
+  group: Attending JazzAhead
+  venue: Bremen Germany
+
+- date: 2013 April 4th 15th
+  group: Talula Does the Hula from Hawaii
+  venue: Tour and Recording in Norway
+
+- date: 2013 April 2nd
+  group: Samfin'
+  venue: Berlin (venue tbc)
+
+- date: 2013 March 19th
+  group: Solo Performance and Performing with A Greater Horror
+  venue: Freedom Principle at Sandbar, Manchester
+
+- date: 2013 March 16th
+  group: Andreae/Bennet/Mwamba
+  venue: Poets and Players at The Whitworth Art Gallery, Manchester
+
+- date: 2013 March 1st
+  group: Andreae/Birchall/Jones
+  venue: Tubers Music at St Margaret's Church
+
+- date: 2013 February 19th
+  group: Compositions performed by Shatner's Bassoon
+  venue: Freedom Principle at Sandbar, Manchester
+
+- date: 2013 February 14th
+  group: Andreae/Bennet/Hunter
+  venue: The Noise Upstairs at Fuel bar, Manchester
+
+- date: 2013 January 10th
+  group: Solo Concert
+  venue: The Noise Upstairs at Fuel bar, Manchester
+
+- date: 2012 December 21st
+  group: Dave Kane's Rabbit Orchestra
+  venue: Fusbox - End of the World Concert, Leeds
+
+- date: 2012 November 20th
+  group: Silence Blossoms
+  venue: Freedom Principle at Sandbar, Manchester
+
+- date: 2012 November 18th
+  group: Silence Blossoms
+  venue: The Forge Jazz Festival
+
+- date: 2012 November 14th
+  group: Trio Riot
+  venue: Servant Jazz Quarter
+
+- date: 2012 November 13th
+  group: Trio Riot
+  venue: Fizzle, Birmingham
+
+- date: 2012 November 11th
+  group: Trio Riot
+  venue: Splinter, Newcastle
+
+- date: 2012 November 9th
+  group: Trio Riot
+  venue: FuseBox, Leeds
+
+- date: 2012 November 8th
+  group: Trio Riot
+  venue: Matt & Phred's, Manchester
+
+- date: 2012 October 26th
+  group: Midt Norsk Soundpaintingensemblet
+  venue: Levanger kirke
+
+- date: 2012 October 27th
+  group: Midt Norsk Soundpaintingensemblet
+  venue: Sakshaug Kirke
+
+- date: 2012 October 26th
+  group: Midt Norsk Soundpaintingensemblet
+  venue: Steinkjer kirke
+
+- date: 2012 July 26th
+  group: Silence Blossoms
+  venue: Linkoping
+
+- date: 2012 July 13th
+  group: Silence Blossoms & Talula Does The Hula From Hawaii
+  venue: paa besok
+
+- date: 2012 July 10th
+  group: Silence Blossoms
+  venue: Huset i Magstraede Gaardscenen, Copenhagen Jazz Festival
+
+- date: 2012 July 7th
+  group: Silence Blossoms & Talula Does The Hula From Hawaii
+  venue: Kongsberg Jazz Festival
+
+- date: 2012 July 6th
+  group: Silence Blossoms
+  venue: Kongsberg Jazz Festival
+
+- date: 2012 June 22nd
+  group: Constanzo/Tremblay/Andreae Trio (supporting DJ Sniff)
+  venue: The Noise Upstairs, Manchester
+
+- date: 2012 June 19th
+  group: Silence Blossoms
+  venue: Familien, Trondheim
+
+- date: 2012 June 7th
+  group: performing Burdocks with Christian Wolf
+  venue: Graamulna, Trondheim
+
+- date: 2012 May 29th
+  group: Aaargh!
+  venue: Liberte, Helsinki
+
+- date: 2012 May 27th
+  group: Aaargh!
+  venue: Musta Kissa, Helsinki
+
+- date: 2012 May 22nd
+  group: Maurer/Andreae Duo
+  venue: Dokkhuset, Trondheim
+
+- date: 2012 May 18th
+  group: Talulah Does The Hula From Hawaii
+  venue: KIT, Trondheim
+
+- date: 2012 April 3rd 11th
+  group: Electroacoustic instrument lab
+  venue: STEIM, Amsterdam
+
+- date: 2012 April 2nd
+  group: Freed/Zawadski/Panter/Andreae
+  venue: Kunstfabrik Schlot
+
+- date: 2012 march 11th
+  group: talula does the hula from hawaii
+  venue: Rockheim, Trondheim
+
+- date: 2012 march 9th
+  group: talula does the hula from hawaii
+  venue: Illa Brannstasjon, Trondheim
+
+- date: 2012 feb 16th
+  group: silence blossoms
+  venue: Hotel Helsten, Stockholm
+
+- date: 2012 feb 15th
+  group: silence blossoms
+  venue: Mit Andra Hem, Goteborg
+
+- date: 2012 feb 14th
+  group: silence blossoms
+  venue: Pa Besok, malmo
+
+- date: 2012 feb 1st
+  group: trio riot
+  venue: The Vortex
+
+- date: 2012 jan 29th
+  group: trio riot
+  venue: The Yardbird, Birmingham
+
+- date: 2012 jan 28th
+  group: trio riot
+  venue: Taylor John's, Coventry
+
+- date: 2012 jan 26th
+  group: trio riot
+  venue: Band on the Wall, Manchester
+
+- date: 2011 dec 11th 17th
+  group: Aaargh! tour
+  venue: Switzerland
+
+- date: 2011 nov 11th 20th
+  group: Efpi Records showcase tour (Haq, Aaargh!, trio riot)
+  venue: England
+
+- date: 2011 nov 14th
+  group: Efpi Records showcase event (Haq, trio riot)
+  venue: The Forge Jazz Festival
+
+- date: 2011 nov 7th 10th
+  group: solo tour
+  venue: England

@@ -27,9 +27,13 @@ The Olde Hairdressers:
   url: instagram.com/theoldhairdressers/?hl=en
   city: Glasgow
   country: UK
-Camoflage:
+Camouflage:
   url: camouflagenorwich.co.uk
   city: Norwich
+  country: UK
+Listen!:
+  url: listencambridge.com
+  city: Cambridge
   country: UK
 The Lescar:
   url: jazzatthelescar.com
@@ -55,7 +59,7 @@ Hundred Years Gallery:
   url: hundredyearsgallery.co.uk/
   city: London
   country: UK
-Klangkeller:
+KLANGKELLER:
   url: klangkeller.net
   city: Berlin
   country: GERMANY
@@ -67,4 +71,39 @@ Màgia Roja:
   url: liceomutante.com
   city: Pontevedra
   country: SPAIN
-
+Morley College:
+  url: morleycollege.ac.uk
+  city: London
+  country: UK
+Gallery Geyger:
+  url: facebook.com/GEYGERLAND/
+  city: Berlin
+  country: GERMANY
+Soda Acustic:
+  url: soda.cat
+  city: Barcelona
+  country: SPAIN
+Lewisham Arthouse:
+  url: lewishamarthouse.org.uk
+  city: London
+  country: UK
+Arch1:
+  url: arch1.business.site
+  city: London
+  country: UK
+Mopomoso:
+  url: mopomoso.com
+  city: London
+  country: UK
+BRAK:
+  url: brakbrakbrak.co.uk
+  city: London
+  country: UK
+Comet Radio:
+  url: comet-radio.com
+  city: London
+  country: UK
+Miss Hecker: 
+  url: misshecker.org
+  city: Berlin
+  country: GERMANY

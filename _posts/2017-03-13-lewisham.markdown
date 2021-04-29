@@ -4,7 +4,7 @@ title: "Cows In Large Pastures release concert"
 location: Lewisham Arthouse, London
 date: 2017-03-13
 categories: concert
-with: Laurie Tompkins, Susie Whaites and Tom Rose
+with: Laurie Tompkins, Suze Whaites and Tom Rose
 ---
 
 ![lewisham](/assets/img/happytom.png){:class="img-big lozad" data-src="/assets/videos/lewisham.gif"}

@@ -3,5 +3,5 @@
     {{ post.content | truncatewords:500 }}
     <a href="{{ site.baseurl }}{{ post.url}}" target="_blank" rel="noopener">Read More</a>
 {% else %}
-{{post.content}}
+{{post.content | url}}
 {% endif %}
