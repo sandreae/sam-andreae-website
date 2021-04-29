@@ -5,7 +5,7 @@ description: performance work exploring the relation between sound, space and ge
 location: Blockhouse, Tokyo
 date: 2017-04-30
 categories: [project, ABW]
-with: Mio Ebisu, David Birchall, Otto Willberg and Kouhei Sekigawa
+with: "{{ 'Mio Ebisu' | url }}, David Birchall, Otto Willberg and Kouhei Sekigawa"
 link: http://blockhouse.jp/
 img: eyesears.jpg
 ---

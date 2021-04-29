@@ -1,10 +1,10 @@
 <ul>
-    <li>{{ post.location | markdownify | remove: "<p>" | remove: "</p>"}}</li>
+    <li>{{ post.location | liquify | markdownify | remove: "<p>" | remove: "</p>"}}</li>
     <li><time>{{ post.date | date: "%b %-d, %Y" }}</time></li>
     <li>{{post.description | markdownify | remove: "<p>" | remove: "</p>"}}</li>
     {% if post.with %}
         <li>
-            <i>with {{post.with | markdownify | remove: "<p>" | remove: "</p>"}}</i>
+            <i>with {{post.with | liquify | markdownify | remove: "<p>" | remove: "</p>"}}</i>
         </li>
     {% endif %}
     {% if post.link %}

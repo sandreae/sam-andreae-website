@@ -6,10 +6,10 @@ date: 2017-12-01
 categories: klangkeller
 link: http://klangkeller.net/
 img: klangkeller002.jpg
-with: "[Mio Ebisu](www.mioebisu.com), Klaas Hübner and [Neo Hülcker](https://www.neelehuelcker.de/)"
+with: "{{ 'Mio Ebisu' | website}}, Klaas Hübner and [Neo Hülcker](https://www.neelehuelcker.de/)"
 ---
 
-[KLANGKELLER](http://klangkeller.net) is a night I founded in berlin in 2016, this second season of events is hapeening between December 2017 and March 2018. The organising team is Mio Ebisu, Klaas Hübner, Neo Hülcker and myself. We are lucky to be located at [K77](http://www.k77.org/) which is a cooperative house with it's history in the artist squats of the 80s & 90s. A team of us manage the events, and each night has 3 slots which performers can freely sign up for. 
+[KLANGKELLER](http://klangkeller.net) is a night I founded in berlin in 2016, this second season of events is hapeening between December 2017 and March 2018. The organising team is {{ 'Mio Ebisu' | url }}, Klaas Hübner, Neo Hülcker and myself. We are lucky to be located at [K77](http://www.k77.org/) which is a cooperative house with it's history in the artist squats of the 80s & 90s. A team of us manage the events, and each night has 3 slots which performers can freely sign up for. 
 This first season featured: 
 
 *KLANGKELLER is a performance and exhibition space for art, music and theory. It works on the basis that experimentation and spontaneity are crucial for a living and reflective art practice to survive. Each KLANGKELLER night has 3 presentation/performance slots (45mins, 20mins and 5mins) which members of the changing KLANGKELLER family can reserve directly 1 month, 1 week or 1 day in advance.*
@@ -30,7 +30,7 @@ Cybernetic Gamelan Future Automaton
 5 minutes
 Cybernetic Gamelan Future Automaton with Sam and Andreas
 ////////////////////////////
-Documentation: Mio Ebisu
+Documentation: {{ 'Mio Ebisu' | url }}
 #013
 Fri Jan 19 2018
 20:00 in the keller
@@ -71,7 +71,7 @@ Fri Feb 09 2018
 ////////////////////////////
 Painting of improvised story.
 45 minutes
-Mio Ebisu will make a painting based on her improvised random story. ＊oil painting
+{{ 'Mio Ebisu' | url }} will make a painting based on her improvised random story. ＊oil painting
 ////////////////////////////
 The memories of the artist couple
 20 minutes

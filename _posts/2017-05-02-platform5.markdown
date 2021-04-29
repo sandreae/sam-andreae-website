@@ -5,7 +5,7 @@ description: 3 day installation performance with local artists in Beppu, Japan
 location: Platform5, Beppu
 date: 2017-05-02
 categories: project
-with: Mio Ebisu, David Birchall, Otto Willberg, Arthorymen, Mio, Rina, Ono-kun, Kazusa-san, Hino-san, Chigusa-chan and Tayuu-san
+with: "{{ 'Mio Ebisu' | url }}, David Birchall, Otto Willberg, Arthorymen, Mio, Rina, Ono-kun, Kazusa-san, Hino-san, Chigusa-chan and Tayuu-san"
 link:
 img: bodiesatplay.jpg
 ---

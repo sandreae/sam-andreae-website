@@ -5,7 +5,7 @@ description: Virtual Installation by Soramame
 location: Online
 date: 2018-01-19
 categories: [installation, soramame]
-with: Mio Ebisu, Soramame
+with: "{{ 'Mio Ebisu' | url }}, Soramame"
 link: http://www.soramame.co.uk/thelivingroom
 img: thelivingroom.jpg
 sample: livingroom.ogg

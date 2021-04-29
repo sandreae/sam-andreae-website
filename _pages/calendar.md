@@ -6,25 +6,25 @@ permalink: /calendar/
 
 | **2019** |||
 
-|December 4th| Andreae/Birchall/Willberg/Nakamura | Cafe Oto, London (4th) |
-|December 5th| Andreae/Birchall/Willberg/Nakamura | The Rose Hill (Spirit of Gravity), Brighton (+ workshop) |
-|December 6th| Andreae/Birchall/Willberg/Nakamura | The Old Police House, Newcastle |
-|December 7th| Andreae/Birchall/Willberg/Nakamura | The Old Hairdressers, Glasgow (+ workshop) |
-|December 8th| Andreae/Birchall/Willberg/Nakamura | Fizzle, Birmingham |
-|December 9th| Andreae/Birchall/Willberg/Nakamura | AME Space, Huddersfield |
-|December 10th| Andreae/Birchall/Willberg/Nakamura | Curious Ear, Manchester (+ workshop) |
-|September 20th| Sloth Racket | Listen!, Cambridge |
-|September 19th| Sloth Racket | Camouflage, Norwich |
-|September 18th| Sloth Racket | Extra Normal w/ Evan Parker solo, Ramsgate |
-|September 17th| Sloth Racket | Hundred Years Gallery, London |
-|September 16th| Sloth Racket | The Golden Lion, Todmorden |
-|September 15th| Sloth Racket | Lancaster Jazz Festival |
-|September 5th| Sloth Racket | Curious Ear at The Peer Hat, Manchester |
-|September 4th| Sloth Racket | The Lescar, Sheffield |
-|September 1st| Sloth Racket | JNE, Newcastle |
-|July 13th| People's Foley Theatre | KK Festival, Berlin|
-|July 12th - 14th| KlangKeller Festival 2019 | Lichtblick Kino, Berlin |
-|June 29th| with Rodrigo Constanzo | Liceo Mutante, Pontevedr, Spain |
+|December 4th| Andreae/Birchall/Willberg/Nakamura | {{"Cafe Oto" | venue }} |
+|December 5th| Andreae/Birchall/Willberg/Nakamura (+ workshop) |  Spirit of Gravity {{"The Rose Hill" | venue }}|
+|December 6th| Andreae/Birchall/Willberg/Nakamura | {{"The Old Police House" | venue }} |
+|December 7th| Andreae/Birchall/Willberg/Nakamura (+ workshop) | {{"The Olde Hairdressers" | venue }} |
+|December 8th| Andreae/Birchall/Willberg/Nakamura | {{"Fizzle" | venue }} |
+|December 9th| Andreae/Birchall/Willberg/Nakamura | {{"AME" | venue }} |
+|December 10th| Andreae/Birchall/Willberg/Nakamura | {{"Curious Ear" | venue }}|
+|September 20th| Sloth Racket | {{"Listen!" | venue }} |
+|September 19th| Sloth Racket | {{"Camoflage" | venue }} |
+|September 18th| Sloth Racket w/ Evan Parker solo | {{"Extra Normal" | venue }} |
+|September 17th| Sloth Racket | {{"Hundred Years Gallery" | venue }} |
+|September 16th| Sloth Racket | {{"The Golden Lion" | venue }} |
+|September 15th| Sloth Racket | {{"Lancaster Jazz Festival" | venue }} |
+|September 5th| Sloth Racket | {{"Curious Ear" | venue }} |
+|September 4th| Sloth Racket | {{"The Lescar" | venue }} |
+|September 1st| Sloth Racket | {{"Jazz North East" | venue }} |
+|July 13th| People's Foley Theatre | {{"Klangkeller" | venue }}|
+|July 12th - 14th| KlangKeller Festival 2019 | {{"Klangkeller" | venue }} |
+|June 29th| with Rodrigo Constanzo | {{"Klangkeller" | venue }} |
 |June 28th| with Marta Sainz, Sam Andreae, Enrique Zaccagnini, Otto Willberg, Lorena Izquierdo, Aziz Lewandowski and Nicolas Dobson | Màgia Roja, Barcelona | 
 |June 15th - 23rd| Antiuniversity Now Festival | London |
 |June 27th| with Otto Willberg and Nicolas Dobson | Soda Acustic, Barcelona |
