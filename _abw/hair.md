@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "hair In The Chimney OUT NOW!"
-description: "Andreae/Birchall/Willberg hair In The Chimney OUT NOW!"
+description: "Bathing Trio (Andreae/Birchall/Willberg) hair In The Chimney OUT NOW!"
 location: "Tokyo/London"
 date: 2017-03-19
 with: David Birchall, Otto Willberg, Toshimaru Nakamura

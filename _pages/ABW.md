@@ -1,10 +1,10 @@
 ---
 layout: ABW
-title: Andreae/Birchall/Willberg
+title: Bathing Trio (Andreae/Birchall/Willberg)
 permalink: /andreae-birchall-willberg/
 ---
 
-## Andreae/Birchall/Willberg
+## Bathing Trio (Andreae/Birchall/Willberg)
 
 [Sam Andreae](http://www.samandreae.com) - saxophone, objects  
 [David Birchall](http://www.davidmbirchall.com) - guitar, objects  

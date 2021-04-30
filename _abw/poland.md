@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Live in Beppu release tour"
-description: Andreae/Birchall/Willberg Live in Beppu Release Tour
+description: Bathing Trio (Andreae/Birchall/Willberg) Live in Beppu Release Tour
 location: Berlin, Wroclaw
 date: 2018-02-19
 categories: [tour, ABW]

@@ -61,7 +61,7 @@ Daniel Spicer, The Wire (2015)
 
 #### RELEASES
 
-**Live in Beppu** Andreae/Birchall/Willberg  
+**Live in Beppu** Bathing Trio (Andreae/Birchall/Willberg)  
 Vernacular / Heavy Petting *February 2018*  
 **Favourite Animals** Favourite Animals  
 Luminous *December 2017*  
@@ -69,7 +69,7 @@ Luminous *December 2017*
 Sound Anatomy *November 2017*  
 **Shape Shifters** Sloth Racket  
 Luminous *June 2017*  
-**Hair In The Chimney** Andreae/Birchall/Willberg  
+**Hair In The Chimney** Bathing Trio (Andreae/Birchall/Willberg)  
 Vernacular / Heavy Petting *April 2017*  
 **Cows In Large Pastures** Sam Andreae  
 SLIP Records *April 2017*  

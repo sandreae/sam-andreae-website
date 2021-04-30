@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pixelache festival"
-description: HOFFNUNG3000 talk @ Pixelache "local and decentralized" festival.
+description: HOFFNUNG 3000 talk @ Pixelache "local and decentralized" festival.
 location: Helsinki
 date: 2017-09-23
 categories: talk

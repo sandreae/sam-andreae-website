@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Live in Beppu OUT NOW"
-description: "Andreae/Birchall/Willberg Live in Beppu OUT NOW!"
+description: "Bathing Trio (Andreae/Birchall/Willberg) Live in Beppu OUT NOW!"
 location: Berlin, Wroclaw
 date: 2018-02-19
 categories: [tour, ABW]
