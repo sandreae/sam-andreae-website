@@ -5,7 +5,7 @@ description: Instructions for Foley Theatre postal workshop at Ten Acres of Soun
 location: 10 Acres of Sound, Stirchley, Birmingham
 date: 2020-09-12
 categories: workshop
-with: "[Artefact](https://www.artefactstirchley.co.uk/), local participants"
+with: "Artefact, 10 Acres of Sound, local participants"
 img:
 sample: foley_theatre_heroine.ogg
 ---

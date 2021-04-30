@@ -6,7 +6,7 @@ date: 2018-07-13
 categories: klangkeller
 link: http://klangkeller.net/
 img: kkfest.jpg
-with: "[{{ 'Mio Ebisu' | url }}](www.mioebisu.com), Seht Zhan and Aziz Lewandowski"
+with: "[Mio Ebisu](www.mioebisu.com), Seht Zhan and Aziz Lewandowski"
 sample: foley_theatre_klangkeller.ogg
 ---
 
@@ -96,7 +96,7 @@ Seht Zhan (outdoor postmodular) Anni Lattunen (body and movement)
 ////////////////////////////
 Collection of beautiful things.
 1 minutes
-A small exhibition of beautiful things by {{ 'Mio Ebisu' | url }}.
+A small exhibition of beautiful things by Mio Ebisu.
 ////////////////////////////
 Golden Dark
 30 minutes

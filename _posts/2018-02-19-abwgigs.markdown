@@ -5,7 +5,7 @@ description: Bathing Trio (Andreae/Birchall/Willberg) Live in Beppu Release Tour
 location: Berlin, Wroclaw
 date: 2018-02-19
 categories: [tour, ABW]
-with: "{{ 'David Birchall' | url }}, {{ 'Otto Willberg' | url }}"
+with: "David Birchall, Otto Willberg"
 link:
 img: ABW_KK.jpg
 ---

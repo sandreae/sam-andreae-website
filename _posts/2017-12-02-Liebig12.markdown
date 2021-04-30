@@ -5,7 +5,7 @@ description: Installation by Soramame
 location: Liebig12, berlin
 date: 2017-12-01
 categories: exhibition
-with: "{{ 'Mio Ebisu' | url }}, Soramame"
+with: "Mio Ebisu, Soramame"
 link:
 img: liebig12.jpg
 ---
