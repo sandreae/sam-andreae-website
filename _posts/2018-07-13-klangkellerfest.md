@@ -129,7 +129,7 @@ Glass Parade: Audiovisual film and modular synthesiser
 ////////////////////////////
 People Who Scrape, Construct, and Shoot
 35 minutes
-Kaoru Ishikawa/scrape a chair, Kae San/voice & sound performance, aveuna/streaming live video from Tokyo
+Kaoru Ishikawa/scrape a chair, Kae-san/voice & sound performance, aveuna/streaming live video from Tokyo
 ////////////////////////////
 Leila Monsegur and Mariana Carvalho
 20 minutes
