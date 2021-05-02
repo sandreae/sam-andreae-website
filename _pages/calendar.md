@@ -4,4 +4,6 @@ title: Calendar
 permalink: /calendar/
 ---
 
-{{ "" | gigs }}
+{% for gig in site.data.gigs %}
+   | {{gig.date}} | {{ gig.group | url }} | {{gig.venue | venue}} |
+{% endfor %}

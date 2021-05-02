@@ -12,11 +12,6 @@ module Jekyll
       places_file = File.open(File.expand_path('links/places.yml'))
       return YAML.load(places_file)
     end
-  
-    def _gigs()
-      gigs_file = File.open(File.expand_path('links/gigs.yml'))
-      return YAML.load(gigs_file)
-    end
         
     def url(input)
       people = self._people()
@@ -41,14 +36,6 @@ module Jekyll
       else
         return input
       end
-    end
-    
-    def gigs(input)
-      string = ""
-      self._gigs().each do |gig|
-        string += "|#{gig["date"]}|#{self.url(gig["group"])}|#{self.venue(gig["venue"])}|\n"
-      end
-      return string
     end
   end
 end
