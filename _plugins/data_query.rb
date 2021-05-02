@@ -3,19 +3,9 @@ require "yaml"
 
 module Jekyll
   module DataQuery
-    def _people()
-      people_file = File.open File.expand_path('links/people.yml')
-      return YAML.load(people_file)
-    end
-
-    def _places()
-      places_file = File.open(File.expand_path('links/places.yml'))
-      return YAML.load(places_file)
-    end
-        
     def url(input)
-      people = self._people()
-      places = self._places()
+      people = @context.registers[:site].data['people']
+      places = @context.registers[:site].data['places']
 
       people.each do |key, value|
         input.gsub! key, "<a href=\"https://#{value}\">#{key}</a>"
@@ -29,7 +19,7 @@ module Jekyll
     end
     
     def venue(input)
-      places = self._places()
+      places = @context.registers[:site].data['places']
   
       if places[input]
         return "<a href=\"https://#{places[input]["url"]}\">#{input}</a>, #{places[input]["city"]}"
