@@ -1,0 +1,8 @@
+{% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
+{% assign sorted_gigs = site.data.gigs | date_sort | reverse %}
+{% for gig in sorted_gigs %}
+  {% capture gigtime %}{{gig.date | date: '%s'}}{% endcapture %}
+  {% if gigtime > nowunix %}
+    // <strong>{{gig.date | date: "%b %d, %Y" }}</strong> {{ gig.group | url }} <i>{{gig.venue | venue}}</i> 
+  {% endif %}
+{% endfor %}

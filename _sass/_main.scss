@@ -109,8 +109,8 @@ button.playing {
 .scrolling {
 	display: inline-block;
 	white-space: nowrap;
-	animation: floatText 5s infinite linear;
-	padding-left: 100%; /*Initial offset*/
+	animation: floatText 20s infinite linear;
+	padding-left: 50%; /*Initial offset*/
 	color: red;
 }
 
@@ -229,6 +229,16 @@ button.playing {
 				padding: 0px 0px 0px 0px;
 			}
 		}
+	}
+}
+
+#banner {
+	position: fixed;
+	top: 0px;
+	height: 1.5rem;
+	background-color: white;
+	p {
+		margin: 3px;
 	}
 }
 
