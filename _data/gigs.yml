@@ -134,12 +134,16 @@
   group: Sloth Racket
   venue: Jazz North East
 
+- date: 2019 July 14th
+  group: various Festival 2019
+  venue: KLANGKELLER
+
 - date: 2019 July 13th
   group: People's Foley Theatre
   venue: KLANGKELLER
   info: festival
 
-- date: 2019 July 12th 14th
+- date: 2019 July 12th
   group: various Festival 2019
   venue: KLANGKELLER
 
@@ -151,7 +155,8 @@
   group: with Marta Sainz, Sam Andreae, Enrique Zaccagnini, Otto Willberg, Lorena Izquierdo, Aziz Lewandowski and Nicolas Dobson
   venue: Màgia Roja
 
-- date: 2019 June 15th 23rd
+- date: 2019 June 15th
+  until: 2019 June 23rd
   group: Antiuniversity Now Festival
   venue: London
 
@@ -220,7 +225,11 @@
   group: Sloth Racket
   venue: Vortex
 
-- date: 2018 September 14th + 15th
+- date: 2018 September 15th
+  group: Sociosonic Symposium
+  venue: City University + Iklectik
+
+- date: 2018 September 14th
   group: Sociosonic Symposium
   venue: City University + Iklectik
 
@@ -228,11 +237,12 @@
   group: Silence Blossoms
   venue: Fort Process
 
-- date: 2018 July 13th & 14th
+- date: 2018 July 13th
   group: various Festival
   venue: KLANGKELLER
 
-- date: 2018 May 27th June 7th
+- date: 2018 May 27th
+  until: 2018 June 7th
   group: Sloth Racket Tour
   venue: UK
 
@@ -280,15 +290,18 @@
   group: BLATT 3000 special
   venue: KLANGKELLER
 
-- date: 2017 December 3rd 11th
+- date: 2017 December 3rd
+  until: 2017 December 11th
   group: Article XI / Favourite Animals Tour
   venue: UK
 
-- date: 2017 November 28th December 1st
+- date: 2017 November 28th
+  until: 2017  December 1st
   group: Sloth Racket recording and concert
   venue: London
 
-- date: 2017 September 22nd 24th
+- date: 2017 September 22nd
+  until: 2017 September 24th
   group: HOFFNUNG 3000 talk at Pixelache Festival
   venue: Helsinki
 
@@ -296,11 +309,19 @@
   group: composition workshop
   venue: Asbesstos, Helsinki
 
-- date: 2017 August 24th 26th
+- date: 2017 August 26th
   group: HOFFNUNG 3000
   venue: KLANGKELLER
 
-- date: 2017 August 21st 23rd
+- date: 2017 August 25th
+  group: HOFFNUNG 3000
+  venue: KLANGKELLER
+
+- date: 2017 August 24th
+  group: HOFFNUNG 3000
+  venue: KLANGKELLER
+
+- date: 2017 August 21st
   group: Favourite Animals Recording
   venue: London
 
@@ -308,7 +329,8 @@
   group: HOFFNUNG 3000 Press Conference
   venue: Tempelhoferfeld
 
-- date: 2017 June 19th 30th
+- date: 2017 June 19th
+  until: 2017 June 30th
   group: Sloth Racket UK Tour
   venue: UK
 
@@ -320,7 +342,8 @@
   group: solo concert
   venue: Liebig12
 
-- date: 2017 April 5th April 19th
+- date: 2017 April 5th
+  until: 2017 April 19th
   group: Bathing Trio (Andreae/Birchall/Willberg) & Mio Ebisu Japan Tour
   venue: Tokyo, Hak-date, Kyoto, Nagoya, Beppu
 
@@ -332,11 +355,13 @@
   group: Cows In Large Pastures with Laurie Tompkins, Suze Whaites and Tom Rose
   venue: Lewisham Arthouse
 
-- date: 2017 March 7th March 11th
+- date: 2017 March 7th
+  until: 2017 March 11th
   group: Richard Scott Lightning Ensemble & Sloth Racket UK Tour
   venue: UK
 
-- date: 2017 February 14th 28th
+- date: 2017 February 14th
+  until: 2017 February 28th
   group: Bornholm DJBFA Residency
   venue: Denmark
 
@@ -380,11 +405,13 @@
   group: various
   venue: KLANGKELLER
 
-- date: 2016 September 28th October 9th
+- date: 2016 September 28th
+  until: 2016 October 9th
   group: Sloth Racket
   venue: UK Tour
 
-- date: 2016 September 14th 18th
+- date: 2016 September 14th
+  until: 2016 September 18th
   group: Sloth Racket (expanded)
   venue: Lancaster Jazz Festival
 
@@ -392,11 +419,13 @@
   group: Sloth Racket
   venue: Brighton Alternative Jazz Festival
 
-- date: 2016 August 30th September 4th
+- date: 2016 August 30th
+  until: 2016 September 4th
   group: participant
   venue: Verantwortung3000, Brandenburg
 
-- date: 2016 July 14th August 13th
+- date: 2016 July 14th
+  until: 2016  August 13th
   group: w/Ryoko Ono, Joshua Weitzel, Ongoing Collective, Howie Reeve
   venue: Japan Tour Tokyo, Nagoya, Kyoto, Oita
 
@@ -408,7 +437,8 @@
   group: various
   venue: KLANGKELLER
 
-- date: 2016 June 30th July 4th
+- date: 2016 June 30th
+  until: 2016 July 4th
   group: w/ Rogier Smal, Otto Willberg
   venue: Berlin, Leipzig, Bremen, Amsterdam
 
@@ -424,11 +454,13 @@
   group: various
   venue: KLANGKELLER
 
-- date: 2016 May 19th 23rd
+- date: 2016 May 19th
+  until: 2016 May 23rd
   group: Richard Scott Lightning Ensemble
   venue: UK Tour
 
-- date: 2016 May 3rd 9th
+- date: 2016 May 3rd
+  until: 2016 May 9th
   group: Sloth Racket
   venue: UK Tour
 
@@ -456,7 +488,8 @@
   group: with Alexander Frangenheim
   venue: Studio Boerne
 
-- date: 2016 March 3rd 6th
+- date: 2016 March 3rd
+  until: 2016 March 6th
   group: ABC gigs and recording
   venue: Manchester
 
@@ -472,7 +505,8 @@
   group: Soramame NYE gig
   venue: Spektrum
 
-- date: 2015 November 15th 17th
+- date: 2015 November 15th
+  until: 2015 November 17th
   group: Trio Riot Swiss Tour
   venue: Switzerland
 
@@ -496,7 +530,8 @@
   group: w/ Laurie Tomkins, Otto Willberg and Andreas Dzialocha
   venue: Del Rex, Germany
 
-- date: 2015 October 1st 3rd
+- date: 2015 October 1st
+  until: 2015 October  3rd
   group: Silence Blossoms (RECORDING NEW ALBUM)
   venue: Stockholm, Sweden
 
@@ -520,11 +555,13 @@
   group: Article XI
   venue: Family Album, Old Spa Function Room, Derby
 
-- date: 2015 March 10th 15th
+- date: 2015 March 10th
+  until: 2015 March 15th
   group: collaborative residency with Part Wild Horses Mane On Both Sides
   venue: Borealis Festival, Bergen, Norway
 
-- date: 2015 February 25th March 1st
+- date: 2015 February 25th
+  until: 2015  March 1st
   group: Silence Blossoms (rehearsals and informal concerts)
   venue: various locations, Stockholm, Sweden
 
@@ -548,7 +585,7 @@
   group: Andreae/Lash/ullen UK TOUR + Grew Quartet
   venue: The Gregson Centre, Lancaster
 
-- date: 2015 February 31st
+- date: 2015 February 28th
   group: Andreae/Lash/ullen UK TOUR + Alex Ward + Matilda Rolfsson
   venue: The Vortex
 
@@ -588,7 +625,8 @@
   group: Penthouse Residency Workshop
   venue: Penthouse, Manchester
 
-- date: 2014 September November
+- date: 2014 September 1st
+  until: 2014 November 1st
   group: Soundart Residency at The Penthouse with David Birchall
   venue: Penthouse, Manchester
 
@@ -660,7 +698,8 @@
   group: Solo + Duo with Daysuke Takaoka
   venue: cafe Muriwui, Tokyo, Japan
 
-- date: 2014 May 29th June 4th
+- date: 2014 May 29th
+  until: 2014 June 4th
   group: Artist Residency at Paradise Air
   venue: Matsudo, Tokyo, Japan
 
@@ -672,13 +711,15 @@
   group: Silence Blossoms (with Led Bid)
   venue: Fusebox, Leeds
 
-- date: 2014 April 26th (evening)
+- date: 2014 April 26th
   group: Silence Blossoms
   venue: Nottingham Contemporary, Nottingham
+  info: evening gig
 
-- date: 2014 April 26th (2pm!!)
+- date: 2014 April 26th
   group: Silence Blossoms
   venue: Poets and Players, John Rylands Library, Manchester
+  info: 2pm gig
 
 - date: 2014 April 25th
   group: Silence Blossoms
@@ -732,7 +773,7 @@
   group: Trio Riot
   venue: Matt & Phred's, Manchester
 
-- date: 2013 November 18th (6pm)
+- date: 2013 November 18th
   group: Trio Riot
   venue: Kimbythesea, Manchester
 
@@ -768,7 +809,8 @@
   group: Andreae/Mwamba/Bennet
   venue: Lost Voices, Liverpool
 
-- date: 2013 October 16th 20th
+- date: 2013 October 16th
+  until: 2013 October 20th
   group: DeKoog
   venue: Lausanne, Switzerland
 
@@ -848,11 +890,12 @@
   group: Silence Blossoms
   venue: Nya Perspektiv in Vesteraas, Sweden
 
-- date: 2013 April 25th 28th
+- date: 2013 April 25th
   group: Attending JazzAhead
   venue: Bremen Germany
 
-- date: 2013 April 4th 15th
+- date: 2013 April 4th
+  until: 2013 April 15th
   group: Talula Does the Hula from Hawaii
   venue: Tour and Recording in Norway
 
@@ -1020,11 +1063,13 @@
   group: trio riot
   venue: Band on the Wall, Manchester
 
-- date: 2011 dec 11th 17th
+- date: 2011 dec 11th
+  until: 2011 dec 17th
   group: Aaargh! tour
   venue: Switzerland
 
-- date: 2011 nov 11th 20th
+- date: 2011 nov 11th
+  until: 2011 nov 20th
   group: Efpi Records showcase tour (Haq, Aaargh!, trio riot)
   venue: England
 
@@ -1032,6 +1077,7 @@
   group: Efpi Records showcase event (Haq, trio riot)
   venue: The Forge Jazz Festival
 
-- date: 2011 nov 7th 10th
+- date: 2011 nov 7th
+  until: 2011 nov 10th
   group: solo tour
   venue: England

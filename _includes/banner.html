@@ -1,5 +1,5 @@
 {% capture nowunix %}{{'now' | date: '%s'}}{% endcapture %}
-{% assign sorted_gigs = site.data.gigs | date_sort | reverse %}
+{% assign sorted_gigs = include.gigs | date_sort %}
 {% for gig in sorted_gigs %}
   {% capture gigtime %}{{gig.date | date: '%s'}}{% endcapture %}
   {% if gigtime > nowunix %}
