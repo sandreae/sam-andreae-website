@@ -4,6 +4,9 @@ title: Releases
 permalink: /releases/
 ---
 
+**[various recordings](bathingtrio.bandcamp.com)** w/ Bathing Trio
+*April 2020 - January 2021*
+
 **[Karantän Tapes](https://giktrecords.bandcamp.com/album/karant-n-tapes)** w/ Felicia Nielson & Hannah Marshall  
 *[giktrecords](https://giktrecords.com/) April 2020*
 

@@ -4,10 +4,13 @@ title: Press
 permalink: /press/
 ---
 
+**[Marshall/Blunt/Andreae reviewed by London Jazz News](https://londonjazznews.com/2020/03/04/brak-festival-of-improvised-music-at-the-hundred-years-gallery/)**
+
+>"*...all three employing bat noises and wolf tones to evoke an eerie kind of classical chamber improv. Extended techniques including blowing into the croft without the mouthpiece and manipulating the mute inside the bell of the horn, pizzicato clicks behind the bridge and whacking the bow against the neck. These are rhythmic and sonic methods to explore feelings less familiar to musical conventions but which always have oblique reference to them. Very much the hinterland of both contemporary composers as well as improvisers. it seemed ‘classical-ish’ not just because of the strings but because of the use of predominantly tones that were fully uttered rather than just percussive. It was carefully, delicately musical with a sustained but softly mesmeric sense of unease.*"
 
 **John Doran, Quietus, 2017 on BBC 3 Late Junction**
 
->“what Sam Andreae does is liminal music, he shows you the clicks, the noises, the breaths, the rattle and hum that producers normally want to take off the record” 
+>“*what Sam Andreae does is liminal music, he shows you the clicks, the noises, the breaths, the rattle and hum that producers normally want to take off the record*” 
 
 **[Hair in the Chimney reviewed by Radio Free Midwich](https://radiofreemidwich.wordpress.com/2017/04/27/corn-toes-throb-rfm-on-diatribes-yearning-kru-sophie-cooper-julian-bradley-sam-andreaedavid-birchallotto-willberg-and-kay-hill/) April 2017**
 
