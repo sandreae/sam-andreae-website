@@ -4,7 +4,7 @@ title: "Bootleg Spatial Recall Website"
 description: Building web based app for Otto Willberg's convolution reverb project
 date: 2021-03-01
 location: London
-categories: other
+categories: coding
 link: https://www.bootlegspatialrecall.net/
 with: Otto Willberg
 img: bootleg.png

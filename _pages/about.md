@@ -20,7 +20,7 @@ Decoder Magazine (2017) about “Cows In Large Pastures”
 *"Andreae delves into an impressive vocabulary of skilfully controlled overtones, rapid keypad flutters and fragile harmonics, glistening like filaments held up to the light."*
 Daniel Spicer, The Wire (2015)
 
-#### SELECTED PROJECTS & PERFORMANCES
+#### SELECTED WORKSHOPS & PERFORMANCES
 
 **Workshops and performances with City University Experimental Ensemble**  
 *March 29th - April 5th 2018* City University, London, UK  
@@ -28,8 +28,6 @@ Daniel Spicer, The Wire (2015)
 *September 23rd 2017* Liebig12, Berlin, Germany  
 **Guest composer and speaker at Pixel Ache Festival “local and decentralized festival”**	  
 *September 22nd - 24th 2017* Helsinki Finland  
-**Rhizomatc “digital community punlishing platform” launched**  
-*August 2017* Online  
 **HOFFNUNG 3000 “decentralized festival for music, art and theory”**  
 *August 24th - 26th 2017* Berlin, Germany  
 **Arts Council England supported “underground music exchange” tour in Japan with Otto Willberg, David Birchall and Mio Ebisu**  
@@ -46,6 +44,44 @@ Daniel Spicer, The Wire (2015)
 *May 2016* UK  
 **Resident with Part Wild Horses Main on Both Sides at experimental music festival Borealis Festival**  
 *March 2015* Bergen, Norway  
+
+#### SELECTED CODING PROJECTS
+
+**p2panda peer-to-peer web library**  
+[code]() *Rust / TypeScript*  
+[website](https://p2panda.org/)  
+[demo](https://p2panda.org/demo/#)  
+
+**Bootleg Spatial Recall diy convolution reverb**  
+[code](https://github.com/sandreae/bootleg-spatial-recall) *JavaScript / Vue / HTML*  
+[website](https://www.bootlegspatialrecall.net/)  
+[API docs](https://bootlegspatialrecall.net/api/api/openapi/redoc/)  
+
+**ANU website and server management dashboard**  
+[code](https://github.com/noiseorchestra/anu-website) *Python / JavaScript / HTML*  
+[website](https://autonomousnoiseunit.co.uk/home)  
+
+**PyPatcher JackTrip hub server with added goodness**  
+[code](https://github.com/noiseorchestra/jacktrip_pypatcher) *Python*  
+
+**Autonomous Noise Unit accessible Raspberry Pi + JackTrip interface**  
+[code](https://github.com/noiseorchestra/autonomous-noise-unit) *Python*  
+
+**AntiuniversityNow festival platform (using H3K)**  
+[website]()
+
+**HOFFNUNG 3000 self-organised festival platform**  
+[code](https://github.com/sandreae/hoffnung3000)
+[website](https://2020.antiuniversity.org/)
+
+**Rhizomatc “digital community punlishing platform” launched**  
+[website](https://rhizomatic.samandreae.com/) *JavaScript / HTML*
+
+**"The Living Room" by Soramame; installation and virtual sound-piece**	 
+[website](https://the-living-room-website.samandreae.com/) *JavaScript / HTML*
+
+ **KLANGKELLER communally organised gig platform**  
+[website](https://www.klangkeller.net/) *JavaScript / HTML*
 
 #### COMPOSITIONS
 
