@@ -22,6 +22,10 @@ Daniel Spicer, The Wire (2015)
 
 #### SELECTED WORKSHOPS & PERFORMANCES
 
+**Noise Orchestra, Autonomous Noise Unit**
+*May - Dec 2020*
+**Foley Theatre in a Box @ 10 Acres of Sound Festival**
+*Sept 2019, Stirchley, Birmingham*
 **Workshops and performances with City University Experimental Ensemble**  
 *March 29th - April 5th 2018* City University, London, UK  
 **"The Living Room" by Soramame; installation and virtual sound-piece**	  
