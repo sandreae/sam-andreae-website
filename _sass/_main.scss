@@ -80,9 +80,13 @@ a:hover {
 }
 
 .img-small {
-	width: 49%;
+	width: 70%;
 	page-break-inside: avoid;
+	@include desktop {
+		width: 30%
+	}
 }
+
 .img-thumb {
 	width: 200px;
 	page-break-inside: avoid;

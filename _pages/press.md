@@ -4,9 +4,30 @@ title: Press
 permalink: /press/
 ---
 
+**Miaow Argument, Cath Roberts & Sam Andreae, Wire Review December 2021**
+
+![Miaow Argument review](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/sam_andreae_wire_review_3.jpeg"}
+
+**[This Friendship Is Sailing - Live on Curious Ear Radio](https://www.freejazzblog.org/2022/04/this-friendship-is-sailing-live-on.html) Fotis Nikolakopoulos, FreeJazzBlog, 2022**
+
+>"*..Live on Curious Ear Radio is a treat, something that anyone who has been drawn to the weird, eclectic and edgy sounds of modern British improvisation shouldn’t miss out. Actually, to be more exact, anyone interested in modern improvisation. The origins of this music, if that has any historical significance for the here and now of all of us, come from the early days of British improvisation and everything (like the Company nights that were curated by Derek Bailey) that happened around the radicalism of Incus Records..*
+
+>*Both sessions, on both sides, are refreshing attempts on anything goes free collective improve, a mix of older generation improvisers (like Maggie Nicols who has been a pioneer working with a lot of important musicians) and a newer generation of improvisers. The pairing is amazing, because they share the same ethos in music making, one that it seems that has never died but still remains alive within the wide variety of musics that can be called free improvisation.*
+
+>*Both sessions feel like long stories that follow a thread that comes into being at the spot. Gurgles and voices, homemade junk (either be it “real” instruments or electronics), reed noises and a constant chatter of ideas and irony. One the best albums I’ve heard in a while. Don’t get fooled by the comparisons to the past, I only tried to provide an aesthetic lineage. This music stands on its own and is, absolutely necessary to be heard.*"
+
+**This Friendship Is Sailing - Cafe Oto, Wire Review July 2021**
+
+![This Friendship is Sailing Cafe Oto review](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/sam_andreae_wire_review_1.jpg"}
+![This Friendship is Sailing Cafe Oto review](/assets/img/happytom.png){:class="img-small lozad" data-src="/assets/img/sam_andreae_wire_review_2.jpg"}
+
 **[Marshall/Blunt/Andreae reviewed by London Jazz News](https://londonjazznews.com/2020/03/04/brak-festival-of-improvised-music-at-the-hundred-years-gallery/)**
 
 >"*...all three employing bat noises and wolf tones to evoke an eerie kind of classical chamber improv. Extended techniques including blowing into the croft without the mouthpiece and manipulating the mute inside the bell of the horn, pizzicato clicks behind the bridge and whacking the bow against the neck. These are rhythmic and sonic methods to explore feelings less familiar to musical conventions but which always have oblique reference to them. Very much the hinterland of both contemporary composers as well as improvisers. it seemed ‘classical-ish’ not just because of the strings but because of the use of predominantly tones that were fully uttered rather than just percussive. It was carefully, delicately musical with a sustained but softly mesmeric sense of unease.*"
+
+**[Live at Ftarri - Andreae/Birchall/Nakamura/Willberg](https://weneednoswords.wordpress.com/2018/07/22/andraea-birchall-nakamura-willberg-live-at-ftarri/) We need no swords, July 2018**
+
+>"*Andreae’s sax honks and parps are as grouchingly well-judged as ever, his vocabulary ranging from the clicks and scrapes of extended technique to mischievous twirls of abrasive melody. Every huff and blart create their own spaces within hectic sonic environs – check his joyful, elephantine wails on halfway through ‘Prism Dialect’ – or puncturing the emptiness with the perfect timing of a stand-up comic.*"
 
 **John Doran, Quietus, 2017 on BBC 3 Late Junction**
 
@@ -20,7 +41,7 @@ permalink: /press/
 
 > *Top-notch weirdo jams from the north of England.....Hair In The Chimney brings an underground sensibility to free improvisation, with the musicians using unconventional techniques to defamiliarise their instruments.*
 
-[Cows In Large Pastures, Bleep](https://bleep.com/release/78816-sam-andreae-cows-in-large-pastures), 2017
+**[Cows In Large Pastures, Bleep](https://bleep.com/release/78816-sam-andreae-cows-in-large-pastures), 2017**
 
 > *A saxophonist by trade, Sam Andreae has constructed a zany record of micro-music and absurdist compositions. All of the tracks here involve human voices, but rather than singing or speech we get garbled yelps or what sound like mouse-choirs. Accordions wheeze away before being discarded for solos on empty bottles or beats tapped out on table-tops. A tough nut to crack at first, the record soon charms you with its hair-brained schemes.*
 

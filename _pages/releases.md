@@ -3,6 +3,16 @@ layout: default
 title: Releases
 permalink: /releases/
 ---
+**[Live on Curious Ear Radio](https://beartownrecords.bigcartel.com/product/this-friendship-is-sailing-live-on-curious-ear-radio)** This Friendship is Sailing  
+*[beartown(https://beartownrecords.bigcartel.com/)]*
+
+**[Miaow Argument](https://sndhls.bigcartel.com/product/094-cath-roberts-and-sam-adreae-miaow-argument-c26)** Cath Roberts & Sam Andreae  
+*[sndholes](https://sndhls.bigcartel.com)*
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=1211867697/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://cathrobots.bandcamp.com/album/miaow-argument">Miaow Argument by Cath Roberts &amp; Sam Andreae</a></iframe>
+
+**[Click here (and there) for more information](https://steepgloss.bandcamp.com/album/click-here-and-there-for-more-information)** w/ Yan Jun and David Birchall  
+*[steep gloss](https://steepgloss.bandcamp.com)*
+<iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=3154825213/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/transparent=true/" seamless><a href="https://steepgloss.bandcamp.com/album/click-here-and-there-for-more-information">Click here (and there) for more information by Sam Andreae/David Birchall/Yan Jun</a></iframe>
 
 **[various recordings](bathingtrio.bandcamp.com)** w/ Bathing Trio
 *April 2020 - January 2021*
