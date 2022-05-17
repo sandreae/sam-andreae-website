@@ -103,7 +103,7 @@ Comet Radio:
   url: comet-radio.com
   city: London
   country: UK
-Miss Hecker: 
+Miss Hecker:
   url: misshecker.org
   city: Berlin
   country: GERMANY
@@ -143,3 +143,11 @@ Boat-Ting:
   url: boat-ting.co.uk
   city: London
   country: UK
+Permian:
+  url: https://www.permian.tokyo
+  city: Tokyo
+  country: JAPAN
+Ftarri:
+  url: https://www.ftarri.com/suidobashi/index.html
+  city: Tokyo
+  country: JAPAN
